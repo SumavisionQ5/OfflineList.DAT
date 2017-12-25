@@ -26,8 +26,8 @@
 			<extension>.gba</extension>
 		</canOpen>
 		<newDat>
-			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="noIntro - Nintendo - Game Boy Advance.xml"></datURL>
+			<datVersionURL>https://raw.githubusercontent.com/nanL/OfflineList.DAT/master/version</datVersionURL>
+			<datURL fileName="noIntro - Nintendo - Game Boy Advance.xml">https://raw.githubusercontent.com/nanL/OfflineList.DAT/master/noIntro%20-%20Nintendo%20-%20Game%20Boy%20Advance.xml</datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>
