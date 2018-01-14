@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
 	<configuration>
-		<datName>chsRoms - Nintendo - NDS - Nintendo DS</datName>
+		<datName>chsRoms - Nintendo - Nintendo DS</datName>
 		<imFolder></imFolder>
 		<datVersion>20180114</datVersion>
-		<system>Nintendo - NDS - Nintendo DS</system>
+		<system>Nintendo - Nintendo DS</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
 		<infos>
@@ -27,7 +27,7 @@
 		</canOpen>
 		<newDat>
 			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="chsRoms - Nintendo - NDS - Nintendo DS.xml"></datURL>
+			<datURL fileName="chsRoms - Nintendo - Nintendo DS.xml"></datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>

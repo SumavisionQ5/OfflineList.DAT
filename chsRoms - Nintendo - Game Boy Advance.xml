@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
 	<configuration>
-		<datName>chsRoms - Nintendo - GBA - Game Boy Advance</datName>
+		<datName>chsRoms - Nintendo - Game Boy Advance</datName>
 		<imFolder></imFolder>
 		<datVersion>20180114</datVersion>
-		<system>Nintendo - GBA - Game Boy Advance</system>
+		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
 		<infos>
@@ -27,7 +27,7 @@
 		</canOpen>
 		<newDat>
 			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="chsRoms - Nintendo - GBA - Game Boy Advance.xml"></datURL>
+			<datURL fileName="chsRoms - Nintendo - Game Boy Advance.xml"></datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>
