@@ -6416,8 +6416,8 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1061</releaseNumber>
-			<title>洛克人 网络战斗 3 - 蓝版</title>
-			<saveType>[简]</saveType>
+			<title>Mega Man Battle Network 3 - Blue Version (USA)</title>
+			<saveType>[简][CHS]</saveType>
 			<romSize>10493952</romSize>
 			<publisher>Capcom</publisher>
 			<location>1</location>
@@ -6596,12 +6596,12 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1778</releaseNumber>
-			<title>高级战争1+2</title>
-			<saveType>(v1.01) [简]</saveType>
+			<title>Game Boy Wars Advance 1+2 (Japan)</title>
+			<saveType>(v1.01) [简](v1.01) [CHS]</saveType>
 			<romSize>16777216</romSize>
 			<publisher>Nintendo</publisher>
 			<location>7</location>
-			<sourceRom>[高级战争吧]</sourceRom>
+			<sourceRom>[高级战争吧][AdvanceWars]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5571194A</romCRC>
