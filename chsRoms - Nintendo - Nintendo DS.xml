@@ -1,3 +1,11 @@
+<br />
+<b>Warning</b>:  simplexml_load_file(): I/O warning : failed to load external entity &quot;chsRoms/NDS-NEWROM.xml&quot; in <b>/Users/nan/Sites/im.nan/apps/romdat/chsRoms.php</b> on line <b>34</b><br />
+<br />
+<b>Notice</b>:  Trying to get property 'games' of non-object in <b>/Users/nan/Sites/im.nan/apps/romdat/chsRoms.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Trying to get property 'game' of non-object in <b>/Users/nan/Sites/im.nan/apps/romdat/chsRoms.php</b> on line <b>36</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/Users/nan/Sites/im.nan/apps/romdat/chsRoms.php</b> on line <b>36</b><br />
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
 	<configuration>

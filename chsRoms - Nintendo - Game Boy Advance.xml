@@ -6899,6 +6899,150 @@
 			<comment></comment>
 			<duplicateID>2578</duplicateID>
 		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1512</releaseNumber>
+			<title>Waliou Xunbao Ji (China)</title>
+			<saveType>(简)</saveType>
+			<romSize>0</romSize>
+			<publisher>Nintendo</publisher>
+			<location>7</location>
+			<sourceRom>Nintendo</sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">CF7585F1</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>Waliou Xunbao Ji (China)</comment>
+			<duplicateID>1512</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1570</releaseNumber>
+			<title>Chaoji Maliou 2 (China)</title>
+			<saveType>(简)</saveType>
+			<romSize>0</romSize>
+			<publisher>Nintendo</publisher>
+			<location>7</location>
+			<sourceRom>Nintendo</sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">14A87B75</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>Chaoji Maliou 2 (China)</comment>
+			<duplicateID>1570</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2018</releaseNumber>
+			<title>Waliou Zhizao (China)</title>
+			<saveType>(简)</saveType>
+			<romSize>0</romSize>
+			<publisher>Nintendo</publisher>
+			<location>7</location>
+			<sourceRom>Nintendo</sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">78A4D2D4</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>Waliou Zhizao (China)</comment>
+			<duplicateID>2018</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2019</releaseNumber>
+			<title>Miteluode - Lingdian Renwu (China)</title>
+			<saveType>(简)</saveType>
+			<romSize>0</romSize>
+			<publisher>Nintendo</publisher>
+			<location>7</location>
+			<sourceRom>Nintendo</sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">E951865C</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>Miteluode - Lingdian Renwu (China)</comment>
+			<duplicateID>2019</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2299</releaseNumber>
+			<title>Yaoxi Dao (China)</title>
+			<saveType>(简)</saveType>
+			<romSize>0</romSize>
+			<publisher>Nintendo</publisher>
+			<location>7</location>
+			<sourceRom>Nintendo</sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">9C32A829</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>Yaoxi Dao (China)</comment>
+			<duplicateID>2299</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2300</releaseNumber>
+			<title>Miteluode Ronghe (China)</title>
+			<saveType>(简)</saveType>
+			<romSize>0</romSize>
+			<publisher>Nintendo</publisher>
+			<location>7</location>
+			<sourceRom>Nintendo</sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">042E5B07</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>Miteluode Ronghe (China)</comment>
+			<duplicateID>2300</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2328</releaseNumber>
+			<title>Chaoji Maliou Shijie (China)</title>
+			<saveType>(简)</saveType>
+			<romSize>0</romSize>
+			<publisher>Nintendo</publisher>
+			<location>7</location>
+			<sourceRom>Nintendo</sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">D97D4156</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>Chaoji Maliou Shijie (China)</comment>
+			<duplicateID>2328</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2733</releaseNumber>
+			<title>Jisu F-Zero Weilai Saiche (China)</title>
+			<saveType>(简)</saveType>
+			<romSize>0</romSize>
+			<publisher>Nintendo</publisher>
+			<location>7</location>
+			<sourceRom>Nintendo</sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">0E5C38B7</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>Jisu F-Zero Weilai Saiche (China)</comment>
+			<duplicateID>2733</duplicateID>
+		</game>
 	</games>
 	<gui>
 		<images width="400" height="4">
