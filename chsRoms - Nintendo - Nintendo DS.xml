@@ -27,7 +27,7 @@
 		</canOpen>
 		<newDat>
 			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="chsRoms - Nintendo - Nintendo DS.xml"></datURL>
+			<datURL fileName="chsRoms - Nintendo - Nintendo DS.xml">http://nan.im/apps/romdat/chsRoms.php?host=nds</datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>
@@ -9274,24 +9274,6 @@
 			<im2CRC></im2CRC>
 			<comment>Pucca Power Up</comment>
 			<duplicateID>5465</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>0000</releaseNumber>
-			<title>www.ndsbbs.com</title>
-			<saveType>NdsBBS原创整理</saveType>
-			<romSize>134217728</romSize>
-			<publisher>NdsBBS</publisher>
-			<location>3</location>
-			<sourceRom>www.ndsbbs.com</sourceRom>
-			<language>4</language>
-			<files>
-				<romCRC extension=".nds">C5678ADE</romCRC>
-			</files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment>www.ndsbbs.com</comment>
-			<duplicateID>0000</duplicateID>
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>

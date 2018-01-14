@@ -27,7 +27,7 @@
 		</canOpen>
 		<newDat>
 			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="noIntro - Nintendo - Nintendo Entertainment System.xml">http://nan.im/apps/romdat/?host=nes</datURL>
+			<datURL fileName="noIntro - Nintendo - Nintendo Entertainment System.xml">http://nan.im/apps/romdat/noIntro.php?host=nes</datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>

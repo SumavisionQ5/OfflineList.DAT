@@ -27,7 +27,7 @@
 		</canOpen>
 		<newDat>
 			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="noIntro - Nintendo - Game Boy Advance.xml">http://nan.im/apps/romdat/?host=gba</datURL>
+			<datURL fileName="noIntro - Nintendo - Game Boy Advance.xml">http://nan.im/apps/romdat/noIntro.php?host=gba</datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>

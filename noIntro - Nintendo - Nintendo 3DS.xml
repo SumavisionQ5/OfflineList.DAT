@@ -27,7 +27,7 @@
 		</canOpen>
 		<newDat>
 			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="noIntro - Nintendo - Nintendo 3DS.xml">http://nan.im/apps/romdat/?host=3ds</datURL>
+			<datURL fileName="noIntro - Nintendo - Nintendo 3DS.xml">http://nan.im/apps/romdat/noIntro.php?host=3ds</datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>

@@ -27,7 +27,7 @@
 		</canOpen>
 		<newDat>
 			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="chsRoms - Nintendo - Game Boy Advance.xml"></datURL>
+			<datURL fileName="chsRoms - Nintendo - Game Boy Advance.xml">http://nan.im/apps/romdat/chsRoms.php?host=gba</datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>
