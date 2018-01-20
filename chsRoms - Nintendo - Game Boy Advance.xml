@@ -49,7 +49,7 @@
 			<romSize>4209952</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">27ECAB1A</romCRC>
@@ -67,7 +67,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BCDB7875</romCRC>
@@ -85,7 +85,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CC0F1BDD</romCRC>
@@ -103,7 +103,7 @@
 			<romSize>4271792</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[麻团][Matuan]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2A399753</romCRC>
@@ -121,7 +121,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1373EB55</romCRC>
@@ -139,7 +139,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7C4515A2</romCRC>
@@ -157,7 +157,7 @@
 			<romSize>4224224</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狂细胞][Madcell]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E5AAB7F7</romCRC>
@@ -175,7 +175,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E6DD3BAB</romCRC>
@@ -193,7 +193,7 @@
 			<romSize>5242880</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E531873F</romCRC>
@@ -211,7 +211,7 @@
 			<romSize>5242880</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7C229741</romCRC>
@@ -229,7 +229,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Ayi][阿一]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DD5A48FB</romCRC>
@@ -247,7 +247,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[阿一][Zymgundam]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E4EF03C3</romCRC>
@@ -265,7 +265,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Gleneo][Bootleg &amp; Gleneo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BC747C86</romCRC>
@@ -283,7 +283,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[银手大官人]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">790AB2D4</romCRC>
@@ -301,7 +301,7 @@
 			<romSize>8406932</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[左马][Zuoma]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F5D0E8DB</romCRC>
@@ -319,7 +319,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">AE3A8C93</romCRC>
@@ -337,7 +337,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">AA90FEFC</romCRC>
@@ -355,7 +355,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">968A5317</romCRC>
@@ -373,7 +373,7 @@
 			<romSize>9256960</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP&amp;Elffinal][CGP &amp; Elffinal]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C48E291F</romCRC>
@@ -391,7 +391,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">79B3ADFA</romCRC>
@@ -409,7 +409,7 @@
 			<romSize>4233872</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Chrono]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A8DE3757</romCRC>
@@ -427,7 +427,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F3F99E31</romCRC>
@@ -445,7 +445,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Chrono]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8CEB9F15</romCRC>
@@ -463,7 +463,7 @@
 			<romSize>4789433</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FC6321BF</romCRC>
@@ -481,7 +481,7 @@
 			<romSize>4949819</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Qiandao][千岛]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4CA9D5AA</romCRC>
@@ -499,7 +499,7 @@
 			<romSize>5439472</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[千岛 &amp; 高级战争吧][Qiandao &amp; AdvanceWars]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">AF137615</romCRC>
@@ -517,7 +517,7 @@
 			<romSize>10493952</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">22D1761C</romCRC>
@@ -535,7 +535,7 @@
 			<romSize>9177344</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP&amp;Pgcg][CGP &amp; PGCG]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A857303A</romCRC>
@@ -553,7 +553,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版][Bootleg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1B2370D5</romCRC>
@@ -571,7 +571,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FBE6DC08</romCRC>
@@ -589,7 +589,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">01E8E145</romCRC>
@@ -607,7 +607,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">94C22BDC</romCRC>
@@ -625,7 +625,7 @@
 			<romSize>8705280</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Jpgmfan&amp;逆转Ace][Jpgmfan &amp; Nzace]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">09C44DC9</romCRC>
@@ -643,7 +643,7 @@
 			<romSize>9382468</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">9CE98A00</romCRC>
@@ -661,7 +661,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Lifeiyu&amp;Romanticdog][Bootleg &amp; Lifeiyu &amp; Romanticdog]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A636D8A0</romCRC>
@@ -679,7 +679,7 @@
 			<romSize>8596768</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[模拟天下&amp;CGP][CGP &amp; Emucn]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A520DF3E</romCRC>
@@ -697,7 +697,7 @@
 			<romSize>8596768</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[模拟天下&amp;CGP][CGP &amp; Emucn]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2192955D</romCRC>
@@ -715,7 +715,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Sjf]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">65C1B49E</romCRC>
@@ -733,7 +733,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Goldegg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">74EA0144</romCRC>
@@ -751,7 +751,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版][Bootleg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">EEEFA223</romCRC>
@@ -769,7 +769,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3300553D</romCRC>
@@ -787,7 +787,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Jaychou001]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F04051F2</romCRC>
@@ -805,7 +805,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Lirdrepus]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0515AD04</romCRC>
@@ -823,7 +823,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Lirdrepus]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C3000305</romCRC>
@@ -841,7 +841,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狂细胞][Madcell]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1EDBB8ED</romCRC>
@@ -859,7 +859,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C5BC025F</romCRC>
@@ -877,7 +877,7 @@
 			<romSize>16777216 </romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[九柳][Kuyagi]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2A0F130C</romCRC>
@@ -895,7 +895,7 @@
 			<romSize>4203256</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">14F6B391</romCRC>
@@ -913,7 +913,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[模拟天下][Emucn]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4199F6C1</romCRC>
@@ -931,7 +931,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;唐晓东][Bootleg &amp; Tangxiaodong]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DA006E58</romCRC>
@@ -949,7 +949,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5925D9C9</romCRC>
@@ -967,7 +967,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Jaychou001]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">569D0CF7</romCRC>
@@ -985,7 +985,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Xiahongbo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4F8225DD</romCRC>
@@ -1003,7 +1003,7 @@
 			<romSize>9676785</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Superxyj]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">823C3801</romCRC>
@@ -1021,7 +1021,7 @@
 			<romSize>10415546</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP&amp;W_anthony][CGP &amp; W_anthony]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4A7BF795</romCRC>
@@ -1039,7 +1039,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1F19D989</romCRC>
@@ -1057,7 +1057,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">250AD578</romCRC>
@@ -1075,7 +1075,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Zhangcheng][Bootleg &amp; Zhangcheng]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7360100E</romCRC>
@@ -1093,7 +1093,7 @@
 			<romSize>8454144</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">46AE66EB</romCRC>
@@ -1111,7 +1111,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Swelin&amp;6lay&amp;Guys&amp;Punkemnx][Swelin &amp; 6lay &amp; Guys &amp; Punkemnx]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F89B26EA</romCRC>
@@ -1129,7 +1129,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F7764506</romCRC>
@@ -1147,7 +1147,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Killy][Kiny]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">376ACF82</romCRC>
@@ -1165,7 +1165,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Puszta][盗版&amp;Gymzatan][Bootleg &amp; Gymzatan]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8F4C3F33</romCRC>
@@ -1183,7 +1183,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;施珂昱][盗版&amp;Gymzatan][Bootleg &amp; Gymzatan]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5AC01C3D</romCRC>
@@ -1201,7 +1201,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D280479F</romCRC>
@@ -1219,7 +1219,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Hbs][Bootleg &amp; Hbs]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1D0CEA4D</romCRC>
@@ -1237,7 +1237,7 @@
 			<romSize>9034688</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">68676832</romCRC>
@@ -1255,7 +1255,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">29C0FF31</romCRC>
@@ -1273,7 +1273,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Apex]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">11371AAA</romCRC>
@@ -1291,7 +1291,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Eagle]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D950BB68</romCRC>
@@ -1309,7 +1309,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[唐甜李][Jaychou001]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">6338A42C</romCRC>
@@ -1327,7 +1327,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E0E812D2</romCRC>
@@ -1345,7 +1345,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D1C76C21</romCRC>
@@ -1363,7 +1363,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>16</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[零组][Zero]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2C942D85</romCRC>
@@ -1381,7 +1381,7 @@
 			<romSize>5242880</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E81C3CE5</romCRC>
@@ -1399,7 +1399,7 @@
 			<romSize>9437184</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7B22CE04</romCRC>
@@ -1417,7 +1417,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C280A3E1</romCRC>
@@ -1435,7 +1435,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[阿渊][Ayuan]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7C5CACD7</romCRC>
@@ -1453,7 +1453,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">04A6D44B</romCRC>
@@ -1471,7 +1471,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">69E325AF</romCRC>
@@ -1489,7 +1489,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E82CF455</romCRC>
@@ -1507,7 +1507,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Kinglly]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E43D2708</romCRC>
@@ -1525,7 +1525,7 @@
 			<romSize>10144316</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C323B501</romCRC>
@@ -1543,7 +1543,7 @@
 			<romSize>12582912</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Eastred]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7FD7FF2E</romCRC>
@@ -1561,7 +1561,7 @@
 			<romSize>8771868</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Eastred]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">81A839A5</romCRC>
@@ -1579,7 +1579,7 @@
 			<romSize>8716032</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F1E1DAC9</romCRC>
@@ -1597,7 +1597,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[伤雪&amp;Sody][Shangxue &amp; Sody]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FB1164FB</romCRC>
@@ -1615,7 +1615,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F3812842</romCRC>
@@ -1633,7 +1633,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Chrono]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">6E0FAB27</romCRC>
@@ -1651,7 +1651,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[模拟天下][Emucn]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">63EC6544</romCRC>
@@ -1669,7 +1669,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Kinglly]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B3D607FD</romCRC>
@@ -1687,7 +1687,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7032AB31</romCRC>
@@ -1705,7 +1705,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Hulihutu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">769B7942</romCRC>
@@ -1723,7 +1723,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D4DE6480</romCRC>
@@ -1741,7 +1741,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[掌机王者汉化组][Ndsgba]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C51EF8C1</romCRC>
@@ -1759,7 +1759,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1489592E</romCRC>
@@ -1777,7 +1777,7 @@
 			<romSize>9515808</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7CD15B0C</romCRC>
@@ -1795,7 +1795,7 @@
 			<romSize>9515808</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">AF5E6119</romCRC>
@@ -1813,7 +1813,7 @@
 			<romSize>8518208</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Elite&amp;Pmgba][Elite&amp;口袋妖怪网][Elite &amp; Pmgba]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">49690CDF</romCRC>
@@ -1831,7 +1831,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Metore][Bootleg &amp; Metore]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">04D85B35</romCRC>
@@ -1849,7 +1849,7 @@
 			<romSize>8465528</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pmgba][口袋妖怪网]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">00D8AD5F</romCRC>
@@ -1867,7 +1867,7 @@
 			<romSize>8465528</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pmgba][口袋妖怪网]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B1BC56F6</romCRC>
@@ -1885,7 +1885,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[模拟天下][Emucn]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CBB48D26</romCRC>
@@ -1903,7 +1903,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Metore][Bootleg &amp; Metore]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">6C204618 </romCRC>
@@ -1921,7 +1921,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">37E513CF</romCRC>
@@ -1939,7 +1939,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C2B0FA0C</romCRC>
@@ -1957,7 +1957,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Larrywalker]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4D93924F</romCRC>
@@ -1975,7 +1975,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E1B0C7B0</romCRC>
@@ -1993,7 +1993,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">9901171F</romCRC>
@@ -2011,7 +2011,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狂细胞][Madcell]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8C5E2EE2</romCRC>
@@ -2029,7 +2029,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">52E992F3</romCRC>
@@ -2047,7 +2047,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Gudushizi&amp;Hengxingyue&amp;天空联盟][孤独狮子&amp;恒星月&amp;天空联盟][Gudushizi &amp; Hengxingyue &amp; Sky League]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CCEC2091</romCRC>
@@ -2065,7 +2065,7 @@
 			<romSize>8903856</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D1AE060D</romCRC>
@@ -2083,7 +2083,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Fei Yun]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">18748C68</romCRC>
@@ -2101,7 +2101,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BF81CA12</romCRC>
@@ -2119,7 +2119,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DBDB69A5</romCRC>
@@ -2137,7 +2137,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CB50F40B</romCRC>
@@ -2155,7 +2155,7 @@
 			<romSize>10361600</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">ABE57944</romCRC>
@@ -2173,7 +2173,7 @@
 			<romSize>10361856</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E808E3A6</romCRC>
@@ -2191,7 +2191,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Kiny]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A081038B</romCRC>
@@ -2209,7 +2209,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Kiny]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">00F1E149</romCRC>
@@ -2227,7 +2227,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">03B87CC4</romCRC>
@@ -2245,7 +2245,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">046502CD</romCRC>
@@ -2263,7 +2263,7 @@
 			<romSize>8573700</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[模拟天下&amp;枫雪动漫][Emucn &amp; Fengxuedongman]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4A5F3944</romCRC>
@@ -2281,7 +2281,7 @@
 			<romSize>8573700</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[模拟天下&amp;枫雪动漫][Emucn &amp; Fengxuedongman]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2AFB180D</romCRC>
@@ -2299,7 +2299,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4AE4EA8C</romCRC>
@@ -2317,7 +2317,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E16FAD40</romCRC>
@@ -2335,7 +2335,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Madcell&amp;Shangxue&amp;Punkemnx][狂细胞&amp;伤雪&amp;Punkemnx][Madcell &amp; Shangxue &amp; Punkemnx]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">88C4D436</romCRC>
@@ -2353,7 +2353,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼组][Wolf]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B40303D8</romCRC>
@@ -2371,7 +2371,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>16</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Mobile&amp;Elffinal][Mobile &amp; Elffinal]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C0B98B76</romCRC>
@@ -2389,7 +2389,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>16</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Mobile&amp;Elffinal][Mobile &amp; Elffinal]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5C78240C</romCRC>
@@ -2407,7 +2407,7 @@
 			<romSize>8400392</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">26E7A705</romCRC>
@@ -2425,7 +2425,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP&amp;Emucn][CGP&amp;模拟天下][CGP &amp; Emucn]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FF11476C</romCRC>
@@ -2443,7 +2443,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP&amp;Emucn][CGP&amp;模拟天下][CGP &amp; Emucn]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E69CC50E</romCRC>
@@ -2461,7 +2461,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP &amp;Emucn &amp;矿石镇][CGP &amp;模拟天下 &amp;矿石镇][CGP &amp; Emucn &amp; MineralTown]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">22D27456</romCRC>
@@ -2479,7 +2479,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">6BFDD7AE</romCRC>
@@ -2497,7 +2497,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4777841C</romCRC>
@@ -2515,7 +2515,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D973718F</romCRC>
@@ -2533,7 +2533,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7AEF4EDC</romCRC>
@@ -2551,7 +2551,7 @@
 			<romSize>19030368</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">042C159C</romCRC>
@@ -2569,7 +2569,7 @@
 			<romSize>19086336</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Superxyj]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">EAFA4EF0</romCRC>
@@ -2587,7 +2587,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[林拓][Linta]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0CFB26B1</romCRC>
@@ -2605,7 +2605,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2E0F89C9</romCRC>
@@ -2623,7 +2623,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Guys]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DEF9CADA</romCRC>
@@ -2641,7 +2641,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DFD0BC52</romCRC>
@@ -2659,7 +2659,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[九柳][Kuyagi]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">22EFD2B9</romCRC>
@@ -2677,7 +2677,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[九柳][Kuyagi]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">26CBC195</romCRC>
@@ -2695,7 +2695,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[恒星月][Hengxingyue]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E2C3760B</romCRC>
@@ -2713,7 +2713,7 @@
 			<romSize>8585216</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Baicj]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BB7C325A</romCRC>
@@ -2731,7 +2731,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Luxin]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8F211DB5</romCRC>
@@ -2749,7 +2749,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[高级战争吧][AdvanceWars]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F1E29A92</romCRC>
@@ -2767,7 +2767,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Ershu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">66705B82</romCRC>
@@ -2785,7 +2785,7 @@
 			<romSize>8482340</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Aic]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E0DAB0D6</romCRC>
@@ -2803,7 +2803,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">01E74D21</romCRC>
@@ -2821,7 +2821,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">43DA2360</romCRC>
@@ -2839,7 +2839,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">ED7B42F0</romCRC>
@@ -2857,7 +2857,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">ADCD2A92</romCRC>
@@ -2875,7 +2875,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0DFB6770</romCRC>
@@ -2893,7 +2893,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">668262F8</romCRC>
@@ -2911,7 +2911,7 @@
 			<romSize>8732672</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[千岛&amp;叶子][Qiandao &amp; Yezi]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A0047979</romCRC>
@@ -2929,7 +2929,7 @@
 			<romSize>8427668</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[红魔][Reddevil]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D156F769</romCRC>
@@ -2947,7 +2947,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB&amp;口袋吧][TGB &amp; Koudai8]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">ED7C5244</romCRC>
@@ -2965,7 +2965,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游&amp;熊组&amp;名侦探柯南事务所][Manyo &amp; Bear &amp; Aptx4869]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">6234D9F3</romCRC>
@@ -2983,7 +2983,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游&amp;熊组&amp;名侦探柯南事务所][Manyo &amp; Bear &amp; Aptx4869]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">02C1AB97</romCRC>
@@ -3001,7 +3001,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[张老批][Laopix]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C8B18C7E</romCRC>
@@ -3019,7 +3019,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天才GK][Tiancaigk]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">EF757778</romCRC>
@@ -3037,7 +3037,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[勇者汉化组&amp;狼组&amp;天使汉化组][Yongzhe &amp; Wolf &amp; Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">04B8220C</romCRC>
@@ -3055,7 +3055,7 @@
 			<romSize>6291456</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7D2201D1</romCRC>
@@ -3073,7 +3073,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[廖永新][Waxensonny]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1A993838</romCRC>
@@ -3091,7 +3091,7 @@
 			<romSize>17870147</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[千岛&amp;叶子][Qiandao &amp; Yezi]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">863F59D1</romCRC>
@@ -3109,7 +3109,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Shuo_chen]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E7C9F26A</romCRC>
@@ -3127,7 +3127,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Leaf]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2BFC85EC</romCRC>
@@ -3145,7 +3145,7 @@
 			<romSize>8388567</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Zario]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2952C6B0</romCRC>
@@ -3163,7 +3163,7 @@
 			<romSize>8500224</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes&amp;灰米&amp;恒星月][Flyeyes &amp; Huimi &amp; Hengxingyue]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CDB2D045</romCRC>
@@ -3181,7 +3181,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">09AEBF7F</romCRC>
@@ -3199,7 +3199,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组&amp;漫游][Angel &amp; Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E82FDCCD</romCRC>
@@ -3217,7 +3217,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组&amp;漫游][Angel &amp; Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">9E0C95D0</romCRC>
@@ -3235,7 +3235,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>16</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">74FA3F7C</romCRC>
@@ -3253,7 +3253,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Wind Flowers]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F31B20AF</romCRC>
@@ -3271,7 +3271,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2AD76580</romCRC>
@@ -3289,7 +3289,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">894B5704</romCRC>
@@ -3307,7 +3307,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4FF5B39D</romCRC>
@@ -3325,7 +3325,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1A5956B3</romCRC>
@@ -3343,7 +3343,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Middle333]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">96900F94</romCRC>
@@ -3361,7 +3361,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[K]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">18D56348</romCRC>
@@ -3379,7 +3379,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Middle333]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7733436F</romCRC>
@@ -3397,7 +3397,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[K &amp; MineralTown]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4676E33B</romCRC>
@@ -3415,7 +3415,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版 &amp; Maxzhou88][Bootleg &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">52290B0B</romCRC>
@@ -3433,7 +3433,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版 &amp; Maxzhou88][Bootleg &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B25FF781</romCRC>
@@ -3451,7 +3451,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[混沌星辰][Chaosstars]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8769BB1E</romCRC>
@@ -3469,7 +3469,7 @@
 			<romSize>8287751</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Sakura0s]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">33800522</romCRC>
@@ -3487,7 +3487,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">040210B1</romCRC>
@@ -3505,7 +3505,7 @@
 			<romSize>10761500</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0A1F4E9A</romCRC>
@@ -3523,7 +3523,7 @@
 			<romSize>9128669</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[逆转Ace][Nzace]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3307E60A</romCRC>
@@ -3541,7 +3541,7 @@
 			<romSize>9482992</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1A27CFFE</romCRC>
@@ -3559,7 +3559,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Sanchidiantai][盗版&amp;三池典太][Bootleg &amp; Sanchidiantai]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4E1E5D90</romCRC>
@@ -3577,7 +3577,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版][Bootleg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D70DA3FE</romCRC>
@@ -3595,7 +3595,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[口袋吧][Koudai8]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">934FF829</romCRC>
@@ -3613,7 +3613,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Sanchidiantai][Bootleg &amp; Sanchidiantai]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3A4F86A5</romCRC>
@@ -3631,7 +3631,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">392A4046</romCRC>
@@ -3649,7 +3649,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Knightsan]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0EF63BB0</romCRC>
@@ -3667,7 +3667,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Zxp]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C53DA5A4</romCRC>
@@ -3685,7 +3685,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狂细胞][Madcell]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E30FF2CC</romCRC>
@@ -3703,7 +3703,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Chrono]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0970387C</romCRC>
@@ -3721,7 +3721,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg&amp;Nrw][PGCG &amp; Nrw]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FFABBE7A</romCRC>
@@ -3739,7 +3739,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[DD]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">04833DD5</romCRC>
@@ -3757,7 +3757,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">94A5400E</romCRC>
@@ -3775,7 +3775,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">25E0F17F</romCRC>
@@ -3793,7 +3793,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP][Nailgo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FF4153B0</romCRC>
@@ -3811,7 +3811,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;9c][Bootleg &amp; 9c]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7EC4968C</romCRC>
@@ -3829,7 +3829,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3FDBCEEB</romCRC>
@@ -3847,7 +3847,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C7A70E80</romCRC>
@@ -3865,7 +3865,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4081C04D</romCRC>
@@ -3883,7 +3883,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DAE40664</romCRC>
@@ -3901,7 +3901,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Nailgo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">55AA5F7C</romCRC>
@@ -3919,7 +3919,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg&amp;Nrw][PGCG &amp; Nrw]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A7F0A348</romCRC>
@@ -3937,7 +3937,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E1023BD6</romCRC>
@@ -3955,7 +3955,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FE1ADCA1</romCRC>
@@ -3973,7 +3973,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天空联盟][Sky League]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1C3AA547</romCRC>
@@ -3991,7 +3991,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Rising Sun][Sky League]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B421CA41</romCRC>
@@ -4009,7 +4009,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">03712789</romCRC>
@@ -4027,7 +4027,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[空气][Air]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">33DE2ECD</romCRC>
@@ -4045,7 +4045,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F77E470D</romCRC>
@@ -4063,7 +4063,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Rom的传人][Romman]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">50693B9F</romCRC>
@@ -4081,7 +4081,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">29029D50</romCRC>
@@ -4099,7 +4099,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7A953AAD</romCRC>
@@ -4117,7 +4117,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Fhz]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5A83F2FF</romCRC>
@@ -4135,7 +4135,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>(50% Beta) [TGB&amp;逆转Ace][TGB &amp; Nzace]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">54E8DA86</romCRC>
@@ -4153,7 +4153,7 @@
 			<romSize>8621272</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[第三世纪][Disanshiji]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D477C582</romCRC>
@@ -4171,7 +4171,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Yq123147159]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">83C8668E</romCRC>
@@ -4189,7 +4189,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Superjill&amp;Crystal][Superjill &amp; Crystal]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B2F40186</romCRC>
@@ -4207,7 +4207,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Superjill&amp;Crystal][Superjill &amp; Crystal]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">19187366</romCRC>
@@ -4225,7 +4225,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;西门吹雪][Bootleg &amp; Ximenchuixue]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">58B544F5</romCRC>
@@ -4243,7 +4243,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[梦幻鸟][Dreambird]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">715C8DD7</romCRC>
@@ -4261,7 +4261,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">46FC3AC1</romCRC>
@@ -4279,7 +4279,7 @@
 			<romSize>8441068</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2BFA4DB0</romCRC>
@@ -4297,7 +4297,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版][Bootleg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C17D77E4</romCRC>
@@ -4315,7 +4315,7 @@
 			<romSize>17867653</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[啪嗒啪嗒][SwordcraftStory]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A3BA1B5B</romCRC>
@@ -4333,7 +4333,7 @@
 			<romSize>17867653</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[啪嗒啪嗒][SwordcraftStory]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7D146C18</romCRC>
@@ -4351,7 +4351,7 @@
 			<romSize>8495104</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组&amp;漫游][Angel &amp; Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8D9B7C28</romCRC>
@@ -4369,7 +4369,7 @@
 			<romSize>8495104</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组&amp;漫游][Angel &amp; Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D0466AFA</romCRC>
@@ -4387,7 +4387,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[零组][Zero]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C69E3627</romCRC>
@@ -4405,7 +4405,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[零组][Zero]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">046DBF34</romCRC>
@@ -4423,7 +4423,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Awaixp][Bootleg &amp; Awaixp]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D23F6484</romCRC>
@@ -4441,7 +4441,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[口袋吧][Koudai8]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3FC20323</romCRC>
@@ -4459,7 +4459,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">79609D14</romCRC>
@@ -4477,7 +4477,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B366EE47</romCRC>
@@ -4495,7 +4495,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[风小子][Fengxiaozi]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C567447B</romCRC>
@@ -4513,7 +4513,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Beq]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A5E6730A</romCRC>
@@ -4531,7 +4531,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BA222877</romCRC>
@@ -4549,7 +4549,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7C32326C</romCRC>
@@ -4567,7 +4567,7 @@
 			<romSize>8517609</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[白河忧][Baiheyou]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">83AE595C</romCRC>
@@ -4585,7 +4585,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>16</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Beq&amp;TGB][Beq &amp; TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A6B96C1C</romCRC>
@@ -4603,7 +4603,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DEAD9991</romCRC>
@@ -4621,7 +4621,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5159E1D9</romCRC>
@@ -4639,7 +4639,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼组&amp;天幻网][Wolf &amp; Ffsky]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BAABFF26</romCRC>
@@ -4657,7 +4657,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼组&amp;天幻网][Wolf &amp; Ffsky]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BB407638</romCRC>
@@ -4675,7 +4675,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼组&amp;天幻网][Wolf &amp; Ffsky]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3134DAF8</romCRC>
@@ -4693,7 +4693,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Rom的传人][Romman]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">333D1B4F</romCRC>
@@ -4711,7 +4711,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Rom的传人][Romman]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">9ABBF4AC</romCRC>
@@ -4729,7 +4729,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F6908F17</romCRC>
@@ -4747,7 +4747,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;游戏炒饭][Bootleg &amp; Youxichaofan]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7A9C17CC</romCRC>
@@ -4765,7 +4765,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1C1BF15A</romCRC>
@@ -4783,7 +4783,7 @@
 			<romSize>8593920</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A3A71C72</romCRC>
@@ -4801,7 +4801,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天空联盟&amp;廖永新][Sky League &amp; Waxensonny]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">69F599B5</romCRC>
@@ -4819,7 +4819,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8FF667AB</romCRC>
@@ -4837,7 +4837,7 @@
 			<romSize>15990784</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Colorcat][Bootleg &amp; Colorcat]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">713F5FBF</romCRC>
@@ -4855,7 +4855,7 @@
 			<romSize>18086272</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1C0240FF</romCRC>
@@ -4873,7 +4873,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BD975147</romCRC>
@@ -4891,7 +4891,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Fciq][Bootleg &amp; Fciq]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2685F6AD</romCRC>
@@ -4909,7 +4909,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星宇工作室][Xingyu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FC434645</romCRC>
@@ -4927,7 +4927,7 @@
 			<romSize>17825792</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3FB8346C</romCRC>
@@ -4945,7 +4945,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3451522A</romCRC>
@@ -4963,7 +4963,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天空联盟][Sky League]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">107418D4</romCRC>
@@ -4981,7 +4981,7 @@
 			<romSize>8569088</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C659A12E</romCRC>
@@ -4999,7 +4999,7 @@
 			<romSize>8569088</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5C5F7B88</romCRC>
@@ -5017,7 +5017,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[XDD]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8BA2995A</romCRC>
@@ -5035,7 +5035,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">292C2E97</romCRC>
@@ -5053,7 +5053,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB&amp;逆转Ace][TGB &amp; Nzace]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">973A4D94</romCRC>
@@ -5071,7 +5071,7 @@
 			<romSize>2097152</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C75E1CFA</romCRC>
@@ -5089,7 +5089,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Louyisd]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3F85F95E</romCRC>
@@ -5107,7 +5107,7 @@
 			<romSize>17006881</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Srworld]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0F71D8EC</romCRC>
@@ -5125,7 +5125,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BC471BDA</romCRC>
@@ -5143,7 +5143,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7756188B</romCRC>
@@ -5161,7 +5161,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Dna]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">633F747F</romCRC>
@@ -5179,7 +5179,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Rom的传人][Romman]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F7288A2D</romCRC>
@@ -5197,7 +5197,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3C7A3025</romCRC>
@@ -5215,7 +5215,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天幻网&amp;Pgcg][Ffsky &amp; PGCG]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1AC6F63E</romCRC>
@@ -5233,7 +5233,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B4EFEF2F</romCRC>
@@ -5251,7 +5251,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">16B8D95E</romCRC>
@@ -5269,7 +5269,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F2ECA2A8</romCRC>
@@ -5287,7 +5287,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼狼小酷][Langlangxiaoku]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">43FFA477</romCRC>
@@ -5305,7 +5305,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Dna&amp;Pgcg][Dna &amp; PGCG]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">475C310C</romCRC>
@@ -5323,7 +5323,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Hyopo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A16F5D12</romCRC>
@@ -5341,7 +5341,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Ppp]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CCA38B0A</romCRC>
@@ -5359,7 +5359,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DF4ED80A</romCRC>
@@ -5377,7 +5377,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[廖永新][Waxensonny]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D5C9ABB3</romCRC>
@@ -5395,7 +5395,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Jctg]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F6EB50E2</romCRC>
@@ -5413,7 +5413,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes&amp;TGB][Flyeyes &amp; TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DBD9F2CC</romCRC>
@@ -5431,7 +5431,7 @@
 			<romSize>8138944</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Iqueids]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">527628B2</romCRC>
@@ -5449,7 +5449,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Chyt]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4A7A22C6</romCRC>
@@ -5467,7 +5467,7 @@
 			<romSize>14357872</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Fciq][Bootleg &amp; Fciq]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2CF3DEDE</romCRC>
@@ -5485,7 +5485,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Dc890]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">993B9C54</romCRC>
@@ -5503,7 +5503,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">DE601B6D</romCRC>
@@ -5521,7 +5521,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Kunlunshen&amp;Qqture][Bootleg &amp; Kunlunshen &amp; Qqture]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FD91899F</romCRC>
@@ -5539,7 +5539,7 @@
 			<romSize>8394016</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3A703643</romCRC>
@@ -5557,7 +5557,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0BDD80BC</romCRC>
@@ -5575,7 +5575,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[啪嗒啪嗒][SwordcraftStory]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">6A5B099A</romCRC>
@@ -5593,7 +5593,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[空气][Air]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">15CE797E</romCRC>
@@ -5611,7 +5611,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[狼组&amp;APEX][Wolf &amp; APEX]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8C23E010</romCRC>
@@ -5629,7 +5629,7 @@
 			<romSize>10150016</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">855D1AEF</romCRC>
@@ -5647,7 +5647,7 @@
 			<romSize>10150016</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7D6D474D</romCRC>
@@ -5665,7 +5665,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5DDD1988</romCRC>
@@ -5683,7 +5683,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天空联盟][Sky League]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BB53DFC3</romCRC>
@@ -5701,7 +5701,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Freedom]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BC066443</romCRC>
@@ -5719,7 +5719,7 @@
 			<romSize>8696850</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Leleu]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D3F293FD</romCRC>
@@ -5737,7 +5737,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Jirachi][Bootleg &amp; Jirachi]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E5D2C720</romCRC>
@@ -5755,7 +5755,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[烈火宝龙][Liehuobaolong]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BB1057EA</romCRC>
@@ -5773,7 +5773,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[小刺][Xiaoci]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FA256807</romCRC>
@@ -5791,7 +5791,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">20B5913E</romCRC>
@@ -5809,7 +5809,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[廖永新][Waxensonny]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E3A900F2</romCRC>
@@ -5827,7 +5827,7 @@
 			<romSize>8408064</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">FF346BB1</romCRC>
@@ -5845,7 +5845,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5A4936D1</romCRC>
@@ -5863,7 +5863,7 @@
 			<romSize>8520332</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[WGF][WGF &amp; Yuyang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">7C9BF014</romCRC>
@@ -5881,7 +5881,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[yybray]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">47F86A61</romCRC>
@@ -5899,7 +5899,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[飞越无尽暗空][Darkempire]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">14E2C63F</romCRC>
@@ -5917,7 +5917,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[奥盟][Ultraman Club]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4F8ABFC6</romCRC>
@@ -5935,7 +5935,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游&amp;空气][Manyo &amp; Air]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">21FDF96C</romCRC>
@@ -5953,7 +5953,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[ARIX]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">8690B34F</romCRC>
@@ -5971,7 +5971,7 @@
 			<romSize>4250264</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">51BFA615</romCRC>
@@ -5989,7 +5989,7 @@
 			<romSize>8415616</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[qqgba]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2F318D09</romCRC>
@@ -6007,7 +6007,7 @@
 			<romSize>8296720</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[qqgba]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F5319E32</romCRC>
@@ -6025,7 +6025,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游&amp;TGB][Manyo &amp; TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2B5384E1</romCRC>
@@ -6043,7 +6043,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB&amp;逆转Ace&amp;太阳少年]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1036EF7C</romCRC>
@@ -6061,7 +6061,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Jiuban][九班]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A812A9DC</romCRC>
@@ -6079,7 +6079,7 @@
 			<romSize>8749056</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3FE3D5D4</romCRC>
@@ -6097,7 +6097,7 @@
 			<romSize>8749056</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">C35EA17E</romCRC>
@@ -6115,7 +6115,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[深藏竹楼][Shencangzhulou]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">425834A0</romCRC>
@@ -6133,7 +6133,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[漫游&amp;TGB&amp;口袋群星SP][Manyo &amp; TGB &amp; Pocketstars SP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">064DEA4D</romCRC>
@@ -6151,7 +6151,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[口袋群星SP][Pocketstars SP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">3589923D</romCRC>
@@ -6169,7 +6169,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[口袋群星SP][Pocketstars SP]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E9B69BE3</romCRC>
@@ -6187,7 +6187,7 @@
 			<romSize>10485760</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[啪嗒啪嗒&amp;飞越无尽暗空][SwordcraftStory]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B899E306</romCRC>
@@ -6205,7 +6205,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[啪嗒啪嗒 &amp; 鸟文][Padapada &amp; Niaowen]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">556DD1CC</romCRC>
@@ -6223,7 +6223,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Crossztc]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">882145DD</romCRC>
@@ -6241,7 +6241,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Crossztc]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">41122207</romCRC>
@@ -6259,7 +6259,7 @@
 			<romSize>17183552</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D6E7A6C0</romCRC>
@@ -6277,7 +6277,7 @@
 			<romSize>17183552</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">76B1F3BF</romCRC>
@@ -6295,7 +6295,7 @@
 			<romSize>8573204</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天幻网][Ffsky]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">626D7CD5</romCRC>
@@ -6313,7 +6313,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Yq123147159]</sourceRom>
 			<language>256</language>
 			<files>
 				<romCRC extension=".gba">B39E93D4</romCRC>
@@ -6331,7 +6331,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Chyt]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">16DEC983</romCRC>
@@ -6349,7 +6349,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[PromisedLand]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">919A8020</romCRC>
@@ -6367,7 +6367,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[PromisedLand]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">07E2B33A</romCRC>
@@ -6385,7 +6385,7 @@
 			<romSize>4718584</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[飞越无尽暗空][Darkempire]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CA1A5CFB</romCRC>
@@ -6403,7 +6403,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[银手大官人][TacticsOgreGaiden]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">42E17BA0</romCRC>
@@ -6421,7 +6421,7 @@
 			<romSize>10493952</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">14A284C5</romCRC>
@@ -6439,7 +6439,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB &amp; 太阳少年爱好者汉化组][TGB &amp; Sunboy]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">AC52552F</romCRC>
@@ -6457,7 +6457,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[PromisedLand]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">96E75EE1</romCRC>
@@ -6475,7 +6475,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[PromisedLand]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">384DF288</romCRC>
@@ -6493,7 +6493,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">9DE68E8A</romCRC>
@@ -6511,7 +6511,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB&amp;逆转Ace &amp; 太阳少年爱好者汉化组][TGB &amp; Nzace &amp; Sunboy]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">29CA5AE1</romCRC>
@@ -6529,7 +6529,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">40A11867</romCRC>
@@ -6547,7 +6547,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB&amp;逆转Ace&amp;太阳少年汉化组][TGB &amp; Nzace &amp; Sunboy]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">1642B024</romCRC>
@@ -6565,7 +6565,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Sz_fox&amp;Maxzhou88][Bootleg &amp; Sz_fox &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F83D710F</romCRC>
@@ -6583,7 +6583,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Maxzhou88][Bootleg &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">4EDCC9B7</romCRC>
@@ -6601,7 +6601,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[高级战争吧][AdvanceWars]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5571194A</romCRC>
@@ -6619,7 +6619,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;谁的长乐未央][Bootleg &amp; Shuidechangleweiyang]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">223F8FC4</romCRC>
@@ -6637,7 +6637,7 @@
 			<romSize>8486912</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[天幻汉化组][Ffsky]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">5774A96E</romCRC>
@@ -6655,7 +6655,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Beq &amp; LCPD]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">BEB0DC50</romCRC>
@@ -6673,7 +6673,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[盗版&amp;Maxzhou88][Bootleg &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">EC167D8B</romCRC>
@@ -6691,7 +6691,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Advance]</sourceRom>
 			<language>4293</language>
 			<files>
 				<romCRC extension=".gba">4F16823C</romCRC>
@@ -6709,7 +6709,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0D005A4B</romCRC>
@@ -6727,7 +6727,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">9CB49022</romCRC>
@@ -6745,7 +6745,7 @@
 			<romSize>10493952</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2859E2B9</romCRC>
@@ -6763,7 +6763,7 @@
 			<romSize>16777216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[AdvanceWars]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">ADBB7261</romCRC>
@@ -6781,7 +6781,7 @@
 			<romSize>9437184</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Advance]</sourceRom>
 			<language>256</language>
 			<files>
 				<romCRC extension=".gba">5B489E88</romCRC>
@@ -6799,7 +6799,7 @@
 			<romSize>9437184</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Padapada &amp; Annex]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CB46F000</romCRC>
@@ -6817,7 +6817,7 @@
 			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Pokedragon &amp; HPHHPT]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">2D9D9429</romCRC>
@@ -6835,7 +6835,7 @@
 			<romSize>17304864</romSize>
 			<publisher></publisher>
 			<location>1</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Advance]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">B4E96836</romCRC>
@@ -6853,7 +6853,7 @@
 			<romSize>17825792</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Advance]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">52A5EE7E</romCRC>
@@ -6871,7 +6871,7 @@
 			<romSize>17825792</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Advance]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">413C4EF6</romCRC>
@@ -6889,7 +6889,7 @@
 			<romSize>17097216</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom>[Advance]</sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0E765848</romCRC>
@@ -6907,7 +6907,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">CF7585F1</romCRC>
@@ -6925,7 +6925,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">14A87B75</romCRC>
@@ -6943,7 +6943,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">78A4D2D4</romCRC>
@@ -6961,7 +6961,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">E951865C</romCRC>
@@ -6979,7 +6979,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">9C32A829</romCRC>
@@ -6997,7 +6997,7 @@
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">042E5B07</romCRC>
@@ -7015,7 +7015,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">D97D4156</romCRC>
@@ -7033,7 +7033,7 @@
 			<romSize>4194304</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">0E5C38B7</romCRC>
@@ -7051,14 +7051,14 @@
 			<romSize>8705280</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">A7CC50AD</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
-			<comment>逆转裁判一 (去片头) (简)</comment>
+			<comment>逆转裁判一 [去片头] (简)</comment>
 			<duplicateID>0139</duplicateID>
 		</game>
 		<game>
@@ -7069,14 +7069,14 @@
 			<romSize>10144316</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">9E49AC70</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
-			<comment>逆转裁判二 (去片头) (简)</comment>
+			<comment>逆转裁判二 [去片头] (简)</comment>
 			<duplicateID>0658</duplicateID>
 		</game>
 		<game>
@@ -7087,14 +7087,14 @@
 			<romSize>9128669</romSize>
 			<publisher></publisher>
 			<location>7</location>
-			<sourceRom></sourceRom>
+			<sourceRom> </sourceRom>
 			<language>4</language>
 			<files>
 				<romCRC extension=".gba">F747409C</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
-			<comment>逆转裁判三 (去片头) (简)</comment>
+			<comment>逆转裁判三 [去片头] (简)</comment>
 			<duplicateID>1338</duplicateID>
 		</game>
 	</games>
