@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>chsRoms - Nintendo - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20180115</datVersion>
+		<datVersion>20180120</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -84,7 +84,7 @@
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -1434,7 +1434,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -1668,7 +1668,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -1686,7 +1686,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -1722,7 +1722,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -2334,7 +2334,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -2748,7 +2748,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -3918,7 +3918,7 @@
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -4386,7 +4386,7 @@
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -4404,7 +4404,7 @@
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -4512,7 +4512,7 @@
 			<saveType></saveType>
 			<romSize>33554432</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -4602,7 +4602,7 @@
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -5070,7 +5070,7 @@
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -5430,7 +5430,7 @@
 			<saveType></saveType>
 			<romSize>8138944</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -5538,7 +5538,7 @@
 			<saveType></saveType>
 			<romSize>8394016</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -6654,7 +6654,7 @@
 			<saveType></saveType>
 			<romSize>33554432</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -6690,7 +6690,7 @@
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4293</language>
 			<files>
@@ -6888,7 +6888,7 @@
 			<saveType></saveType>
 			<romSize>17097216</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -6906,7 +6906,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -6924,7 +6924,7 @@
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -6942,7 +6942,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -6960,7 +6960,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -6978,7 +6978,7 @@
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -6996,7 +6996,7 @@
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -7014,7 +7014,7 @@
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -7032,7 +7032,7 @@
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>4</language>
 			<files>
@@ -7042,6 +7042,60 @@
 			<im2CRC></im2CRC>
 			<comment>极速 F-Zero 未来赛车 (简)</comment>
 			<duplicateID>2733</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0139</releaseNumber>
+			<title>Ace Attorney 1 (CHS)</title>
+			<saveType></saveType>
+			<romSize>8705280</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">A7CC50AD</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>逆转裁判一 (去片头) (简)</comment>
+			<duplicateID>0139</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0658</releaseNumber>
+			<title>Ace Attorney 2 (CHS)</title>
+			<saveType></saveType>
+			<romSize>10144316</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">9E49AC70</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>逆转裁判二 (去片头) (简)</comment>
+			<duplicateID>0658</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1338</releaseNumber>
+			<title>Ace Attorney 3 (CHS)</title>
+			<saveType></saveType>
+			<romSize>9128669</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>4</language>
+			<files>
+				<romCRC extension=".gba">F747409C</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>逆转裁判三 (去片头) (简)</comment>
+			<duplicateID>1338</duplicateID>
 		</game>
 	</games>
 	<gui>
