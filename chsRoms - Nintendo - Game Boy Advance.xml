@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>chsRoms - Nintendo - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20180120</datVersion>
+		<datVersion>20180121</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -51,9 +51,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">27ECAB1A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">27ECAB1A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>F-Zero GBA[PGCG](简)</comment>
@@ -69,9 +67,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BCDB7875</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BCDB7875</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级马里奥Advance - 超级马里奥USA + 马里奥兄弟[熊组](简)</comment>
@@ -87,9 +83,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CC0F1BDD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">CC0F1BDD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>咕噜咕噜转转棒[CGP](简)</comment>
@@ -105,9 +99,7 @@
 			<location>7</location>
 			<sourceRom>[麻团][Matuan]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2A399753</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2A399753</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>KONAMI快乐小赛车[麻团](简)</comment>
@@ -123,9 +115,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1373EB55</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1373EB55</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>我是航空管制员[熊组](简)</comment>
@@ -141,9 +131,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7C4515A2</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7C4515A2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>怪物守护者[PGCG](简)</comment>
@@ -159,9 +147,7 @@
 			<location>7</location>
 			<sourceRom>[狂细胞][Madcell]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E5AAB7F7</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E5AAB7F7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>快打旋风One[狂细胞](简)</comment>
@@ -177,9 +163,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E6DD3BAB</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E6DD3BAB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>快打旋风One[天使汉化组](繁)</comment>
@@ -195,9 +179,7 @@
 			<location>1</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E531873F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E531873F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级躲避球Advance[天使汉化组](简)</comment>
@@ -213,9 +195,7 @@
 			<location>1</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7C229741</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7C229741</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级躲避球Advance[天使汉化组](繁)</comment>
@@ -231,9 +211,7 @@
 			<location>7</location>
 			<sourceRom>[Ayi][阿一]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DD5A48FB</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DD5A48FB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>皇家骑士团 - 劳德思的骑士[阿一](简)</comment>
@@ -249,9 +227,7 @@
 			<location>7</location>
 			<sourceRom>[阿一][Zymgundam]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E4EF03C3</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E4EF03C3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>皇家骑士团 - 劳德思的骑士[Zymgundam](简)</comment>
@@ -267,30 +243,10 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Gleneo][Bootleg &amp; Gleneo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BC747C86</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BC747C86</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>皇家骑士团 - 劳德思的骑士[盗版&amp;Gleneo](繁)</comment>
-			<duplicateID>46</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>46</releaseNumber>
-			<title>皇家骑士团 - 劳德思的骑士</title>
-			<saveType></saveType>
-			<romSize>16777216</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom>[银手大官人]</sourceRom>
-			<language>4</language>
-			<files>
-				<romCRC extension=".gba">790AB2D4</romCRC>
-			</files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment>皇家骑士团 - 劳德思的骑士[银手大官人](测试) [简]</comment>
 			<duplicateID>46</duplicateID>
 		</game>
 		<game>
@@ -303,9 +259,7 @@
 			<location>7</location>
 			<sourceRom>[左马][Zuoma]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F5D0E8DB</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F5D0E8DB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级街头霸王II X - 重生[左马](简)</comment>
@@ -321,9 +275,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">AE3A8C93</romCRC>
-			</files>
+			<files><romCRC extension=".gba">AE3A8C93</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>闪灵二人组 - 地狱的丑角[TGB](简)</comment>
@@ -339,9 +291,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">AA90FEFC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">AA90FEFC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>马里奥赛车Advance[TGB](简)</comment>
@@ -357,9 +307,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">968A5317</romCRC>
-			</files>
+			<files><romCRC extension=".gba">968A5317</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>黄金太阳 - 开启的封印[CGP](简)</comment>
@@ -375,9 +323,7 @@
 			<location>7</location>
 			<sourceRom>[CGP&amp;Elffinal][CGP &amp; Elffinal]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C48E291F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C48E291F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>黄金太阳 - 开启的封印[CGP&amp;Elffinal](简)</comment>
@@ -393,9 +339,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">79B3ADFA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">79B3ADFA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>耽美梦想 - 吟游默示录[CGP](v1.02) (简)</comment>
@@ -411,9 +355,7 @@
 			<location>1</location>
 			<sourceRom>[Chrono]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A8DE3757</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A8DE3757</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>马里奥赛车 - 超级巡回赛[Chrono](简)</comment>
@@ -429,9 +371,7 @@
 			<location>1</location>
 			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F3F99E31</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F3F99E31</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>马里奥赛车 - 超级巡回赛[漫游](简)</comment>
@@ -447,9 +387,7 @@
 			<location>7</location>
 			<sourceRom>[Chrono]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8CEB9F15</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8CEB9F15</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>瓦力欧世界Advance[Chrono](简)</comment>
@@ -465,9 +403,7 @@
 			<location>1</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FC6321BF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FC6321BF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>高级战争[CGP][简]</comment>
@@ -483,9 +419,7 @@
 			<location>1</location>
 			<sourceRom>[Qiandao][千岛]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4CA9D5AA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4CA9D5AA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>高级战争[千岛](简)</comment>
@@ -501,9 +435,7 @@
 			<location>1</location>
 			<sourceRom>[千岛 &amp; 高级战争吧][Qiandao &amp; AdvanceWars]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">AF137615</romCRC>
-			</files>
+			<files><romCRC extension=".gba">AF137615</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>高级战争[千岛 &amp; 高级战争吧](v1.0) [简]</comment>
@@ -519,9 +451,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">22D1761C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">22D1761C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人 Battle Network 3 - 蓝版[Flyeyes](测试) [简]</comment>
@@ -537,9 +467,7 @@
 			<location>7</location>
 			<sourceRom>[CGP&amp;Pgcg][CGP &amp; PGCG]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A857303A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A857303A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>纯情房东俏房客Advance - 祝福之钟声[CGP&amp;PGCG](简)</comment>
@@ -555,9 +483,7 @@
 			<location>7</location>
 			<sourceRom>[盗版][Bootleg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1B2370D5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1B2370D5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战A[盗版](简)</comment>
@@ -573,9 +499,7 @@
 			<location>1</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FBE6DC08</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FBE6DC08</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>风之少年 - 梦之帝国[TGB](简)</comment>
@@ -591,9 +515,7 @@
 			<location>7</location>
 			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">01E8E145</romCRC>
-			</files>
+			<files><romCRC extension=".gba">01E8E145</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>Z.O.E. 2173 - 圣约[施珂昱](简)</comment>
@@ -609,9 +531,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">94C22BDC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">94C22BDC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>奇奇怪界Advance[天使汉化组](繁)</comment>
@@ -627,9 +547,7 @@
 			<location>7</location>
 			<sourceRom>[Jpgmfan&amp;逆转Ace][Jpgmfan &amp; Nzace]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">09C44DC9</romCRC>
-			</files>
+			<files><romCRC extension=".gba">09C44DC9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判[Jpgmfan&amp;逆转Ace](简)</comment>
@@ -645,9 +563,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">9CE98A00</romCRC>
-			</files>
+			<files><romCRC extension=".gba">9CE98A00</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判[CGP](简)</comment>
@@ -663,9 +579,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Lifeiyu&amp;Romanticdog][Bootleg &amp; Lifeiyu &amp; Romanticdog]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A636D8A0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A636D8A0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>随身对局 - 役满Advance[盗版&amp;Lifeiyu&amp;Romanticdog](简)</comment>
@@ -681,9 +595,7 @@
 			<location>7</location>
 			<sourceRom>[模拟天下&amp;CGP][CGP &amp; Emucn]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A520DF3E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A520DF3E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>棋魂[模拟天下&amp;CGP](简)</comment>
@@ -699,9 +611,7 @@
 			<location>7</location>
 			<sourceRom>[模拟天下&amp;CGP][CGP &amp; Emucn]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2192955D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2192955D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>棋魂[模拟天下&amp;CGP](繁)</comment>
@@ -717,9 +627,7 @@
 			<location>1</location>
 			<sourceRom>[Sjf]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">65C1B49E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">65C1B49E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>多卡波王国Q - 怪兽猎人[Sjf](v20101222) (简)</comment>
@@ -735,9 +643,7 @@
 			<location>7</location>
 			<sourceRom>[Goldegg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">74EA0144</romCRC>
-			</files>
+			<files><romCRC extension=".gba">74EA0144</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>友情足球 4v4 - 得分!![Goldegg](简)</comment>
@@ -753,9 +659,7 @@
 			<location>7</location>
 			<sourceRom>[盗版][Bootleg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">EEEFA223</romCRC>
-			</files>
+			<files><romCRC extension=".gba">EEEFA223</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>三国志[盗版](简)</comment>
@@ -771,9 +675,7 @@
 			<location>7</location>
 			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3300553D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3300553D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>三国志[Amonwang](繁)</comment>
@@ -789,9 +691,7 @@
 			<location>7</location>
 			<sourceRom>[Jaychou001]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F04051F2</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F04051F2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>大战略GBA[Jaychou001](简)</comment>
@@ -807,9 +707,7 @@
 			<location>7</location>
 			<sourceRom>[Lirdrepus]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0515AD04</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0515AD04</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>简单说英文 - 初级篇1[Lirdrepus](繁)</comment>
@@ -825,9 +723,7 @@
 			<location>7</location>
 			<sourceRom>[Lirdrepus]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C3000305</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C3000305</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>简单说英文 - 初级篇2[Lirdrepus](繁)</comment>
@@ -843,9 +739,7 @@
 			<location>7</location>
 			<sourceRom>[狂细胞][Madcell]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1EDBB8ED</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1EDBB8ED</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>索尼克Advance[狂细胞](简)</comment>
@@ -861,9 +755,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C5BC025F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C5BC025F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>勇者斗恶龙外传 - 特鲁内克大冒险2 Advance - 不可思议的迷宫[星组](简)</comment>
@@ -879,9 +771,7 @@
 			<location>7</location>
 			<sourceRom>[九柳][Kuyagi]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2A0F130C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2A0F130C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 怪兽决斗EX 2[九柳](Beta) (繁)</comment>
@@ -897,9 +787,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">14F6B391</romCRC>
-			</files>
+			<files><romCRC extension=".gba">14F6B391</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>大盗伍佑卫门 - 新世代出动![星组][简&amp;繁]</comment>
@@ -915,9 +803,7 @@
 			<location>7</location>
 			<sourceRom>[模拟天下][Emucn]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4199F6C1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4199F6C1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>沉默的遗迹 - 四狂神战记[模拟天下](简)</comment>
@@ -933,9 +819,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;唐晓东][Bootleg &amp; Tangxiaodong]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DA006E58</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DA006E58</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>沉默的遗迹 - 四狂神战记[盗版&amp;唐晓东](繁)</comment>
@@ -951,9 +835,7 @@
 			<location>7</location>
 			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5925D9C9</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5925D9C9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>恶魔城 - 月之轮回[施珂昱](简)</comment>
@@ -969,9 +851,7 @@
 			<location>7</location>
 			<sourceRom>[Jaychou001]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">569D0CF7</romCRC>
-			</files>
+			<files><romCRC extension=".gba">569D0CF7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>机械化军队 - Mech Platoon[Jaychou001](简)</comment>
@@ -987,9 +867,7 @@
 			<location>7</location>
 			<sourceRom>[Xiahongbo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4F8225DD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4F8225DD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>机械化军队 - Mech Platoon[Xiahongbo](简)</comment>
@@ -1005,9 +883,7 @@
 			<location>7</location>
 			<sourceRom>[Superxyj]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">823C3801</romCRC>
-			</files>
+			<files><romCRC extension=".gba">823C3801</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火焰纹章 - 封印之剑[Superxyj](简)</comment>
@@ -1023,9 +899,7 @@
 			<location>7</location>
 			<sourceRom>[CGP&amp;W_anthony][CGP &amp; W_anthony]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4A7BF795</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4A7BF795</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火焰纹章 - 封印之剑[CGP&amp;W_anthony](简)</comment>
@@ -1041,9 +915,7 @@
 			<location>7</location>
 			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1F19D989</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1F19D989</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火焰纹章 - 封印之剑[狼组&amp;火花天龙剑](v20060906) (简)</comment>
@@ -1059,9 +931,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">250AD578</romCRC>
-			</files>
+			<files><romCRC extension=".gba">250AD578</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>光明之魂[CGP](简)</comment>
@@ -1077,9 +947,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Zhangcheng][Bootleg &amp; Zhangcheng]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7360100E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7360100E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>露娜传说[盗版&amp;Zhangcheng](繁)</comment>
@@ -1095,9 +963,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">46AE66EB</romCRC>
-			</files>
+			<files><romCRC extension=".gba">46AE66EB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>蜘蛛侠 - 密斯特里奥的威胁[天使汉化组](v20060306) (繁)</comment>
@@ -1113,9 +979,7 @@
 			<location>7</location>
 			<sourceRom>[Swelin&amp;6lay&amp;Guys&amp;Punkemnx][Swelin &amp; 6lay &amp; Guys &amp; Punkemnx]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F89B26EA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F89B26EA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>胜利11人 - 实况足球[Swelin&amp;6lay&amp;Guys&amp;Punkemnx](简)</comment>
@@ -1131,9 +995,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F7764506</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F7764506</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>网球王子 - 天才少年学院[PGCG](简)</comment>
@@ -1149,9 +1011,7 @@
 			<location>7</location>
 			<sourceRom>[Killy][Kiny]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">376ACF82</romCRC>
-			</files>
+			<files><romCRC extension=".gba">376ACF82</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>网球王子 - 天才少年学院[Killy](简)</comment>
@@ -1167,9 +1027,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Puszta][盗版&amp;Gymzatan][Bootleg &amp; Gymzatan]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8F4C3F33</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8F4C3F33</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>携带电兽2 - 力量版[盗版&amp;Gymzatan](简)</comment>
@@ -1185,9 +1043,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;施珂昱][盗版&amp;Gymzatan][Bootleg &amp; Gymzatan]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5AC01C3D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5AC01C3D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>携带电兽2 - 速度版[盗版&amp;Gymzatan](简)</comment>
@@ -1203,9 +1059,7 @@
 			<location>7</location>
 			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D280479F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D280479F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>恶魔城 - 白夜协奏曲[施珂昱](简)</comment>
@@ -1221,9 +1075,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Hbs][Bootleg &amp; Hbs]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1D0CEA4D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1D0CEA4D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>恶魔城 - 白夜协奏曲[盗版&amp;Hbs](繁)</comment>
@@ -1239,9 +1091,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">68676832</romCRC>
-			</files>
+			<files><romCRC extension=".gba">68676832</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战R[星组](v1.2+) (简)</comment>
@@ -1257,9 +1107,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">29C0FF31</romCRC>
-			</files>
+			<files><romCRC extension=".gba">29C0FF31</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>钻地小子A - 不可思议的细菌[PGCG](简)</comment>
@@ -1275,9 +1123,7 @@
 			<location>7</location>
 			<sourceRom>[Apex]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">11371AAA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">11371AAA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>正邪幻想史Zero[Apex](v20071012) (简)</comment>
@@ -1293,9 +1139,7 @@
 			<location>7</location>
 			<sourceRom>[Eagle]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D950BB68</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D950BB68</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>信长异闻录[Eagle](简)</comment>
@@ -1311,9 +1155,7 @@
 			<location>7</location>
 			<sourceRom>[唐甜李][Jaychou001]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">6338A42C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">6338A42C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>信长异闻录[唐甜李](简)</comment>
@@ -1329,9 +1171,7 @@
 			<location>7</location>
 			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E0E812D2</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E0E812D2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>侏罗纪公园III - 失落的遗传基因[Amonwang](简)</comment>
@@ -1347,9 +1187,7 @@
 			<location>7</location>
 			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D1C76C21</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D1C76C21</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>侏罗纪公园III - 失落的遗传基因[Amonwang](繁)</comment>
@@ -1365,9 +1203,7 @@
 			<location>16</location>
 			<sourceRom>[零组][Zero]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2C942D85</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2C942D85</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人Zero[零组](简)</comment>
@@ -1383,9 +1219,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E81C3CE5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E81C3CE5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级马里奥Advance 3 - 耀西岛[Flyeyes](简)</comment>
@@ -1401,9 +1235,7 @@
 			<location>7</location>
 			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7B22CE04</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7B22CE04</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>人型电脑天使心GBA - 只属于我的人[漫游](简)</comment>
@@ -1419,9 +1251,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C280A3E1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C280A3E1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>人型电脑天使心GBA - 只属于我的人[PGCG](简)</comment>
@@ -1437,9 +1267,7 @@
 			<location>7</location>
 			<sourceRom>[阿渊][Ayuan]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7C5CACD7</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7C5CACD7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>侵略者[阿渊](简)</comment>
@@ -1455,9 +1283,7 @@
 			<location>7</location>
 			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">04A6D44B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">04A6D44B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>合金射击者[Amonwang](简)</comment>
@@ -1473,9 +1299,7 @@
 			<location>7</location>
 			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">69E325AF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">69E325AF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>合金射击者[Amonwang](繁)</comment>
@@ -1491,9 +1315,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E82CF455</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E82CF455</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>空战神鹰II[PGCG](简)</comment>
@@ -1509,9 +1331,7 @@
 			<location>1</location>
 			<sourceRom>[Kinglly]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E43D2708</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E43D2708</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>虚拟网球[Kinglly](简)</comment>
@@ -1527,9 +1347,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C323B501</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C323B501</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判2[CGP](简)</comment>
@@ -1545,9 +1363,7 @@
 			<location>7</location>
 			<sourceRom>[Eastred]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7FD7FF2E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7FD7FF2E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判2[Eastred][Chapter 1] (简)</comment>
@@ -1563,9 +1379,7 @@
 			<location>7</location>
 			<sourceRom>[Eastred]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">81A839A5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">81A839A5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判2[Eastred][Chapter 4] (简)</comment>
@@ -1581,9 +1395,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F1E1DAC9</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F1E1DAC9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>星之卡比 - 梦之泉[CGP](简)</comment>
@@ -1599,9 +1411,7 @@
 			<location>7</location>
 			<sourceRom>[伤雪&amp;Sody][Shangxue &amp; Sody]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FB1164FB</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FB1164FB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>星之卡比 - 梦之泉[伤雪&amp;Sody](简)</comment>
@@ -1617,9 +1427,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F3812842</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F3812842</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>世界传说 - 换装迷宫2[CGP](v3.31) (简)</comment>
@@ -1635,9 +1443,7 @@
 			<location>1</location>
 			<sourceRom>[Chrono]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">6E0FAB27</romCRC>
-			</files>
+			<files><romCRC extension=".gba">6E0FAB27</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>银河战士 - 融合[Chrono](简)</comment>
@@ -1653,9 +1459,7 @@
 			<location>7</location>
 			<sourceRom>[模拟天下][Emucn]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">63EC6544</romCRC>
-			</files>
+			<files><romCRC extension=".gba">63EC6544</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>世界传说 - 召唤者的血统[模拟天下](简)</comment>
@@ -1671,9 +1475,7 @@
 			<location>7</location>
 			<sourceRom>[Kinglly]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B3D607FD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B3D607FD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>究极截拳道 - 金太郎的复仇[Kinglly](简)</comment>
@@ -1689,9 +1491,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7032AB31</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7032AB31</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>究极截拳道 - 金太郎的复仇[天使汉化组](繁)</comment>
@@ -1707,9 +1507,7 @@
 			<location>1</location>
 			<sourceRom>[Hulihutu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">769B7942</romCRC>
-			</files>
+			<files><romCRC extension=".gba">769B7942</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>魂斗罗Advance - 异型战争EX[Hulihutu](简)</comment>
@@ -1725,9 +1523,7 @@
 			<location>7</location>
 			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D4DE6480</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D4DE6480</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>古墓奇兵 - 预言[施珂昱](简)</comment>
@@ -1743,9 +1539,7 @@
 			<location>7</location>
 			<sourceRom>[掌机王者汉化组][Ndsgba]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C51EF8C1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C51EF8C1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋梦幻! - 梦幻寻宝幸存挑战![掌机王者汉化组](简)</comment>
@@ -1761,9 +1555,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1489592E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1489592E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋梦幻! - 梦幻寻宝幸存挑战![TGB](简)</comment>
@@ -1779,9 +1571,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7CD15B0C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7CD15B0C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战 - Original Generation[星组][简&amp;繁]</comment>
@@ -1797,9 +1587,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">AF5E6119</romCRC>
-			</files>
+			<files><romCRC extension=".gba">AF5E6119</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战 - Original Generation[星组](For Burning) [简&amp;繁]</comment>
@@ -1815,9 +1603,7 @@
 			<location>7</location>
 			<sourceRom>[Elite&amp;Pmgba][Elite&amp;口袋妖怪网][Elite &amp; Pmgba]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">49690CDF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">49690CDF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 蓝宝石[Elite&amp;口袋妖怪网](386) (简)</comment>
@@ -1833,9 +1619,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Metore][Bootleg &amp; Metore]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">04D85B35</romCRC>
-			</files>
+			<files><romCRC extension=".gba">04D85B35</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 蓝宝石[盗版&amp;Metore](繁)</comment>
@@ -1851,9 +1635,7 @@
 			<location>7</location>
 			<sourceRom>[Pmgba][口袋妖怪网]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">00D8AD5F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">00D8AD5F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 红宝石[口袋妖怪网](386&amp;Font For Valentine&#039;s Day) (简)</comment>
@@ -1869,9 +1651,7 @@
 			<location>7</location>
 			<sourceRom>[Pmgba][口袋妖怪网]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B1BC56F6</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B1BC56F6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 红宝石[口袋妖怪网](386) (简)</comment>
@@ -1887,9 +1667,7 @@
 			<location>7</location>
 			<sourceRom>[模拟天下][Emucn]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CBB48D26</romCRC>
-			</files>
+			<files><romCRC extension=".gba">CBB48D26</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 红宝石[模拟天下](简)</comment>
@@ -1905,9 +1683,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Metore][Bootleg &amp; Metore]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">6C204618 </romCRC>
-			</files>
+			<files><romCRC extension=".gba">6C204618 </romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 红宝石[盗版&amp;Metore](繁)</comment>
@@ -1923,9 +1699,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">37E513CF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">37E513CF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>卡片聚会[TGB](Beta) (简)</comment>
@@ -1941,9 +1715,7 @@
 			<location>1</location>
 			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C2B0FA0C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C2B0FA0C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>赛尔达传说 - 过去的林克&amp;四支剑[漫游](简)</comment>
@@ -1959,9 +1731,7 @@
 			<location>1</location>
 			<sourceRom>[Larrywalker]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4D93924F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4D93924F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>赛尔达传说 - 过去的林克&amp;四支剑[Larrywalker](繁)</comment>
@@ -1977,9 +1747,7 @@
 			<location>7</location>
 			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E1B0C7B0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E1B0C7B0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>哈利波特 - 消失的密室[施珂昱](简)</comment>
@@ -1995,9 +1763,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">9901171F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">9901171F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>索尼克Advance 2[PGCG](简)</comment>
@@ -2013,9 +1779,7 @@
 			<location>7</location>
 			<sourceRom>[狂细胞][Madcell]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8C5E2EE2</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8C5E2EE2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>电梯大战 - 旧&amp;新[狂细胞](简)</comment>
@@ -2031,9 +1795,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">52E992F3</romCRC>
-			</files>
+			<files><romCRC extension=".gba">52E992F3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>电梯大战 - 旧&amp;新[天使汉化组](繁)</comment>
@@ -2049,9 +1811,7 @@
 			<location>7</location>
 			<sourceRom>[Gudushizi&amp;Hengxingyue&amp;天空联盟][孤独狮子&amp;恒星月&amp;天空联盟][Gudushizi &amp; Hengxingyue &amp; Sky League]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CCEC2091</romCRC>
-			</files>
+			<files><romCRC extension=".gba">CCEC2091</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>拳皇EX2 - 咆哮之血[孤独狮子&amp;恒星月&amp;天空联盟](简)</comment>
@@ -2067,9 +1827,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D1AE060D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D1AE060D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>鬼眼狂刀 - 京[CGP](简)</comment>
@@ -2085,9 +1843,7 @@
 			<location>7</location>
 			<sourceRom>[Fei Yun]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">18748C68</romCRC>
-			</files>
+			<files><romCRC extension=".gba">18748C68</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>爆转陀螺2002 - 激战!组队决斗!!青龙之章 小龙篇[Fei Yun](简)</comment>
@@ -2103,9 +1859,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BF81CA12</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BF81CA12</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋实况棒球5[星组](繁)</comment>
@@ -2121,9 +1875,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DBDB69A5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DBDB69A5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>魔法元素![TGB](简)</comment>
@@ -2139,9 +1891,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CB50F40B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">CB50F40B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>最终幻想战略版Advance[熊组](简)</comment>
@@ -2157,9 +1907,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">ABE57944</romCRC>
-			</files>
+			<files><romCRC extension=".gba">ABE57944</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>最终幻想战略版Advance[熊组](大字体) (简)</comment>
@@ -2175,9 +1923,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E808E3A6</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E808E3A6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>最终幻想战略版Advance[熊组](小字修正版) (简)</comment>
@@ -2193,9 +1939,7 @@
 			<location>7</location>
 			<sourceRom>[Kiny]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A081038B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A081038B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>网球王子2003 - 火红[Kiny](简)</comment>
@@ -2211,9 +1955,7 @@
 			<location>7</location>
 			<sourceRom>[Kiny]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">00F1E149</romCRC>
-			</files>
+			<files><romCRC extension=".gba">00F1E149</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>网球王子2003 - 冰蓝[Kiny](简)</comment>
@@ -2229,9 +1971,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">03B87CC4</romCRC>
-			</files>
+			<files><romCRC extension=".gba">03B87CC4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>淘金者[TGB](简)</comment>
@@ -2247,9 +1987,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">046502CD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">046502CD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 怪兽决斗8 破灭的大邪神[天使汉化组](简)</comment>
@@ -2265,9 +2003,7 @@
 			<location>7</location>
 			<sourceRom>[模拟天下&amp;枫雪动漫][Emucn &amp; Fengxuedongman]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4A5F3944</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4A5F3944</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>海贼王 - 目标!赏金之王[模拟天下&amp;枫雪动漫](简)</comment>
@@ -2283,9 +2019,7 @@
 			<location>7</location>
 			<sourceRom>[模拟天下&amp;枫雪动漫][Emucn &amp; Fengxuedongman]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2AFB180D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2AFB180D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>海贼王 - 目标!赏金之王[模拟天下&amp;枫雪动漫](繁)</comment>
@@ -2301,9 +2035,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4AE4EA8C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4AE4EA8C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>妹妹公主 - RePure[PGCG](简)</comment>
@@ -2319,9 +2051,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E16FAD40</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E16FAD40</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>妹妹公主 - RePure[PGCG](繁)</comment>
@@ -2337,9 +2067,7 @@
 			<location>7</location>
 			<sourceRom>[Madcell&amp;Shangxue&amp;Punkemnx][狂细胞&amp;伤雪&amp;Punkemnx][Madcell &amp; Shangxue &amp; Punkemnx]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">88C4D436</romCRC>
-			</files>
+			<files><romCRC extension=".gba">88C4D436</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级方块战士II加速版[狂细胞&amp;伤雪&amp;Punkemnx](简)</comment>
@@ -2355,9 +2083,7 @@
 			<location>7</location>
 			<sourceRom>[狼组][Wolf]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B40303D8</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B40303D8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>真女神转生[狼组](简)</comment>
@@ -2373,9 +2099,7 @@
 			<location>16</location>
 			<sourceRom>[Mobile&amp;Elffinal][Mobile &amp; Elffinal]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C0B98B76</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C0B98B76</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>黄金太阳 - 失落的时代[Mobile&amp;Elffinal](简)</comment>
@@ -2391,9 +2115,7 @@
 			<location>16</location>
 			<sourceRom>[Mobile&amp;Elffinal][Mobile &amp; Elffinal]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5C78240C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5C78240C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>黄金太阳 - 失落的时代[Mobile&amp;Elffinal](繁)</comment>
@@ -2409,9 +2131,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">26E7A705</romCRC>
-			</files>
+			<files><romCRC extension=".gba">26E7A705</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>舞之刃 - 闪光[PGCG](简)</comment>
@@ -2427,9 +2147,7 @@
 			<location>7</location>
 			<sourceRom>[CGP&amp;Emucn][CGP&amp;模拟天下][CGP &amp; Emucn]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FF11476C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FF11476C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>牧场物语 - 矿石镇的伙伴们[CGP&amp;模拟天下](简)</comment>
@@ -2445,9 +2163,7 @@
 			<location>7</location>
 			<sourceRom>[CGP&amp;Emucn][CGP&amp;模拟天下][CGP &amp; Emucn]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E69CC50E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E69CC50E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>牧场物语 - 矿石镇的伙伴们[CGP&amp;模拟天下](繁)</comment>
@@ -2463,9 +2179,7 @@
 			<location>7</location>
 			<sourceRom>[CGP &amp;Emucn &amp;矿石镇][CGP &amp;模拟天下 &amp;矿石镇][CGP &amp; Emucn &amp; MineralTown]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">22D27456</romCRC>
-			</files>
+			<files><romCRC extension=".gba">22D27456</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>牧场物语 - 矿石镇的伙伴们[CGP &amp;模拟天下 &amp;矿石镇](v1.7) [简]</comment>
@@ -2481,9 +2195,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">6BFDD7AE</romCRC>
-			</files>
+			<files><romCRC extension=".gba">6BFDD7AE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>战国革命外传[熊组](简)</comment>
@@ -2499,9 +2211,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4777841C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4777841C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>战国革命外传[熊组](繁)</comment>
@@ -2517,9 +2227,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D973718F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D973718F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>高校受验系列 英熟语篇-650片语收录[CGP](简)</comment>
@@ -2535,9 +2243,7 @@
 			<location>7</location>
 			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7AEF4EDC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7AEF4EDC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火焰纹章 - 烈火之剑[狼组&amp;火花天龙剑](Fix) (简)</comment>
@@ -2553,9 +2259,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">042C159C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">042C159C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火焰纹章 - 烈火之剑[CGP](简)</comment>
@@ -2571,9 +2275,7 @@
 			<location>7</location>
 			<sourceRom>[Superxyj]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">EAFA4EF0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">EAFA4EF0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火焰纹章 - 烈火之剑[Superxyj](简)</comment>
@@ -2589,9 +2291,7 @@
 			<location>7</location>
 			<sourceRom>[林拓][Linta]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0CFB26B1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0CFB26B1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>RPG制造Advance[林拓](简)</comment>
@@ -2607,9 +2307,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2E0F89C9</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2E0F89C9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>阿滋漫画大王Advance[PGCG](简)</comment>
@@ -2625,9 +2323,7 @@
 			<location>7</location>
 			<sourceRom>[Guys]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DEF9CADA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DEF9CADA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>简单2960好友系列Vol.1 - 桌面游戏合集[Guys](简)</comment>
@@ -2643,9 +2339,7 @@
 			<location>7</location>
 			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DFD0BC52</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DFD0BC52</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火影忍者 - 忍术全开!最强忍者大集合[漫游](简)</comment>
@@ -2661,9 +2355,7 @@
 			<location>7</location>
 			<sourceRom>[九柳][Kuyagi]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">22EFD2B9</romCRC>
-			</files>
+			<files><romCRC extension=".gba">22EFD2B9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>恶魔城 - 晓月圆舞曲[九柳](简)</comment>
@@ -2679,9 +2371,7 @@
 			<location>7</location>
 			<sourceRom>[九柳][Kuyagi]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">26CBC195</romCRC>
-			</files>
+			<files><romCRC extension=".gba">26CBC195</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>恶魔城 - 晓月圆舞曲[九柳](繁)</comment>
@@ -2697,9 +2387,7 @@
 			<location>7</location>
 			<sourceRom>[恒星月][Hengxingyue]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E2C3760B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E2C3760B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>心跳烹饪系列2 - 美味厨房 - 绝妙便当[恒星月](Beta) (简)</comment>
@@ -2715,9 +2403,7 @@
 			<location>1</location>
 			<sourceRom>[Baicj]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BB7C325A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BB7C325A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>瓦力欧制造 - 迷你游戏大合集![Baicj](简)</comment>
@@ -2733,9 +2419,7 @@
 			<location>1</location>
 			<sourceRom>[Luxin]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8F211DB5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8F211DB5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>高级战争 2 - 黑洞升起[Luxin](简)</comment>
@@ -2751,9 +2435,7 @@
 			<location>7</location>
 			<sourceRom>[高级战争吧][AdvanceWars]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F1E29A92</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F1E29A92</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>高级战争 2 - 黑洞升起[高级战争吧](v1.0) [简]</comment>
@@ -2769,9 +2451,7 @@
 			<location>1</location>
 			<sourceRom>[Ershu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">66705B82</romCRC>
-			</files>
+			<files><romCRC extension=".gba">66705B82</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>太空频道 5 - 舞拉拉的闪耀攻击[Ershu](简)</comment>
@@ -2787,9 +2467,7 @@
 			<location>7</location>
 			<sourceRom>[Aic]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E0DAB0D6</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E0DAB0D6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>小青蛙 - 魔法国的大冒险[Aic](简)</comment>
@@ -2805,9 +2483,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">01E74D21</romCRC>
-			</files>
+			<files><romCRC extension=".gba">01E74D21</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>我们的太阳 - 太阳动作RPG[TGB](简)</comment>
@@ -2823,9 +2499,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">43DA2360</romCRC>
-			</files>
+			<files><romCRC extension=".gba">43DA2360</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>我们的太阳 - 太阳动作RPG[TGB](繁)</comment>
@@ -2841,9 +2515,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">ED7B42F0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">ED7B42F0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>鬼武者战略版[熊组](简)</comment>
@@ -2859,9 +2531,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">ADCD2A92</romCRC>
-			</files>
+			<files><romCRC extension=".gba">ADCD2A92</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>鬼武者战略版[熊组](繁)</comment>
@@ -2877,9 +2547,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0DFB6770</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0DFB6770</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>光明之魂II[PGCG](简)</comment>
@@ -2895,9 +2563,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">668262F8</romCRC>
-			</files>
+			<files><romCRC extension=".gba">668262F8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>光明之魂II[PGCG](繁)</comment>
@@ -2913,9 +2579,7 @@
 			<location>7</location>
 			<sourceRom>[千岛&amp;叶子][Qiandao &amp; Yezi]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A0047979</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A0047979</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>幻想传说[千岛&amp;叶子](简)</comment>
@@ -2931,9 +2595,7 @@
 			<location>7</location>
 			<sourceRom>[红魔][Reddevil]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D156F769</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D156F769</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽弹珠台 - 红宝石&amp;蓝宝石[红魔](简)</comment>
@@ -2949,9 +2611,7 @@
 			<location>7</location>
 			<sourceRom>[TGB&amp;口袋吧][TGB &amp; Koudai8]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">ED7C5244</romCRC>
-			</files>
+			<files><romCRC extension=".gba">ED7C5244</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽弹珠台 - 红宝石&amp;蓝宝石[TGB&amp;口袋吧](简)</comment>
@@ -2967,9 +2627,7 @@
 			<location>7</location>
 			<sourceRom>[漫游&amp;熊组&amp;名侦探柯南事务所][Manyo &amp; Bear &amp; Aptx4869]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">6234D9F3</romCRC>
-			</files>
+			<files><romCRC extension=".gba">6234D9F3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>名侦探柯南 - 被狙击的侦探[漫游&amp;熊组&amp;名侦探柯南事务所](简)</comment>
@@ -2985,9 +2643,7 @@
 			<location>7</location>
 			<sourceRom>[漫游&amp;熊组&amp;名侦探柯南事务所][Manyo &amp; Bear &amp; Aptx4869]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">02C1AB97</romCRC>
-			</files>
+			<files><romCRC extension=".gba">02C1AB97</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>名侦探柯南 - 被狙击的侦探[漫游&amp;熊组&amp;名侦探柯南事务所](繁)</comment>
@@ -3003,9 +2659,7 @@
 			<location>7</location>
 			<sourceRom>[张老批][Laopix]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C8B18C7E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C8B18C7E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战D[张老批](简)</comment>
@@ -3021,9 +2675,7 @@
 			<location>7</location>
 			<sourceRom>[天才GK][Tiancaigk]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">EF757778</romCRC>
-			</files>
+			<files><romCRC extension=".gba">EF757778</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战D[天才GK](繁)</comment>
@@ -3039,9 +2691,7 @@
 			<location>7</location>
 			<sourceRom>[勇者汉化组&amp;狼组&amp;天使汉化组][Yongzhe &amp; Wolf &amp; Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">04B8220C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">04B8220C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>新约圣剑传说[勇者汉化组&amp;狼组&amp;天使汉化组](简)</comment>
@@ -3057,9 +2707,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7D2201D1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7D2201D1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火影忍者 - 木叶战记[熊组](v1.3) (简)</comment>
@@ -3075,9 +2723,7 @@
 			<location>1</location>
 			<sourceRom>[廖永新][Waxensonny]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1A993838</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1A993838</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>卧虎藏龙[廖永新](简)</comment>
@@ -3093,9 +2739,7 @@
 			<location>7</location>
 			<sourceRom>[千岛&amp;叶子][Qiandao &amp; Yezi]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">863F59D1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">863F59D1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>人鱼恋曲 - Pichi Pichi Pitch[千岛&amp;叶子](简)</comment>
@@ -3111,9 +2755,7 @@
 			<location>1</location>
 			<sourceRom>[Shuo_chen]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E7C9F26A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E7C9F26A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人Zero 2[Shuo_chen](简)</comment>
@@ -3129,9 +2771,7 @@
 			<location>1</location>
 			<sourceRom>[Leaf]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2BFC85EC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2BFC85EC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>忍者神龟[Leaf](简)</comment>
@@ -3147,9 +2787,7 @@
 			<location>1</location>
 			<sourceRom>[Zario]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2952C6B0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2952C6B0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>忍者神龟[Zario](简)</comment>
@@ -3165,9 +2803,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes&amp;灰米&amp;恒星月][Flyeyes &amp; Huimi &amp; Hengxingyue]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CDB2D045</romCRC>
-			</files>
+			<files><romCRC extension=".gba">CDB2D045</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>波斯王子 - 时之沙[Flyeyes&amp;灰米&amp;恒星月](简)</comment>
@@ -3183,9 +2819,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">09AEBF7F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">09AEBF7F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>大众软件系列 - 上海[PGCG](简)</comment>
@@ -3201,9 +2835,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组&amp;漫游][Angel &amp; Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E82FDCCD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E82FDCCD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>大众软件系列 - 动物管理员[天使汉化组&amp;漫游](简)</comment>
@@ -3219,9 +2851,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组&amp;漫游][Angel &amp; Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">9E0C95D0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">9E0C95D0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>大众软件系列 - 动物管理员[天使汉化组&amp;漫游](繁)</comment>
@@ -3237,9 +2867,7 @@
 			<location>16</location>
 			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">74FA3F7C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">74FA3F7C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>荣誉勋章 - 渗透者[盗版&amp;Kunlunshen](简)</comment>
@@ -3255,9 +2883,7 @@
 			<location>1</location>
 			<sourceRom>[Wind Flowers]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F31B20AF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F31B20AF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>异次元敌人[Wind Flowers](简)</comment>
@@ -3273,9 +2899,7 @@
 			<location>7</location>
 			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2AD76580</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2AD76580</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>马里奥&amp;路易基RPG[漫游](简)</comment>
@@ -3291,9 +2915,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">894B5704</romCRC>
-			</files>
+			<files><romCRC extension=".gba">894B5704</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>SD钢弹G世纪Advance[盗版&amp;Kunlunshen](简)</comment>
@@ -3309,9 +2931,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4FF5B39D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4FF5B39D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>索尼克战斗[熊组](简)</comment>
@@ -3327,9 +2947,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1A5956B3</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1A5956B3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>索尼克战斗[熊组](繁)</comment>
@@ -3345,9 +2963,7 @@
 			<location>7</location>
 			<sourceRom>[Middle333]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">96900F94</romCRC>
-			</files>
+			<files><romCRC extension=".gba">96900F94</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>牧场物语 - 矿石镇的伙伴们 女孩篇[Middle333](v0.6) (简)</comment>
@@ -3363,9 +2979,7 @@
 			<location>7</location>
 			<sourceRom>[K]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">18D56348</romCRC>
-			</files>
+			<files><romCRC extension=".gba">18D56348</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>牧场物语 - 矿石镇的伙伴们 女孩篇[K](简)</comment>
@@ -3381,9 +2995,7 @@
 			<location>7</location>
 			<sourceRom>[Middle333]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7733436F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7733436F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>牧场物语 - 矿石镇的伙伴们 女孩篇[Middle333](Beta) (繁)</comment>
@@ -3399,9 +3011,7 @@
 			<location>7</location>
 			<sourceRom>[K &amp; MineralTown]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4676E33B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4676E33B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>牧场物语 - 矿石镇的伙伴们 女孩篇[K &amp; MineralTown](v1.3a) [简]</comment>
@@ -3417,9 +3027,7 @@
 			<location>7</location>
 			<sourceRom>[盗版 &amp; Maxzhou88][Bootleg &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">52290B0B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">52290B0B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>约束之地 - 利维艾拉[盗版 &amp; Maxzhou88][简]</comment>
@@ -3435,9 +3043,7 @@
 			<location>7</location>
 			<sourceRom>[盗版 &amp; Maxzhou88][Bootleg &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B25FF781</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B25FF781</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>死神 - 血染尸魂界[盗版 &amp; Maxzhou88][简]</comment>
@@ -3453,9 +3059,7 @@
 			<location>7</location>
 			<sourceRom>[混沌星辰][Chaosstars]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8769BB1E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8769BB1E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>鬼太郎 - 危机一发!妖怪列岛[混沌星辰](简)</comment>
@@ -3471,9 +3075,7 @@
 			<location>7</location>
 			<sourceRom>[Sakura0s]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">33800522</romCRC>
-			</files>
+			<files><romCRC extension=".gba">33800522</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>铁臂阿童木 - 阿童木心之秘密[Sakura0s](简)</comment>
@@ -3489,9 +3091,7 @@
 			<location>1</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">040210B1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">040210B1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>究极截拳道 - 金太郎的复仇[TGB](简)</comment>
@@ -3507,9 +3107,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0A1F4E9A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0A1F4E9A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判3[CGP](v1.02) (简)</comment>
@@ -3525,9 +3123,7 @@
 			<location>7</location>
 			<sourceRom>[逆转Ace][Nzace]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3307E60A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3307E60A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判3[逆转Ace](简)</comment>
@@ -3543,9 +3139,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1A27CFFE</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1A27CFFE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判3[星组](简)</comment>
@@ -3561,9 +3155,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Sanchidiantai][盗版&amp;三池典太][Bootleg &amp; Sanchidiantai]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4E1E5D90</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4E1E5D90</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 火红[盗版&amp;三池典太](简)</comment>
@@ -3579,9 +3171,7 @@
 			<location>7</location>
 			<sourceRom>[盗版][Bootleg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D70DA3FE</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D70DA3FE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 火红[盗版](简)</comment>
@@ -3597,9 +3187,7 @@
 			<location>7</location>
 			<sourceRom>[口袋吧][Koudai8]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">934FF829</romCRC>
-			</files>
+			<files><romCRC extension=".gba">934FF829</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 叶绿[口袋吧](386) (简)</comment>
@@ -3615,9 +3203,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Sanchidiantai][Bootleg &amp; Sanchidiantai]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3A4F86A5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3A4F86A5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 叶绿[盗版&amp;Sanchidiantai](简)</comment>
@@ -3633,9 +3219,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">392A4046</romCRC>
-			</files>
+			<files><romCRC extension=".gba">392A4046</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 怪兽决斗EX 3[CGP](简)</comment>
@@ -3651,9 +3235,7 @@
 			<location>7</location>
 			<sourceRom>[Knightsan]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0EF63BB0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0EF63BB0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 怪兽决斗EX 3[Knightsan](简)</comment>
@@ -3669,9 +3251,7 @@
 			<location>7</location>
 			<sourceRom>[Zxp]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C53DA5A4</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C53DA5A4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 怪兽决斗EX 3[Zxp](繁)</comment>
@@ -3687,9 +3267,7 @@
 			<location>1</location>
 			<sourceRom>[狂细胞][Madcell]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E30FF2CC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E30FF2CC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>银河战士 - 零号任务[狂细胞](简)</comment>
@@ -3705,9 +3283,7 @@
 			<location>1</location>
 			<sourceRom>[Chrono]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0970387C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0970387C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>银河战士 - 零号任务[Chrono](简)</comment>
@@ -3723,9 +3299,7 @@
 			<location>1</location>
 			<sourceRom>[Pgcg&amp;Nrw][PGCG &amp; Nrw]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FFABBE7A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FFABBE7A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 世界冠军锦标赛2004[PGCG&amp;Nrw](简)</comment>
@@ -3741,9 +3315,7 @@
 			<location>7</location>
 			<sourceRom>[DD]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">04833DD5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">04833DD5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>对决! 奥特曼[DD](简)</comment>
@@ -3759,9 +3331,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">94A5400E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">94A5400E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>海贼王 - 棒球进行曲 - 海贼棒球[CGP](简)</comment>
@@ -3777,9 +3347,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">25E0F17F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">25E0F17F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>海贼王 - 棒球进行曲 - 海贼棒球[PGCG](简)</comment>
@@ -3795,9 +3363,7 @@
 			<location>7</location>
 			<sourceRom>[CGP][Nailgo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FF4153B0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FF4153B0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>侦探学园Q - 挑战究极诡计![CGP](简)</comment>
@@ -3813,9 +3379,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;9c][Bootleg &amp; 9c]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7EC4968C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7EC4968C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>世界传说 - 换装迷宫3[盗版&amp;9c](简)</comment>
@@ -3831,9 +3395,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3FDBCEEB</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3FDBCEEB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙珠Z - 舞空斗剧[PGCG](简)</comment>
@@ -3849,9 +3411,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C7A70E80</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C7A70E80</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙珠Z - 舞空斗剧[天使汉化组](繁)</comment>
@@ -3867,9 +3427,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4081C04D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4081C04D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>双截龙Advance[天使汉化组](简)</comment>
@@ -3885,9 +3443,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DAE40664</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DAE40664</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>双截龙Advance[天使汉化组](繁)</comment>
@@ -3903,9 +3459,7 @@
 			<location>7</location>
 			<sourceRom>[Nailgo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">55AA5F7C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">55AA5F7C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>简单2960好友系列Vol.3 - 星光魔法使[Nailgo](简)</comment>
@@ -3921,9 +3475,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg&amp;Nrw][PGCG &amp; Nrw]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A7F0A348</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A7F0A348</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 世界冠军锦标赛2004[PGCG&amp;Nrw](简)</comment>
@@ -3939,9 +3491,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E1023BD6</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E1023BD6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>星之卡比 - 镜之大迷宫[CGP](简)</comment>
@@ -3957,9 +3507,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FE1ADCA1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FE1ADCA1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火影忍者 - 最强忍者大结集2[CGP](简)</comment>
@@ -3975,9 +3523,7 @@
 			<location>7</location>
 			<sourceRom>[天空联盟][Sky League]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1C3AA547</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1C3AA547</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>网球王子2004 - 时尚之银[天空联盟](简)</comment>
@@ -3993,9 +3539,7 @@
 			<location>7</location>
 			<sourceRom>[Rising Sun][Sky League]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B421CA41</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B421CA41</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>网球王子2004 - 光荣之金[Rising Sun](简)</comment>
@@ -4011,9 +3555,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">03712789</romCRC>
-			</files>
+			<files><romCRC extension=".gba">03712789</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>钢弹SEED - 与你共赴战场[盗版&amp;Kunlunshen](简)</comment>
@@ -4029,9 +3571,7 @@
 			<location>1</location>
 			<sourceRom>[空气][Air]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">33DE2ECD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">33DE2ECD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>热血物语EX[空气](简)</comment>
@@ -4047,9 +3587,7 @@
 			<location>7</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F77E470D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F77E470D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>马里奥VS.大金刚[Flyeyes](简)</comment>
@@ -4065,9 +3603,7 @@
 			<location>7</location>
 			<sourceRom>[Rom的传人][Romman]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">50693B9F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">50693B9F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>索尼克Advance 3[Rom的传人](简)</comment>
@@ -4083,9 +3619,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">29029D50</romCRC>
-			</files>
+			<files><romCRC extension=".gba">29029D50</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>勇者斗恶龙外传 - 特鲁内克大冒险3 Advance - 不可思议的迷宫[星组](v2.3) (简)</comment>
@@ -4101,9 +3635,7 @@
 			<location>7</location>
 			<sourceRom>[施珂昱][Shikeyu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7A953AAD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7A953AAD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>哈利波特 - 阿兹卡班的逃犯[施珂昱](简)</comment>
@@ -4119,9 +3651,7 @@
 			<location>7</location>
 			<sourceRom>[Fhz]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5A83F2FF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5A83F2FF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>怪物召唤士[Fhz](Beta) (简)</comment>
@@ -4137,9 +3667,7 @@
 			<location>7</location>
 			<sourceRom>(50% Beta) [TGB&amp;逆转Ace][TGB &amp; Nzace]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">54E8DA86</romCRC>
-			</files>
+			<files><romCRC extension=".gba">54E8DA86</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>续我们的太阳 - 太阳少年加戈(50% Beta) [TGB&amp;逆转Ace](简)</comment>
@@ -4155,9 +3683,7 @@
 			<location>7</location>
 			<sourceRom>[第三世纪][Disanshiji]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D477C582</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D477C582</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>钢之炼金术士 - 回忆之奏鸣曲[第三世纪](简)</comment>
@@ -4173,9 +3699,7 @@
 			<location>7</location>
 			<sourceRom>[Yq123147159]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">83C8668E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">83C8668E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>钢之炼金术士 - 回忆之奏鸣曲[Yq123147159][简]</comment>
@@ -4191,9 +3715,7 @@
 			<location>7</location>
 			<sourceRom>[Superjill&amp;Crystal][Superjill &amp; Crystal]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B2F40186</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B2F40186</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙珠Z - 悟空的遗产II国际版[Superjill&amp;Crystal](简)</comment>
@@ -4209,9 +3731,7 @@
 			<location>7</location>
 			<sourceRom>[Superjill&amp;Crystal][Superjill &amp; Crystal]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">19187366</romCRC>
-			</files>
+			<files><romCRC extension=".gba">19187366</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙珠Z - 悟空的遗产II国际版[Superjill&amp;Crystal](繁)</comment>
@@ -4227,9 +3747,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;西门吹雪][Bootleg &amp; Ximenchuixue]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">58B544F5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">58B544F5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>最终幻想I, II Advance[盗版&amp;西门吹雪](简)</comment>
@@ -4245,9 +3763,7 @@
 			<location>7</location>
 			<sourceRom>[梦幻鸟][Dreambird]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">715C8DD7</romCRC>
-			</files>
+			<files><romCRC extension=".gba">715C8DD7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>最终幻想I, II Advance[梦幻鸟](繁)</comment>
@@ -4263,9 +3779,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">46FC3AC1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">46FC3AC1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>花火大会Advance[TGB](简)</comment>
@@ -4281,9 +3795,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2BFA4DB0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2BFA4DB0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>光明与黑暗 - 黑暗龙的复活[天使汉化组](简)</comment>
@@ -4299,9 +3811,7 @@
 			<location>7</location>
 			<sourceRom>[盗版][Bootleg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C17D77E4</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C17D77E4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>召唤之夜 - 铸剑物语 2[盗版](简)</comment>
@@ -4317,9 +3827,7 @@
 			<location>7</location>
 			<sourceRom>[啪嗒啪嗒][SwordcraftStory]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A3BA1B5B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A3BA1B5B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>召唤之夜 - 铸剑物语 2[啪嗒啪嗒](v1.0) [简]</comment>
@@ -4335,9 +3843,7 @@
 			<location>7</location>
 			<sourceRom>[啪嗒啪嗒][SwordcraftStory]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7D146C18</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7D146C18</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>召唤之夜 - 铸剑物语 2[啪嗒啪嗒](v1.0) [繁]</comment>
@@ -4353,9 +3859,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组&amp;漫游][Angel &amp; Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8D9B7C28</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8D9B7C28</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级马里奥弹珠台[天使汉化组&amp;漫游](简)</comment>
@@ -4371,9 +3875,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组&amp;漫游][Angel &amp; Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D0466AFA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D0466AFA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级马里奥弹珠台[天使汉化组&amp;漫游](繁)</comment>
@@ -4389,9 +3891,7 @@
 			<location>7</location>
 			<sourceRom>[零组][Zero]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C69E3627</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C69E3627</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人Zero 3[零组](简)</comment>
@@ -4407,9 +3907,7 @@
 			<location>7</location>
 			<sourceRom>[零组][Zero]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">046DBF34</romCRC>
-			</files>
+			<files><romCRC extension=".gba">046DBF34</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人Zero 3[零组](繁)</comment>
@@ -4425,9 +3923,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Awaixp][Bootleg &amp; Awaixp]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D23F6484</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D23F6484</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 绿宝石[盗版&amp;Awaixp](简)</comment>
@@ -4443,9 +3939,7 @@
 			<location>7</location>
 			<sourceRom>[口袋吧][Koudai8]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3FC20323</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3FC20323</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 绿宝石[口袋吧](简)</comment>
@@ -4461,9 +3955,7 @@
 			<location>7</location>
 			<sourceRom>[狼组&amp;火花天龙剑][Wolf &amp; Chinafe]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">79609D14</romCRC>
-			</files>
+			<files><romCRC extension=".gba">79609D14</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火焰纹章 - 圣魔之光石[狼组&amp;火花天龙剑](简)</comment>
@@ -4479,9 +3971,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B366EE47</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B366EE47</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>F-Zero - 极速传说[TGB](简)</comment>
@@ -4497,9 +3987,7 @@
 			<location>7</location>
 			<sourceRom>[风小子][Fengxiaozi]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C567447B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C567447B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>F-Zero - 极速传说[风小子](简)</comment>
@@ -4515,9 +4003,7 @@
 			<location>7</location>
 			<sourceRom>[Beq]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A5E6730A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A5E6730A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>侠盗猎车手Advance[Beq](简)</comment>
@@ -4533,9 +4019,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BA222877</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BA222877</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>赛尔达传说 - 缩小帽[天使汉化组](简)</comment>
@@ -4551,9 +4035,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7C32326C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7C32326C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>赛尔达传说 - 缩小帽[天使汉化组](繁)</comment>
@@ -4569,9 +4051,7 @@
 			<location>1</location>
 			<sourceRom>[白河忧][Baiheyou]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">83AE595C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">83AE595C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>越南大战Advance[白河忧](简)</comment>
@@ -4587,9 +4067,7 @@
 			<location>16</location>
 			<sourceRom>[Beq&amp;TGB][Beq &amp; TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A6B96C1C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A6B96C1C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>模拟市民 - 上流社会[Beq&amp;TGB](简)</comment>
@@ -4605,9 +4083,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DEAD9991</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DEAD9991</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>赛尔达传说 - 缩小帽[CGP](简)</comment>
@@ -4623,9 +4099,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5159E1D9</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5159E1D9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>王国之心 - 记忆之链[天使汉化组](简)</comment>
@@ -4641,9 +4115,7 @@
 			<location>7</location>
 			<sourceRom>[狼组&amp;天幻网][Wolf &amp; Ffsky]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BAABFF26</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BAABFF26</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>王国之心 - 记忆之链[狼组&amp;天幻网](大字体) (简)</comment>
@@ -4659,9 +4131,7 @@
 			<location>7</location>
 			<sourceRom>[狼组&amp;天幻网][Wolf &amp; Ffsky]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BB407638</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BB407638</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>王国之心 - 记忆之链[狼组&amp;天幻网](小字体紧凑) (简)</comment>
@@ -4677,9 +4147,7 @@
 			<location>7</location>
 			<sourceRom>[狼组&amp;天幻网][Wolf &amp; Ffsky]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3134DAF8</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3134DAF8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>王国之心 - 记忆之链[狼组&amp;天幻网](小字体稀疏) (简)</comment>
@@ -4695,9 +4163,7 @@
 			<location>7</location>
 			<sourceRom>[Rom的传人][Romman]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">333D1B4F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">333D1B4F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超写真麻雀同窗会[Rom的传人](简)</comment>
@@ -4713,9 +4179,7 @@
 			<location>7</location>
 			<sourceRom>[Rom的传人][Romman]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">9ABBF4AC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">9ABBF4AC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超写真麻雀同窗会[Rom的传人](繁)</comment>
@@ -4731,9 +4195,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F6908F17</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F6908F17</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙珠 - 大冒险[TGB](v2) (简)</comment>
@@ -4749,9 +4211,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;游戏炒饭][Bootleg &amp; Youxichaofan]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7A9C17CC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7A9C17CC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>世界传说 - 换装迷宫3[盗版&amp;游戏炒饭](繁)</comment>
@@ -4767,9 +4227,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1C1BF15A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1C1BF15A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 怪兽决斗国际版2[天使汉化组](简)</comment>
@@ -4785,9 +4243,7 @@
 			<location>7</location>
 			<sourceRom>[CGP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A3A71C72</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A3A71C72</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>侦探神宫寺三郎 - 白影的少女[CGP](简)</comment>
@@ -4803,9 +4259,7 @@
 			<location>7</location>
 			<sourceRom>[天空联盟&amp;廖永新][Sky League &amp; Waxensonny]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">69F599B5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">69F599B5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>三国志 - 孔明传[天空联盟&amp;廖永新](繁)</comment>
@@ -4821,9 +4275,7 @@
 			<location>7</location>
 			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8FF667AB</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8FF667AB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>三国志 - 英杰传[Amonwang](繁)</comment>
@@ -4839,9 +4291,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Colorcat][Bootleg &amp; Colorcat]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">713F5FBF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">713F5FBF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战 - Original Generation 2[盗版&amp;Colorcat](简)</comment>
@@ -4857,9 +4307,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1C0240FF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1C0240FF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战 - Original Generation 2[星组][简&amp;繁]</comment>
@@ -4875,9 +4323,7 @@
 			<location>7</location>
 			<sourceRom>[Amonwang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BD975147</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BD975147</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>真三国无双Advance[Amonwang](繁)</comment>
@@ -4893,9 +4339,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Fciq][Bootleg &amp; Fciq]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2685F6AD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2685F6AD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>真三国无双Advance[盗版&amp;Fciq](简)</comment>
@@ -4911,9 +4355,7 @@
 			<location>7</location>
 			<sourceRom>[星宇工作室][Xingyu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FC434645</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FC434645</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>真三国无双Advance[星宇工作室](简)</comment>
@@ -4929,9 +4371,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3FB8346C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3FB8346C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人Zero 4[天使汉化组](简)</comment>
@@ -4947,9 +4387,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3451522A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3451522A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>名侦探柯南 - 黎明之碑[天使汉化组](简)</comment>
@@ -4965,9 +4403,7 @@
 			<location>7</location>
 			<sourceRom>[天空联盟][Sky League]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">107418D4</romCRC>
-			</files>
+			<files><romCRC extension=".gba">107418D4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>模拟大楼SP[天空联盟](简)</comment>
@@ -4983,9 +4419,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C659A12E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C659A12E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超人特攻队[天使汉化组](简)</comment>
@@ -5001,9 +4435,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5C5F7B88</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5C5F7B88</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超人特攻队[天使汉化组](繁)</comment>
@@ -5019,9 +4451,7 @@
 			<location>7</location>
 			<sourceRom>[XDD]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8BA2995A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8BA2995A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>桃太郎电铁G 打造黄金卡组![XDD](简)</comment>
@@ -5037,9 +4467,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">292C2E97</romCRC>
-			</files>
+			<files><romCRC extension=".gba">292C2E97</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>大金刚 - 摇摆之王[Flyeyes](简)</comment>
@@ -5055,9 +4483,7 @@
 			<location>7</location>
 			<sourceRom>[TGB&amp;逆转Ace][TGB &amp; Nzace]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">973A4D94</romCRC>
-			</files>
+			<files><romCRC extension=".gba">973A4D94</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>新我们的太阳 - 逆袭的萨巴塔[TGB&amp;逆转Ace](Beta) (简)</comment>
@@ -5073,9 +4499,7 @@
 			<location>7</location>
 			<sourceRom>[熊组][Bear]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C75E1CFA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C75E1CFA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>钢铁帝国[熊组](简)</comment>
@@ -5091,9 +4515,7 @@
 			<location>7</location>
 			<sourceRom>[Louyisd]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3F85F95E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3F85F95E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战J[Louyisd](简)</comment>
@@ -5109,9 +4531,7 @@
 			<location>7</location>
 			<sourceRom>[Srworld]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0F71D8EC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0F71D8EC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战J[Srworld](简)</comment>
@@ -5127,9 +4547,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BC471BDA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BC471BDA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>螺旋破坏者 - 轰振钻子[天使汉化组](简)</comment>
@@ -5145,9 +4563,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7756188B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7756188B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级火枪英雄[天使汉化组](简)</comment>
@@ -5163,9 +4579,7 @@
 			<location>7</location>
 			<sourceRom>[Dna]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">633F747F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">633F747F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>通勤一笔[Dna](简)</comment>
@@ -5181,9 +4595,7 @@
 			<location>7</location>
 			<sourceRom>[Rom的传人][Romman]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F7288A2D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F7288A2D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>通勤一笔[Rom的传人](简)</comment>
@@ -5199,9 +4611,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3C7A3025</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3C7A3025</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 怪兽决斗GX 决战王者[天使汉化组](简)</comment>
@@ -5217,9 +4627,7 @@
 			<location>1</location>
 			<sourceRom>[天幻网&amp;Pgcg][Ffsky &amp; PGCG]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1AC6F63E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1AC6F63E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>最终幻想IV Advance[天幻网&amp;PGCG](简)</comment>
@@ -5235,9 +4643,7 @@
 			<location>7</location>
 			<sourceRom>[天使汉化组][Angel]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B4EFEF2F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B4EFEF2F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>游戏王! - 怪兽决斗EX 2006[天使汉化组](v20060307) (简)</comment>
@@ -5253,9 +4659,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">16B8D95E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">16B8D95E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>植木的法则 - 神器炸裂! 能力者格斗[PGCG](简)</comment>
@@ -5271,9 +4675,7 @@
 			<location>7</location>
 			<sourceRom>[Pgcg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F2ECA2A8</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F2ECA2A8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>植木的法则 - 神器炸裂! 能力者格斗[PGCG](繁)</comment>
@@ -5289,9 +4691,7 @@
 			<location>7</location>
 			<sourceRom>[狼狼小酷][Langlangxiaoku]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">43FFA477</romCRC>
-			</files>
+			<files><romCRC extension=".gba">43FFA477</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>公主同盟[狼狼小酷](v20100811) (简)</comment>
@@ -5307,9 +4707,7 @@
 			<location>7</location>
 			<sourceRom>[Dna&amp;Pgcg][Dna &amp; PGCG]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">475C310C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">475C310C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>大众软件系列 - 数独 Advance[Dna&amp;PGCG](简)</comment>
@@ -5325,9 +4723,7 @@
 			<location>7</location>
 			<sourceRom>[Hyopo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A16F5D12</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A16F5D12</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>轻松玩欢乐足球[Hyopo](简)</comment>
@@ -5343,9 +4739,7 @@
 			<location>7</location>
 			<sourceRom>[Ppp]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CCA38B0A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">CCA38B0A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>轻松玩欢乐足球[Ppp](简)</comment>
@@ -5361,9 +4755,7 @@
 			<location>7</location>
 			<sourceRom>[漫游][Manyo]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DF4ED80A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DF4ED80A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>节奏天国[漫游](简)</comment>
@@ -5379,9 +4771,7 @@
 			<location>1</location>
 			<sourceRom>[廖永新][Waxensonny]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D5C9ABB3</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D5C9ABB3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>打野鸡2[廖永新](简)</comment>
@@ -5397,9 +4787,7 @@
 			<location>7</location>
 			<sourceRom>[Jctg]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F6EB50E2</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F6EB50E2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>节奏天国[Jctg](简)</comment>
@@ -5415,9 +4803,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes&amp;TGB][Flyeyes &amp; TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DBD9F2CC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DBD9F2CC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>魔法气泡[Flyeyes&amp;TGB](简)</comment>
@@ -5433,9 +4819,7 @@
 			<location>7</location>
 			<sourceRom>[Iqueids]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">527628B2</romCRC>
-			</files>
+			<files><romCRC extension=".gba">527628B2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>GT3职业概念锦标车赛[Iqueids](简)</comment>
@@ -5451,9 +4835,7 @@
 			<location>7</location>
 			<sourceRom>[Chyt]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4A7A22C6</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4A7A22C6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>重装机兵2改[Chyt](v1.1) (071219) (简)</comment>
@@ -5469,9 +4851,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Fciq][Bootleg &amp; Fciq]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2CF3DEDE</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2CF3DEDE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙珠 - 大冒险[盗版&amp;Fciq](简)</comment>
@@ -5487,9 +4867,7 @@
 			<location>7</location>
 			<sourceRom>[Dc890]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">993B9C54</romCRC>
-			</files>
+			<files><romCRC extension=".gba">993B9C54</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙珠 - 大冒险[Dc890](简)</comment>
@@ -5505,9 +4883,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">DE601B6D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">DE601B6D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 不可思议的迷宫 赤之救助队[盗版&amp;Kunlunshen](简)</comment>
@@ -5523,9 +4899,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Kunlunshen&amp;Qqture][Bootleg &amp; Kunlunshen &amp; Qqture]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FD91899F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FD91899F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 不可思议的迷宫 赤之救助队[盗版&amp;Kunlunshen&amp;Qqture](Sramfix) (简)</comment>
@@ -5541,9 +4915,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3A703643</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3A703643</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>侵略者[TGB](简)</comment>
@@ -5559,9 +4931,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Kunlunshen][Bootleg &amp; Kunlunshen]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0BDD80BC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0BDD80BC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>召唤之夜 - 铸剑物语 - 起源之石[盗版&amp;Kunlunshen](简)</comment>
@@ -5577,9 +4947,7 @@
 			<location>7</location>
 			<sourceRom>[啪嗒啪嗒][SwordcraftStory]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">6A5B099A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">6A5B099A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>召唤之夜 - 铸剑物语 - 起源之石[啪嗒啪嗒](v1.1) [繁]</comment>
@@ -5595,9 +4963,7 @@
 			<location>7</location>
 			<sourceRom>[空气][Air]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">15CE797E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">15CE797E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>乐高星球大战 - 影视游戏[空气](简)</comment>
@@ -5613,9 +4979,7 @@
 			<location>7</location>
 			<sourceRom>[狼组&amp;APEX][Wolf &amp; APEX]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8C23E010</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8C23E010</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>最终幻想V Advance[狼组&amp;APEX](Leak) (简)</comment>
@@ -5631,9 +4995,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">855D1AEF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">855D1AEF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人Battle Network 2[Flyeyes](v20090527) (简)</comment>
@@ -5649,9 +5011,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7D6D474D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7D6D474D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人Battle Network 2[Flyeyes](v20090527) (繁)</comment>
@@ -5667,9 +5027,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5DDD1988</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5DDD1988</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>海贼王[Flyeyes](简)</comment>
@@ -5685,9 +5043,7 @@
 			<location>7</location>
 			<sourceRom>[天空联盟][Sky League]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BB53DFC3</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BB53DFC3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>烈火之炎 - The Game[天空联盟](v20080708) (简)</comment>
@@ -5703,9 +5059,7 @@
 			<location>7</location>
 			<sourceRom>[Freedom]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BC066443</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BC066443</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>奥特曼警备队 - 怪兽突击[Freedom](简)</comment>
@@ -5721,9 +5075,7 @@
 			<location>7</location>
 			<sourceRom>[Leleu]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D3F293FD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D3F293FD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战A[Leleu](v0.1) (简)</comment>
@@ -5739,9 +5091,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Jirachi][Bootleg &amp; Jirachi]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E5D2C720</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E5D2C720</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 绿宝石[盗版&amp;Jirachi](v2.4) (简)</comment>
@@ -5757,9 +5107,7 @@
 			<location>1</location>
 			<sourceRom>[烈火宝龙][Liehuobaolong]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BB1057EA</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BB1057EA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>数码宝贝 - 战魂[烈火宝龙](v20061002) (简)</comment>
@@ -5775,9 +5123,7 @@
 			<location>1</location>
 			<sourceRom>[小刺][Xiaoci]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FA256807</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FA256807</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>数码宝贝 - 战魂[小刺][简]</comment>
@@ -5793,9 +5139,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">20B5913E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">20B5913E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>禁货猎人：时空的冒险者[TGB](测试) [简]</comment>
@@ -5811,9 +5155,7 @@
 			<location>1</location>
 			<sourceRom>[廖永新][Waxensonny]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E3A900F2</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E3A900F2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>海贼王[廖永新](简)</comment>
@@ -5829,9 +5171,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">FF346BB1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">FF346BB1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>极道车魂3[Flyeyes](简)</comment>
@@ -5847,9 +5187,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5A4936D1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5A4936D1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>机械化军队 - Mech Platoon[Flyeyes](简)</comment>
@@ -5865,9 +5203,7 @@
 			<location>7</location>
 			<sourceRom>[WGF][WGF &amp; Yuyang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">7C9BF014</romCRC>
-			</files>
+			<files><romCRC extension=".gba">7C9BF014</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战A[WGF](v1.1) (修正) (简)</comment>
@@ -5883,9 +5219,7 @@
 			<location>7</location>
 			<sourceRom>[yybray]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">47F86A61</romCRC>
-			</files>
+			<files><romCRC extension=".gba">47F86A61</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>仓鼠天堂Advanchu[yybray](v0.9) (简)</comment>
@@ -5901,9 +5235,7 @@
 			<location>7</location>
 			<sourceRom>[飞越无尽暗空][Darkempire]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">14E2C63F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">14E2C63F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>大战略GBA[飞越无尽暗空](v20130212) (简)</comment>
@@ -5919,9 +5251,7 @@
 			<location>7</location>
 			<sourceRom>[奥盟][Ultraman Club]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4F8ABFC6</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4F8ABFC6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>奥特曼警备队 - 怪兽突击[奥盟](Beta) (简)</comment>
@@ -5937,9 +5267,7 @@
 			<location>7</location>
 			<sourceRom>[漫游&amp;空气][Manyo &amp; Air]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">21FDF96C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">21FDF96C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>地球冒险3[漫游&amp;空气](v1.0) (简)</comment>
@@ -5955,9 +5283,7 @@
 			<location>7</location>
 			<sourceRom>[ARIX]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">8690B34F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">8690B34F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>炼金术士玛丽艾莉&amp;安丝工坊 - 微风中的讯息[ARIX](Beta) (简)</comment>
@@ -5973,9 +5299,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">51BFA615</romCRC>
-			</files>
+			<files><romCRC extension=".gba">51BFA615</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙战士[Flyeyes](简)</comment>
@@ -5991,9 +5315,7 @@
 			<location>7</location>
 			<sourceRom>[qqgba]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2F318D09</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2F318D09</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>拳皇EX - 新血[qqgba](简)</comment>
@@ -6009,9 +5331,7 @@
 			<location>7</location>
 			<sourceRom>[qqgba]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F5319E32</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F5319E32</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>拳皇EX2 - 咆哮之血[qqgba](简)</comment>
@@ -6027,9 +5347,7 @@
 			<location>7</location>
 			<sourceRom>[漫游&amp;TGB][Manyo &amp; TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2B5384E1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2B5384E1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 绿宝石[漫游&amp;TGB](简)</comment>
@@ -6045,9 +5363,7 @@
 			<location>7</location>
 			<sourceRom>[TGB&amp;逆转Ace&amp;太阳少年]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1036EF7C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1036EF7C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>续我们的太阳 - 太阳少年加戈[TGB&amp;逆转Ace&amp;太阳少年](简)</comment>
@@ -6063,9 +5379,7 @@
 			<location>7</location>
 			<sourceRom>[Jiuban][九班]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A812A9DC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A812A9DC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>越南大战Advance[九班](简)</comment>
@@ -6081,9 +5395,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3FE3D5D4</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3FE3D5D4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战D[星组](v1.1) (简)</comment>
@@ -6099,9 +5411,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">C35EA17E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">C35EA17E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战D[星组](v1.1) (繁)</comment>
@@ -6117,9 +5427,7 @@
 			<location>7</location>
 			<sourceRom>[深藏竹楼][Shencangzhulou]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">425834A0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">425834A0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>点点潮流 - 几何世代[深藏竹楼](v0.8) (简)</comment>
@@ -6135,9 +5443,7 @@
 			<location>7</location>
 			<sourceRom>[漫游&amp;TGB&amp;口袋群星SP][Manyo &amp; TGB &amp; Pocketstars SP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">064DEA4D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">064DEA4D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 绿宝石[漫游&amp;TGB&amp;口袋群星SP](v20120719) (简)</comment>
@@ -6153,9 +5459,7 @@
 			<location>1</location>
 			<sourceRom>[口袋群星SP][Pocketstars SP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">3589923D</romCRC>
-			</files>
+			<files><romCRC extension=".gba">3589923D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 火红[口袋群星SP](v20120723-3) [简]</comment>
@@ -6171,9 +5475,7 @@
 			<location>1</location>
 			<sourceRom>[口袋群星SP][Pocketstars SP]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E9B69BE3</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E9B69BE3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>口袋怪兽 - 叶绿[口袋群星SP](v20120723-3) [简]</comment>
@@ -6189,9 +5491,7 @@
 			<location>7</location>
 			<sourceRom>[啪嗒啪嗒&amp;飞越无尽暗空][SwordcraftStory]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B899E306</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B899E306</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>召唤之夜 - 铸剑物语[SwordcraftStory](v1.0) (Fix) (简)</comment>
@@ -6207,9 +5507,7 @@
 			<location>7</location>
 			<sourceRom>[啪嗒啪嗒 &amp; 鸟文][Padapada &amp; Niaowen]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">556DD1CC</romCRC>
-			</files>
+			<files><romCRC extension=".gba">556DD1CC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>守护英雄[啪嗒啪嗒 &amp; 鸟文](v1.0) [简 &amp; 繁]</comment>
@@ -6225,9 +5523,7 @@
 			<location>7</location>
 			<sourceRom>[Crossztc]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">882145DD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">882145DD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>圣诞夜惊魂-南瓜王[Crossztc](楷体) [简]</comment>
@@ -6243,9 +5539,7 @@
 			<location>7</location>
 			<sourceRom>[Crossztc]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">41122207</romCRC>
-			</files>
+			<files><romCRC extension=".gba">41122207</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>圣诞夜惊魂-南瓜王[Crossztc](像素) [简]</comment>
@@ -6261,9 +5555,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D6E7A6C0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D6E7A6C0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战J[星组](v1.0) (简)</comment>
@@ -6279,9 +5571,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">76B1F3BF</romCRC>
-			</files>
+			<files><romCRC extension=".gba">76B1F3BF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级机器人大战J[星组](v1.0) (繁)</comment>
@@ -6297,9 +5587,7 @@
 			<location>1</location>
 			<sourceRom>[天幻网][Ffsky]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">626D7CD5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">626D7CD5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>最终幻想VI Advance[天幻网](v1.0) (简)</comment>
@@ -6315,9 +5603,7 @@
 			<location>7</location>
 			<sourceRom>[Yq123147159]</sourceRom>
 			<language>256</language>
-			<files>
-				<romCRC extension=".gba">B39E93D4</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B39E93D4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>钢之炼金术师 - 迷走的轮舞曲[Yq123147159](简)</comment>
@@ -6333,9 +5619,7 @@
 			<location>7</location>
 			<sourceRom>[Chyt]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">16DEC983</romCRC>
-			</files>
+			<files><romCRC extension=".gba">16DEC983</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>天外魔境-青天之外 [Chyt](测试) [简]</comment>
@@ -6351,9 +5635,7 @@
 			<location>7</location>
 			<sourceRom>[PromisedLand]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">919A8020</romCRC>
-			</files>
+			<files><romCRC extension=".gba">919A8020</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>约束之地 - 利维艾拉 (日版)[PromisedLand](v1.0) [简]</comment>
@@ -6369,9 +5651,7 @@
 			<location>7</location>
 			<sourceRom>[PromisedLand]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">07E2B33A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">07E2B33A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>约束之地 - 利维艾拉 (日版)[PromisedLand](v1.0) [繁]</comment>
@@ -6387,9 +5667,7 @@
 			<location>1</location>
 			<sourceRom>[飞越无尽暗空][Darkempire]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CA1A5CFB</romCRC>
-			</files>
+			<files><romCRC extension=".gba">CA1A5CFB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙战士2[飞越无尽暗空](测试) [简]</comment>
@@ -6405,9 +5683,7 @@
 			<location>7</location>
 			<sourceRom>[银手大官人][TacticsOgreGaiden]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">42E17BA0</romCRC>
-			</files>
+			<files><romCRC extension=".gba">42E17BA0</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>皇家骑士团 - 劳德思的骑士[银手大官人](v1.1) [简]</comment>
@@ -6423,9 +5699,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">14A284C5</romCRC>
-			</files>
+			<files><romCRC extension=".gba">14A284C5</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>洛克人 网络战斗 3 - 蓝版[Flyeyes][简]</comment>
@@ -6441,9 +5715,7 @@
 			<location>7</location>
 			<sourceRom>[TGB &amp; 太阳少年爱好者汉化组][TGB &amp; Sunboy]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">AC52552F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">AC52552F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>我们的太阳 - 太阳动作RPG[TGB &amp; 太阳少年爱好者汉化组](简)</comment>
@@ -6459,9 +5731,7 @@
 			<location>7</location>
 			<sourceRom>[PromisedLand]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">96E75EE1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">96E75EE1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>约束之地 - 利维艾拉[PromisedLand](v1.05) [简]</comment>
@@ -6477,9 +5747,7 @@
 			<location>7</location>
 			<sourceRom>[PromisedLand]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">384DF288</romCRC>
-			</files>
+			<files><romCRC extension=".gba">384DF288</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>约束之地 - 利维艾拉[PromisedLand](v1.05) [繁]</comment>
@@ -6495,9 +5763,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">9DE68E8A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">9DE68E8A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>龙珠 - 大冒险[TGB](v2.172) (简)</comment>
@@ -6513,9 +5779,7 @@
 			<location>7</location>
 			<sourceRom>[TGB&amp;逆转Ace &amp; 太阳少年爱好者汉化组][TGB &amp; Nzace &amp; Sunboy]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">29CA5AE1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">29CA5AE1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>新我们的太阳 - 逆袭的萨巴塔[TGB&amp;逆转Ace &amp; 太阳少年爱好者汉化组](v20160622) (简)</comment>
@@ -6531,9 +5795,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">40A11867</romCRC>
-			</files>
+			<files><romCRC extension=".gba">40A11867</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>禁货猎人：时空的冒险者[TGB](Beta) (20160319) [简]</comment>
@@ -6549,9 +5811,7 @@
 			<location>7</location>
 			<sourceRom>[TGB&amp;逆转Ace&amp;太阳少年汉化组][TGB &amp; Nzace &amp; Sunboy]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">1642B024</romCRC>
-			</files>
+			<files><romCRC extension=".gba">1642B024</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>续我们的太阳 - 太阳少年加戈[TGB&amp;逆转Ace&amp;太阳少年汉化组](V2.0)(简)</comment>
@@ -6567,9 +5827,7 @@
 			<location>1</location>
 			<sourceRom>[盗版&amp;Sz_fox&amp;Maxzhou88][Bootleg &amp; Sz_fox &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F83D710F</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F83D710F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>鬼屋魔影[盗版&amp;Sz_fox&amp;Maxzhou88][简]</comment>
@@ -6585,9 +5843,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Maxzhou88][Bootleg &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">4EDCC9B7</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4EDCC9B7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>重装骑士 - 闪光英雄的诞生[盗版&amp;Maxzhou88][简]</comment>
@@ -6603,9 +5859,7 @@
 			<location>7</location>
 			<sourceRom>[高级战争吧][AdvanceWars]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5571194A</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5571194A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>高级战争1+2[高级战争吧](v1.01) [简]</comment>
@@ -6621,9 +5875,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;谁的长乐未央][Bootleg &amp; Shuidechangleweiyang]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">223F8FC4</romCRC>
-			</files>
+			<files><romCRC extension=".gba">223F8FC4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>火焰纹章 - 圣魔之光石[盗版&amp;谁的长乐未央][简]</comment>
@@ -6639,9 +5891,7 @@
 			<location>7</location>
 			<sourceRom>[天幻汉化组][Ffsky]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">5774A96E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5774A96E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>哈姆太郎4 - 七彩虹大行进[天幻汉化组][简]</comment>
@@ -6657,9 +5907,7 @@
 			<location>7</location>
 			<sourceRom>[Beq &amp; LCPD]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">BEB0DC50</romCRC>
-			</files>
+			<files><romCRC extension=".gba">BEB0DC50</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>侠盗猎车手 - 前进[Beq &amp; LCPD](Beta) (v20160720) [简]</comment>
@@ -6675,9 +5923,7 @@
 			<location>7</location>
 			<sourceRom>[盗版&amp;Maxzhou88][Bootleg &amp; Maxzhou88]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">EC167D8B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">EC167D8B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>勇者斗恶龙 - 旅团之心[盗版&amp;Maxzhou88][繁]</comment>
@@ -6693,9 +5939,7 @@
 			<location>7</location>
 			<sourceRom>[Advance]</sourceRom>
 			<language>4293</language>
-			<files>
-				<romCRC extension=".gba">4F16823C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">4F16823C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>数码宝贝 - 战魂2[Advance](简)</comment>
@@ -6711,9 +5955,7 @@
 			<location>7</location>
 			<sourceRom>[TGB]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0D005A4B</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0D005A4B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>机动战士 敢达SEED 君与友的战场[TGB](Beta) (v20160514) (简)</comment>
@@ -6729,9 +5971,7 @@
 			<location>7</location>
 			<sourceRom>[星组][Starteams]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">9CB49022</romCRC>
-			</files>
+			<files><romCRC extension=".gba">9CB49022</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>怪物召唤士 (Japan)[星组](v1.0) (简)</comment>
@@ -6747,9 +5987,7 @@
 			<location>1</location>
 			<sourceRom>[Flyeyes]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2859E2B9</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2859E2B9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>(v1.3) [CHS]</comment>
@@ -6765,9 +6003,7 @@
 			<location>7</location>
 			<sourceRom>[AdvanceWars]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">ADBB7261</romCRC>
-			</files>
+			<files><romCRC extension=".gba">ADBB7261</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>(v1.02) [CHS]</comment>
@@ -6783,31 +6019,11 @@
 			<location>7</location>
 			<sourceRom>[Advance]</sourceRom>
 			<language>256</language>
-			<files>
-				<romCRC extension=".gba">5B489E88</romCRC>
-			</files>
+			<files><romCRC extension=".gba">5B489E88</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>[CHS]</comment>
 			<duplicateID>13</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>673</releaseNumber>
-			<title>Tales of the World - Narikiri Dungeon 2 (Japan)[Padapada &amp; Annex](v3.0) [CHS]</title>
-			<saveType></saveType>
-			<romSize>9437184</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom>[Padapada &amp; Annex]</sourceRom>
-			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CB46F000</romCRC>
-			</files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment>(v3.0) [CHS]</comment>
-			<duplicateID>673</duplicateID>
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
@@ -6819,9 +6035,7 @@
 			<location>1</location>
 			<sourceRom>[Pokedragon &amp; HPHHPT]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">2D9D9429</romCRC>
-			</files>
+			<files><romCRC extension=".gba">2D9D9429</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>(Beta) [CHS]</comment>
@@ -6837,9 +6051,7 @@
 			<location>1</location>
 			<sourceRom>[Advance]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">B4E96836</romCRC>
-			</files>
+			<files><romCRC extension=".gba">B4E96836</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>[CHS]</comment>
@@ -6855,9 +6067,7 @@
 			<location>7</location>
 			<sourceRom>[Advance]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">52A5EE7E</romCRC>
-			</files>
+			<files><romCRC extension=".gba">52A5EE7E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>(v0.4a) [CHS]</comment>
@@ -6873,9 +6083,7 @@
 			<location>7</location>
 			<sourceRom>[Advance]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">413C4EF6</romCRC>
-			</files>
+			<files><romCRC extension=".gba">413C4EF6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>(v0.4b) [CHS]</comment>
@@ -6891,9 +6099,7 @@
 			<location>7</location>
 			<sourceRom>[Advance]</sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0E765848</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0E765848</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>[CHS]</comment>
@@ -6909,9 +6115,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">CF7585F1</romCRC>
-			</files>
+			<files><romCRC extension=".gba">CF7585F1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>瓦力欧寻宝记 (简)</comment>
@@ -6927,9 +6131,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">14A87B75</romCRC>
-			</files>
+			<files><romCRC extension=".gba">14A87B75</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级马力欧 2 (简)</comment>
@@ -6945,9 +6147,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">78A4D2D4</romCRC>
-			</files>
+			<files><romCRC extension=".gba">78A4D2D4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>瓦力欧制造 (简)</comment>
@@ -6963,9 +6163,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">E951865C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">E951865C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>密特罗德 - 零点任务 (简)</comment>
@@ -6981,9 +6179,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">9C32A829</romCRC>
-			</files>
+			<files><romCRC extension=".gba">9C32A829</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>耀西岛 (简)</comment>
@@ -6999,9 +6195,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">042E5B07</romCRC>
-			</files>
+			<files><romCRC extension=".gba">042E5B07</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>密特罗德 - 融合 (简)</comment>
@@ -7017,9 +6211,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">D97D4156</romCRC>
-			</files>
+			<files><romCRC extension=".gba">D97D4156</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>超级马力欧世界 (简)</comment>
@@ -7035,13 +6227,27 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">0E5C38B7</romCRC>
-			</files>
+			<files><romCRC extension=".gba">0E5C38B7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>极速 F-Zero 未来赛车 (简)</comment>
 			<duplicateID>2733</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0850</releaseNumber>
+			<title>Final Fantasy Tactics Advance (Japan)[Bear][CHS]</title>
+			<saveType></saveType>
+			<romSize>10361856</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom> </sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".gba">D036F063</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>最终幻想战略版Advance去BUG减容已打补丁版[熊组](简)</comment>
+			<duplicateID>0850</duplicateID>
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
@@ -7053,9 +6259,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">A7CC50AD</romCRC>
-			</files>
+			<files><romCRC extension=".gba">A7CC50AD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判一 [去片头] (简)</comment>
@@ -7071,9 +6275,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">9E49AC70</romCRC>
-			</files>
+			<files><romCRC extension=".gba">9E49AC70</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判二 [去片头] (简)</comment>
@@ -7089,9 +6291,7 @@
 			<location>7</location>
 			<sourceRom> </sourceRom>
 			<language>4</language>
-			<files>
-				<romCRC extension=".gba">F747409C</romCRC>
-			</files>
+			<files><romCRC extension=".gba">F747409C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment>逆转裁判三 [去片头] (简)</comment>
