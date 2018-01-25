@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>noIntro - Nintendo - Nintendo DS</datName>
 		<imFolder></imFolder>
-		<datVersion>20180114</datVersion>
+		<datVersion>20180125</datVersion>
 		<system>Nintendo - Nintendo DS</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -52280,7 +52280,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2903</releaseNumber>
-			<title>Fushigi no Dungeon - Fuurai no Shiren DS 2 - Sabaku no Majou (Japan) [b]</title>
+			<title>Fushigi no Dungeon - Fuurai no Shiren DS 2 - Sabaku no Majou (Japan)</title>
 			<saveType></saveType>
 			<romSize>33554432</romSize>
 			<publisher></publisher>
@@ -52288,7 +52288,7 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".nds">62B49BAA</romCRC>
+				<romCRC extension=".nds">660857F1</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
@@ -56762,7 +56762,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3152</releaseNumber>
-			<title>Penguin no Mondai - Saikyou Penguin Densetsu! (Japan) [b]</title>
+			<title>Penguin no Mondai - Saikyou Penguin Densetsu! (Japan)</title>
 			<saveType></saveType>
 			<romSize>67108864</romSize>
 			<publisher></publisher>
@@ -56770,7 +56770,7 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".nds">CF68CB81</romCRC>
+				<romCRC extension=".nds">EDD9E4FC</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
@@ -62252,7 +62252,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3457</releaseNumber>
-			<title>Gokujou!! Mecha Mote Iinchou - Mecha Mote Days, Hajimemasuwa! (Japan) [b]</title>
+			<title>Gokujou!! Mecha Mote Iinchou - Mecha Mote Days, Hajimemasuwa! (Japan)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -62260,7 +62260,7 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".nds">CDB68D86</romCRC>
+				<romCRC extension=".nds">E2B74DA9</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
@@ -62450,7 +62450,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3468</releaseNumber>
-			<title>7th Dragon (Japan) [b]</title>
+			<title>7th Dragon (Japan)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -62458,7 +62458,7 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".nds">507D57AD</romCRC>
+				<romCRC extension=".nds">D888FF05</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
@@ -70550,7 +70550,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3918</releaseNumber>
-			<title>&#039;Josei no Hinkaku&#039; Juku DS - Tsuyoku, Yasashiku, Utsukushiku - Bando Mariko Shinsho (Japan) [b]</title>
+			<title>&#039;Josei no Hinkaku&#039; Juku DS - Tsuyoku, Yasashiku, Utsukushiku - Bando Mariko Shinsho (Japan)</title>
 			<saveType></saveType>
 			<romSize>67108864</romSize>
 			<publisher></publisher>
@@ -70558,7 +70558,7 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".nds">FA543929</romCRC>
+				<romCRC extension=".nds">C106D9D6</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
@@ -72296,7 +72296,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4015</releaseNumber>
-			<title>Katekyoo Hitman Reborn! DS - Flame Rumble X - Mirai Chou Bakuhatsu!! (Japan) [b]</title>
+			<title>Katekyoo Hitman Reborn! DS - Flame Rumble X - Mirai Chou Bakuhatsu!! (Japan)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -72304,7 +72304,7 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files>
-				<romCRC extension=".nds">995F24E1</romCRC>
+				<romCRC extension=".nds">CBAD7614</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
@@ -124145,6 +124145,24 @@
 			<language>0</language>
 			<files>
 				<romCRC extension=".nds">03B4A3DC</romCRC>
+			</files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>80012</releaseNumber>
+			<title>Tongari Boushi to Mahou no Omise (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>134217728</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files>
+				<romCRC extension=".nds">5F050F56</romCRC>
 			</files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
