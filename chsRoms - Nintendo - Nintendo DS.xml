@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>chsRoms - Nintendo - Nintendo DS</datName>
 		<imFolder></imFolder>
-		<datVersion>20180128</datVersion>
+		<datVersion>20180130</datVersion>
 		<system>Nintendo - Nintendo DS</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -10552,6 +10552,38 @@
 			<im2CRC></im2CRC>
 			<comment>任天堂 DS 浏览器 (v0.1) [CHT]</comment>
 			<duplicateID>0591</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2151</releaseNumber>
+			<title>Super Dodgeball Brawlers (Japan)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom>[热血の魚缸]</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".nds">9DFA497B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>超热血高校国夫君躲避球部 (1.1) [CHS]</comment>
+			<duplicateID>2151</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>0070</releaseNumber>
+			<title>Advance Wars - Dual Strike (Japan)</title>
+			<saveType></saveType>
+			<romSize>28648608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom>[高级战争吧]</sourceRom>
+			<language>4</language>
+			<files><romCRC extension=".nds">2B5FE245</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment>高级战争-双重打击 (1.0) [CHS]</comment>
+			<duplicateID>0070</duplicateID>
 		</game>
 	</games>
 	<gui>
