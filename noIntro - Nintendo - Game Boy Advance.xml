@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>noIntro - Nintendo - Game Boy Advance</datName>
 		<imFolder></imFolder>
-		<datVersion>20180128</datVersion>
+		<datVersion>20190210</datVersion>
 		<system>Nintendo - Game Boy Advance</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -451,7 +451,7 @@
 			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gba">38231BC2</romCRC></files>
+			<files><romCRC extension=".gba">F7F40189</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -2124,7 +2124,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0131</releaseNumber>
-			<title>Kikikai-kai Advance (Japan)</title>
+			<title>Kiki Kaikai Advance (Japan)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -2812,7 +2812,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0174</releaseNumber>
-			<title>Jackie Chan Adventures - Legend of the Darkhand (USA, Europe)</title>
+			<title>Jackie Chan Adventures - Legend of the Dark Hand (USA, Europe)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -4636,11 +4636,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0288</releaseNumber>
-			<title>Super Mario Advance 2 - Super Mario World (USA, Australia)</title>
+			<title>Super Mario Advance 2 - Super Mario World (USA)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">5206880A</romCRC></files>
@@ -7260,7 +7260,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0452</releaseNumber>
-			<title>Ripping Friends, The (USA, Europe)</title>
+			<title>Ripping Friends, The - The World&#039;s Most Manly Men! (USA, Europe)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -8828,7 +8828,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0550</releaseNumber>
-			<title>Sabrina - The Teenage Witch - Potion Commotion (USA) (En,Fr,Es)</title>
+			<title>Sabrina the Teenage Witch - Potion Commotion (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -8908,7 +8908,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0555</releaseNumber>
-			<title>Pinky and the Brain - The Masterplan (Europe) (En,Fr,De,Es,It)</title>
+			<title>Pinky and the Brain - The Master Plan (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -9244,7 +9244,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0576</releaseNumber>
-			<title>Sabrina - The Teenage Witch - Potion Commotion (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<title>Sabrina the Teenage Witch - Potion Commotion (Europe) (En,Fr,De,Es,It,Nl)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -10204,7 +10204,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0636</releaseNumber>
-			<title>Smurfs, The - The Revenge of the Smurfs (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<title>Revenge of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -10812,11 +10812,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0674</releaseNumber>
-			<title>Metroid Fusion (USA, Australia)</title>
+			<title>Metroid Fusion (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">6C75479C</romCRC></files>
@@ -11052,7 +11052,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0689</releaseNumber>
-			<title>Masters of the Universe He-Man - Power of Grayskull (USA)</title>
+			<title>Masters of the Universe - He-Man - Power of Grayskull (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -11756,7 +11756,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0733</releaseNumber>
-			<title>LEGO Island - Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</title>
+			<title>Island Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -11971,7 +11971,7 @@
 			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gba">BCD9AA71</romCRC></files>
+			<files><romCRC extension=".gba">DCFDDFF7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -12188,11 +12188,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0760</releaseNumber>
-			<title>Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA, Australia)</title>
+			<title>Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">8E91CD13</romCRC></files>
@@ -12236,7 +12236,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0763</releaseNumber>
-			<title>Titeuf - Ze Gagmachine (France)</title>
+			<title>Titeuf - Ze Gag Machine (France)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -13084,7 +13084,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0816</releaseNumber>
-			<title>King of Fighters EX2, The - Howling Blood (Japan) (Rev 1)</title>
+			<title>King of Fighters EX 2, The - Howling Blood (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -14604,7 +14604,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0911</releaseNumber>
-			<title>Super Puzzle Fighter II Turbo (Europe)</title>
+			<title>Super Puzzle Fighter II (Europe)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -15692,7 +15692,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0979</releaseNumber>
-			<title>Super Puzzle Fighter II Turbo (USA)</title>
+			<title>Super Puzzle Fighter II (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -16716,11 +16716,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1043</releaseNumber>
-			<title>Advance Wars 2 - Black Hole Rising (USA, Australia)</title>
+			<title>Advance Wars 2 - Black Hole Rising (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">5AD0E571</romCRC></files>
@@ -16924,7 +16924,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1056</releaseNumber>
-			<title>King of Fighters EX2, The - Howling Blood (Europe)</title>
+			<title>King of Fighters EX 2, The - Howling Blood (Europe)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -17276,7 +17276,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1078</releaseNumber>
-			<title>Tootuff - The Gagmachine (Europe) (En,Fr,De,Es,It) (Proto)</title>
+			<title>Tootuff - The Gag Machine (Europe) (En,Fr,De,Es,It) (Proto)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -17996,11 +17996,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1123</releaseNumber>
-			<title>Final Fantasy Tactics Advance (USA, Australia)</title>
+			<title>Final Fantasy Tactics Advance (USA)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">5645E56C</romCRC></files>
@@ -18780,7 +18780,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1172</releaseNumber>
-			<title>Hobbit, The (Europe) (En,Fr,De,Es,It)</title>
+			<title>Hobbit, The - The Prelude to the Lord of the Rings (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -19102,12 +19102,12 @@
 			<releaseNumber>1192</releaseNumber>
 			<title>Matantei Loki Ragnarok - Gensou no Labyrinth (Japan)</title>
 			<saveType></saveType>
-			<romSize>4194304</romSize>
+			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gba">31843E8D</romCRC></files>
+			<files><romCRC extension=".gba">4EBDAD86</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -19596,11 +19596,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1223</releaseNumber>
-			<title>Pokemon - Ruby Version (Europe) (Rev 1)</title>
+			<title>Pokemon - Ruby Version (USA, Europe) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>16</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">61641576</romCRC></files>
@@ -19628,7 +19628,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1225</releaseNumber>
-			<title>Dr. Seuss&#039; - The Cat in the Hat (USA)</title>
+			<title>Dr. Seuss&#039; The Cat in the Hat (USA)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -19868,7 +19868,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1240</releaseNumber>
-			<title>Justice League Chronicles (USA)</title>
+			<title>Justice League - Chronicles (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -19948,7 +19948,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1245</releaseNumber>
-			<title>Hobbit, The (USA)</title>
+			<title>Hobbit, The - The Prelude to the Lord of the Rings (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -20156,11 +20156,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1258</releaseNumber>
-			<title>Mario &amp; Luigi - Superstar Saga (USA, Australia)</title>
+			<title>Mario &amp; Luigi - Superstar Saga (USA)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">E718D850</romCRC></files>
@@ -20972,7 +20972,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1309</releaseNumber>
-			<title>King of Fighters EX2, The - Howling Blood (USA)</title>
+			<title>King of Fighters EX 2, The - Howling Blood (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -22332,7 +22332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1394</releaseNumber>
-			<title>Dr. Seuss&#039; - The Cat in the Hat (Europe) (En,Fr,De,Es,It)</title>
+			<title>Cat in the Hat, The (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -24668,7 +24668,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1540</releaseNumber>
-			<title>Kirby &amp; the Amazing Mirror (Europe) (En,Fr,De,Es,It)</title>
+			<title>Kirby &amp; The Amazing Mirror (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -27100,7 +27100,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1692</releaseNumber>
-			<title>Kirby &amp; the Amazing Mirror (USA)</title>
+			<title>Kirby &amp; The Amazing Mirror (USA)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -28060,11 +28060,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1752</releaseNumber>
-			<title>Donkey Kong Country 2 (USA, Australia)</title>
+			<title>Donkey Kong Country 2 (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">11417FC1</romCRC></files>
@@ -28524,11 +28524,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1781</releaseNumber>
-			<title>Final Fantasy I &amp; II - Dawn of Souls (USA, Australia)</title>
+			<title>Final Fantasy I &amp; II - Dawn of Souls (USA)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">1B39CDAB</romCRC></files>
@@ -30092,7 +30092,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1879</releaseNumber>
-			<title>Cat in the Hat by Dr. Seuss, The (USA)</title>
+			<title>Cat in the Hat, The (USA)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -31980,7 +31980,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1997</releaseNumber>
-			<title>Yoshi - Topsy-Turvy (USA)</title>
+			<title>Yoshi Topsy-Turvy (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -32508,11 +32508,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2030</releaseNumber>
-			<title>Dynasty Warriors Advance (USA, Australia)</title>
+			<title>Dynasty Warriors Advance (USA)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">AD5A2A4E</romCRC></files>
@@ -32524,11 +32524,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2031</releaseNumber>
-			<title>DK - King of Swing (USA, Australia)</title>
+			<title>DK - King of Swing (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">D610B239</romCRC></files>
@@ -32748,7 +32748,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2045</releaseNumber>
-			<title>Kim Possible III - Team Possible (USA) (En,Fr)</title>
+			<title>Kim Possible 3 - Team Possible (USA) (En,Fr)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -33996,7 +33996,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2123</releaseNumber>
-			<title>Barbie Superpack (USA)</title>
+			<title>Barbie Superpack - Secret Agent + Groovy Games (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -34220,7 +34220,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2137</releaseNumber>
-			<title>Barbie Superpack (Europe) (En,Fr,De,Es,It)</title>
+			<title>Barbie Superpack - Secret Agent + Groovy Games (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -34332,7 +34332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2144</releaseNumber>
-			<title>Ever Girl (USA)</title>
+			<title>everGirl (USA)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -34748,7 +34748,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2170</releaseNumber>
-			<title>Crash Superpack (USA)</title>
+			<title>Crash Superpack - Crash Bandicoot 2 - N-Tranced + Crash Nitro Kart (USA)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -35116,11 +35116,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2193</releaseNumber>
-			<title>Donkey Kong Country 3 (USA, Australia)</title>
+			<title>Donkey Kong Country 3 (USA)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">FE03E5AF</romCRC></files>
@@ -35756,11 +35756,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2233</releaseNumber>
-			<title>2 Games in One! - Dr. Mario + Puzzle League (USA, Australia)</title>
+			<title>2 Games in One! - Dr. Mario + Puzzle League (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">4C2B7349</romCRC></files>
@@ -35980,11 +35980,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2247</releaseNumber>
-			<title>Final Fantasy IV Advance (USA, Australia)</title>
+			<title>Final Fantasy IV Advance (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">FEEEBDE4</romCRC></files>
@@ -36542,12 +36542,12 @@
 			<releaseNumber>2282</releaseNumber>
 			<title>Double Game! - Cartoon Network Block Party &amp; Cartoon Network Speedway (Europe)</title>
 			<saveType></saveType>
-			<romSize>8388608</romSize>
+			<romSize>33554432</romSize>
 			<publisher></publisher>
 			<location>0</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gba">3A4F8E4D</romCRC></files>
+			<files><romCRC extension=".gba">9E6A2F1E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -36684,7 +36684,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2291</releaseNumber>
-			<title>Majesco&#039;s Rec Room Challenge (Europe)</title>
+			<title>3 Games in One - Darts + Roll-a-Ball + Shuffle Bowl (Europe)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -37660,7 +37660,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2352</releaseNumber>
-			<title>2 Jeux en 1 - Titeuf - Ze Gagmachine + Titeuf - Mega Compet (France)</title>
+			<title>2 Jeux en 1 - Titeuf - Ze Gag Machine + Titeuf - Mega Compet (France)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -37852,7 +37852,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2364</releaseNumber>
-			<title>Spyro Superpack (USA)</title>
+			<title>Spyro Superpack - Spyro - Season of Ice + Spyro 2 - Season of Flame (USA)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -38556,7 +38556,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2408</releaseNumber>
-			<title>Pocket Professor - Kwik Notes - Vol. 1 (USA)</title>
+			<title>Pocket Professor - Kwik Notes - Volume One (USA)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -40444,7 +40444,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2526</releaseNumber>
-			<title>Majesco&#039;s Rec Room Challenge (USA)</title>
+			<title>3 Games in One - Darts + Roll-a-Ball + Shuffle Bowl (USA)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -40732,7 +40732,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2544</releaseNumber>
-			<title>Sportsman&#039;s Pack (USA)</title>
+			<title>Sportsmans Pack 2 in 1 - Cabela&#039;s Big Game Hunter + Rapala Pro Fishing (USA)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -43708,11 +43708,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2730</releaseNumber>
-			<title>Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Da)</title>
+			<title>Harry Potter and the Order of the Phoenix (USA, Europe) (En,Fr,De,Es,It,Nl,Da)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>16</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">302B8B3D</romCRC></files>
@@ -45212,7 +45212,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2824</releaseNumber>
-			<title>Game Boy Advance Video - Shrek 2 (USA)</title>
+			<title>Game Boy Advance Video - Shrek 2 (USA) (Rev 5)</title>
 			<saveType></saveType>
 			<romSize>67108864</romSize>
 			<publisher></publisher>
@@ -45228,7 +45228,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2825</releaseNumber>
-			<title>Game Boy Advance Video - Shrek (USA)</title>
+			<title>Game Boy Advance Video - Shrek (USA) (Rev 5)</title>
 			<saveType></saveType>
 			<romSize>67108864</romSize>
 			<publisher></publisher>
@@ -45244,7 +45244,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2826</releaseNumber>
-			<title>Game Boy Advance Video - Shrek + Shark Tale (USA)</title>
+			<title>Game Boy Advance Video - Shrek + Shark Tale (USA) (Rev 5)</title>
 			<saveType></saveType>
 			<romSize>67108864</romSize>
 			<publisher></publisher>
@@ -45340,7 +45340,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2832</releaseNumber>
-			<title>Game Boy Advance Video - Disney Channel Collection - Volume 2 (USA)</title>
+			<title>Game Boy Advance Video - Disney Channel Collection - Volume 2 (USA) (Rev 5)</title>
 			<saveType></saveType>
 			<romSize>67108864</romSize>
 			<publisher></publisher>
@@ -45460,6 +45460,662 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">FCA59484</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2840</releaseNumber>
+			<title>Dark Empire (Japan) (Proto)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">DD393A80</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2841</releaseNumber>
+			<title>King Kong - The Official Game of the Movie (Europe) (En,Sv,No,Da,Fi)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">439A92EB</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2842</releaseNumber>
+			<title>Turok Advance (Unknown) (Proto) (Earlier)</title>
+			<saveType></saveType>
+			<romSize>3690631</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">401E10EA</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2843</releaseNumber>
+			<title>Turok Advance (Unknown) (Proto) (Dark Version)</title>
+			<saveType></saveType>
+			<romSize>4830098</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">378D6DA7</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2844</releaseNumber>
+			<title>Turok Advance (Unknown) (Proto) (Bright Version)</title>
+			<saveType></saveType>
+			<romSize>4830066</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">9EF46F34</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2845</releaseNumber>
+			<title>Paws &amp; Claws - Pet Vet (USA)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">EFEE1DDF</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2846</releaseNumber>
+			<title>Dogz 2 (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">A0EBB191</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2847</releaseNumber>
+			<title>Peter Pan - Return to Neverland (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>13</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">431DFEA8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2848</releaseNumber>
+			<title>Lord of the Rings, The - The Fellowship of the Ring (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">5A2B01F1</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2849</releaseNumber>
+			<title>Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">5ADF72E6</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2850</releaseNumber>
+			<title>Shrek - Swamp Kart Speedway (USA) (En,Fr,De,Es,It,Nl) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">41F55560</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2851</releaseNumber>
+			<title>SimCity 2000 (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">097E8628</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2852</releaseNumber>
+			<title>Medarot Ni Core - Kabuto (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">3F15FEAA</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2853</releaseNumber>
+			<title>Monster Gate (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">7960926C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2854</releaseNumber>
+			<title>Samsara Naga 1x2 (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">A79872FE</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2855</releaseNumber>
+			<title>Winning Post for Game Boy Advance (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">F6180AF5</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2856</releaseNumber>
+			<title>Shin Sangoku Musou Advance (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">7CEDED10</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2857</releaseNumber>
+			<title>Duel Masters 3 (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">D2B9CFB6</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2858</releaseNumber>
+			<title>Fruits Mura no Doubutsu-tachi (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">AA14B198</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2859</releaseNumber>
+			<title>Hello! Idol Debut - Kids Idol Ikusei Game (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">40958C2C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2860</releaseNumber>
+			<title>Sennen Kazoku (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">DCAAE075</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2861</releaseNumber>
+			<title>Cardcaptor Sakura - Sakura Card Hen - Sakura to Card to Otomodachi (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">2C8488B2</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2862</releaseNumber>
+			<title>Himawari Doubutsu Byouin - Pet no Oishasan Ikusei Game (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">526FDFFF</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2863</releaseNumber>
+			<title>Minna no Soft Series - Shanghai (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">28A8DC30</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2864</releaseNumber>
+			<title>Super Dodge Ball Advance (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">63CA5050</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2865</releaseNumber>
+			<title>Ultimate Card Games (USA) (Rev 2)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">94863423</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2866</releaseNumber>
+			<title>Aka-chan Doubutsuen (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">C1072E26</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2867</releaseNumber>
+			<title>Game Boy Advance Video - Shrek 2 (USA) (Rev 6)</title>
+			<saveType></saveType>
+			<romSize>67108864</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">925B6C02</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2868</releaseNumber>
+			<title>Super Puzzle Fighter II (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">62066FC9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2869</releaseNumber>
+			<title>Hardcore Pool (France)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>5</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">44779175</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2870</releaseNumber>
+			<title>Racing Fever (France)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>5</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">4F61DEDB</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2871</releaseNumber>
+			<title>Tweety and the Magic Gems (Netherlands)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>8</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">F1A49D56</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2872</releaseNumber>
+			<title>Game Boy Advance Video - Shrek (USA) (Rev 6)</title>
+			<saveType></saveType>
+			<romSize>67108864</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">4010E9FA</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2873</releaseNumber>
+			<title>Ultimate Card Games (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">300F5D25</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2874</releaseNumber>
+			<title>J.League Pocket (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">0524E9EF</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2875</releaseNumber>
+			<title>World Reborn (USA) (Unl)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">68301A80</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2876</releaseNumber>
+			<title>SN Systems (Europe)</title>
+			<saveType></saveType>
+			<romSize>33554432</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">00F5687A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2877</releaseNumber>
+			<title>Pocket Monsters - LeafGreen (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">8DA4601A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2878</releaseNumber>
+			<title>Bibi und Tina - Ferien auf dem Martinshof (Germany) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>2</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">FD8C06EE</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2879</releaseNumber>
+			<title>Strawberry Shortcake - Ice Cream Island - Riding Camp (Europe) (En,Fr,De,Es,It,Nl,Pt,Da) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>8388608</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">F3F2E465</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2880</releaseNumber>
+			<title>Hunter X Hunter - Minna Tomodachi Daisakusen!! (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>16777216</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">86C21AEB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -46588,11 +47244,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70071</releaseNumber>
-			<title>Rocket Power - Beach Bandits (USA) (v0.14) (Beta)</title>
+			<title>Rocket Power - Beach Bandits (USA, Europe) (v0.14) (Beta)</title>
 			<saveType></saveType>
 			<romSize>4101616</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>16</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">D3755452</romCRC></files>
@@ -46892,7 +47548,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70090</releaseNumber>
-			<title>Droopy&#039;s Tennis Open (Europe) (En,Fr,De,Es,It,Nl) (Beta) [b]</title>
+			<title>Droopy&#039;s Tennis Open (Europe) (En,Fr,De,Es,It,Nl) (Beta)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -47132,7 +47788,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70105</releaseNumber>
-			<title>Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (11-09-2002)</title>
+			<title>Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-11)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47148,7 +47804,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70106</releaseNumber>
-			<title>Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (16-09-2002)</title>
+			<title>Metroid Fusion (Europe) (En,Fr,De,Es,It) (Beta) (2002-09-16)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47196,7 +47852,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70109</releaseNumber>
-			<title>Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Wii U Virtual Console)</title>
+			<title>Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47260,7 +47916,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70113</releaseNumber>
-			<title>Resident Evil 2 (Unknown) (Unl)</title>
+			<title>Resident Evil 2 (Unknown) (Proto)</title>
 			<saveType></saveType>
 			<romSize>2908576</romSize>
 			<publisher></publisher>
@@ -47308,11 +47964,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70116</releaseNumber>
-			<title>Super Mario Advance (USA) (Virtual Console)</title>
+			<title>Super Mario Advance (USA, Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>16</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">5251F2BF</romCRC></files>
@@ -47324,7 +47980,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70117</releaseNumber>
-			<title>Super Ghouls&#039;n Ghosts (USA) (Virtual Console)</title>
+			<title>Super Ghouls&#039;n Ghosts (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -47436,7 +48092,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70124</releaseNumber>
-			<title>Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
+			<title>Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47596,7 +48252,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70134</releaseNumber>
-			<title>Tsuukin Hitofude (Japan) (Virtual Console)</title>
+			<title>Tsuukin Hitofude (Japan) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -47612,7 +48268,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70135</releaseNumber>
-			<title>Fire Emblem - The Sacred Stones (USA) (Virtual Console)</title>
+			<title>Fire Emblem - The Sacred Stones (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47628,7 +48284,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70136</releaseNumber>
-			<title>Fire Emblem (USA) (Virtual Console)</title>
+			<title>Fire Emblem (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47644,7 +48300,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70137</releaseNumber>
-			<title>F-Zero - GP Legend (USA) (Virtual Console)</title>
+			<title>F-Zero - GP Legend (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47660,7 +48316,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70138</releaseNumber>
-			<title>F-Zero - Maximum Velocity (USA) (Virtual Console)</title>
+			<title>F-Zero - Maximum Velocity (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -47676,7 +48332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70139</releaseNumber>
-			<title>Game &amp; Watch Gallery 4 (USA) (Virtual Console)</title>
+			<title>Game &amp; Watch Gallery 4 (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -47708,7 +48364,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70141</releaseNumber>
-			<title>Kirby &amp; the Amazing Mirror (USA) (Wii U Virtual Console)</title>
+			<title>Kirby &amp; The Amazing Mirror (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47724,7 +48380,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70142</releaseNumber>
-			<title>Mario &amp; Luigi - Superstar Saga (USA) (Virtual Console)</title>
+			<title>Mario &amp; Luigi - Superstar Saga (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47740,7 +48396,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70143</releaseNumber>
-			<title>Mario Kart - Super Circuit (USA) (Virtual Console)</title>
+			<title>Mario Kart - Super Circuit (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -47756,7 +48412,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70144</releaseNumber>
-			<title>Mario Party Advance (USA) (Virtual Console)</title>
+			<title>Mario Party Advance (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47772,7 +48428,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70145</releaseNumber>
-			<title>Mario Tennis - Power Tour (USA) (En,Fr,De,Es,It) (Virtual Console)</title>
+			<title>Mario Tennis - Power Tour (USA) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47788,7 +48444,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70146</releaseNumber>
-			<title>Metroid - Zero Mission (USA) (Virtual Console)</title>
+			<title>Metroid - Zero Mission (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47804,7 +48460,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70147</releaseNumber>
-			<title>Metroid Fusion (USA) (Virtual Console)</title>
+			<title>Metroid Fusion (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47820,7 +48476,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70148</releaseNumber>
-			<title>Wario Land 4 (USA, Europe) (Virtual Console)</title>
+			<title>Wario Land 4 (USA, Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47852,7 +48508,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70150</releaseNumber>
-			<title>Golden Sun - The Lost Age (USA, Europe) (Virtual Console)</title>
+			<title>Golden Sun - The Lost Age (USA, Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47868,7 +48524,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70151</releaseNumber>
-			<title>WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)</title>
+			<title>WarioWare, Inc. - Mega Microgame$! (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47884,7 +48540,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70152</releaseNumber>
-			<title>Advance Wars (Europe) (En,Fr,De,Es) (Virtual Console)</title>
+			<title>Advance Wars (Europe) (En,Fr,De,Es) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47900,7 +48556,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70153</releaseNumber>
-			<title>Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It) (Virtual Console)</title>
+			<title>Advance Wars 2 - Black Hole Rising (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -47916,7 +48572,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70154</releaseNumber>
-			<title>Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Virtual Console)</title>
+			<title>Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>33554432</romSize>
 			<publisher></publisher>
@@ -47932,7 +48588,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70155</releaseNumber>
-			<title>Fire Emblem (Europe) (En,Fr,De) (Virtual Console)</title>
+			<title>Fire Emblem (Europe) (En,Fr,De) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47948,7 +48604,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70156</releaseNumber>
-			<title>F-Zero - GP Legend (Europe) (En,Fr,De,Es,It) (Virtual Console)</title>
+			<title>F-Zero - GP Legend (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47964,7 +48620,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70157</releaseNumber>
-			<title>Mario &amp; Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Virtual Console)</title>
+			<title>Mario &amp; Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -47980,7 +48636,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70158</releaseNumber>
-			<title>Mario Kart - Super Circuit (Europe) (Virtual Console)</title>
+			<title>Mario Kart - Super Circuit (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -47996,7 +48652,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70159</releaseNumber>
-			<title>Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Virtual Console)</title>
+			<title>Metroid - Zero Mission (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48012,7 +48668,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70160</releaseNumber>
-			<title>Metroid Fusion (Europe) (En,Fr,De,Es,It) (Virtual Console)</title>
+			<title>Metroid Fusion (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48028,7 +48684,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70161</releaseNumber>
-			<title>Super Mario Advance 3 - Yoshi&#039;s Island (Europe) (En,Fr,De,Es,It) (Virtual Console)</title>
+			<title>Super Mario Advance 3 - Yoshi&#039;s Island (Europe) (En,Fr,De,Es,It) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48044,7 +48700,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70162</releaseNumber>
-			<title>Game Boy Gallery 4 (Japan) (Virtual Console)</title>
+			<title>Game Boy Gallery 4 (Japan) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -48060,7 +48716,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70163</releaseNumber>
-			<title>Made in Wario (Japan) (Virtual Console)</title>
+			<title>Made in Wario (Japan) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48076,7 +48732,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70164</releaseNumber>
-			<title>Mario Kart Advance (Japan) (Virtual Console)</title>
+			<title>Mario Kart Advance (Japan) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -48092,7 +48748,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70165</releaseNumber>
-			<title>Mario Party Advance (Japan) (Virtual Console)</title>
+			<title>Mario Party Advance (Japan) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48108,7 +48764,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70166</releaseNumber>
-			<title>Super Mario Ball (Japan) (Virtual Console)</title>
+			<title>Super Mario Ball (Japan) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48124,7 +48780,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70167</releaseNumber>
-			<title>Wario Land Advance - Youki no Otakara (Japan) (Virtual Console)</title>
+			<title>Wario Land Advance - Youki no Otakara (Japan) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48140,7 +48796,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70168</releaseNumber>
-			<title>Castlevania - Aria of Sorrow (USA) (Virtual Console)</title>
+			<title>Castlevania - Aria of Sorrow (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48156,7 +48812,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70169</releaseNumber>
-			<title>Castlevania - Circle of the Moon (USA) (Virtual Console)</title>
+			<title>Castlevania - Circle of the Moon (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48172,7 +48828,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70170</releaseNumber>
-			<title>Contra Advance - The Alien Wars EX (USA) (Virtual Console)</title>
+			<title>Contra Advance - The Alien Wars EX (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -48188,7 +48844,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70171</releaseNumber>
-			<title>Final Fantasy Tactics Advance (USA) (Virtual Console)</title>
+			<title>Final Fantasy Tactics Advance (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -48204,7 +48860,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70172</releaseNumber>
-			<title>Final Fight One (USA) (Virtual Console)</title>
+			<title>Final Fight One (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -48220,7 +48876,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70173</releaseNumber>
-			<title>Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console)</title>
+			<title>Klonoa 2 - Dream Champ Tournament (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -48236,7 +48892,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70174</releaseNumber>
-			<title>Medabots - Metabee (USA) (Virtual Console)</title>
+			<title>Medabots - Metabee (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48252,7 +48908,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70175</releaseNumber>
-			<title>Mega Man &amp; Bass (USA) (Virtual Console)</title>
+			<title>Mega Man &amp; Bass (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48268,7 +48924,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70176</releaseNumber>
-			<title>Mega Man Battle Chip Challenge (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Chip Challenge (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48284,7 +48940,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70177</releaseNumber>
-			<title>Mega Man Battle Network (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48300,7 +48956,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70178</releaseNumber>
-			<title>Mega Man Battle Network 2 (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network 2 (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48316,7 +48972,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70179</releaseNumber>
-			<title>Mega Man Battle Network 3 - White Version (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network 3 - White Version (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48332,7 +48988,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70180</releaseNumber>
-			<title>Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network 4 - Blue Moon (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48348,7 +49004,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70181</releaseNumber>
-			<title>Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network 4 - Red Sun (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48364,7 +49020,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70182</releaseNumber>
-			<title>Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network 5 - Team Colonel (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48380,7 +49036,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70183</releaseNumber>
-			<title>Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network 5 - Team Proto Man (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48396,7 +49052,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70184</releaseNumber>
-			<title>Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network 6 - Cybeast Falzar (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48412,7 +49068,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70185</releaseNumber>
-			<title>Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)</title>
+			<title>Mega Man Battle Network 6 - Cybeast Gregar (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48428,7 +49084,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70186</releaseNumber>
-			<title>Mega Man Zero (USA) (Virtual Console)</title>
+			<title>Mega Man Zero (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48444,7 +49100,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70187</releaseNumber>
-			<title>Mega Man Zero 2 (USA) (Virtual Console)</title>
+			<title>Mega Man Zero 2 (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48460,7 +49116,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70188</releaseNumber>
-			<title>Mega Man Zero 3 (USA) (Virtual Console)</title>
+			<title>Mega Man Zero 3 (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -48476,7 +49132,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70189</releaseNumber>
-			<title>Pac-Man Collection (USA) (Virtual Console)</title>
+			<title>Pac-Man Collection (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -48492,7 +49148,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70190</releaseNumber>
-			<title>Super Street Fighter II Turbo - Revival (USA) (Virtual Console)</title>
+			<title>Super Street Fighter II Turbo - Revival (USA) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48508,7 +49164,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70191</releaseNumber>
-			<title>Castlevania (Europe) (Virtual Console)</title>
+			<title>Castlevania (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48524,7 +49180,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70192</releaseNumber>
-			<title>Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Virtual Console)</title>
+			<title>Castlevania - Aria of Sorrow (Europe) (En,Fr,De) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48540,7 +49196,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70193</releaseNumber>
-			<title>Mega Man Battle Chip Challenge (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Chip Challenge (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48556,7 +49212,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70194</releaseNumber>
-			<title>Mega Man Battle Network (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48572,7 +49228,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70195</releaseNumber>
-			<title>Mega Man Battle Network 3 - Blue (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network 3 - Blue (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48588,7 +49244,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70196</releaseNumber>
-			<title>Mega Man Battle Network 3 - White (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network 3 - White (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48604,7 +49260,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70197</releaseNumber>
-			<title>Mega Man Battle Network 4 - Blue Moon (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network 4 - Blue Moon (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48620,7 +49276,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70198</releaseNumber>
-			<title>Mega Man Battle Network 4 - Red Sun (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network 4 - Red Sun (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48636,14 +49292,14 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70199</releaseNumber>
-			<title>Mega Man Battle Network 5 - Team Colonel (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network 5 - Team Colonel (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>0</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gba">A4D90438</romCRC></files>
+			<files><romCRC extension=".gba">5247772C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -48652,14 +49308,14 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70200</releaseNumber>
-			<title>Mega Man Battle Network 5 - Team Proto Man (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network 5 - Team Proto Man (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
 			<location>0</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gba">88C5BB29</romCRC></files>
+			<files><romCRC extension=".gba">7E5BC83D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -48668,7 +49324,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70201</releaseNumber>
-			<title>Mega Man Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network 6 - Cybeast Falzar (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48684,7 +49340,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70202</releaseNumber>
-			<title>Mega Man Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console)</title>
+			<title>Mega Man Battle Network 6 - Cybeast Gregar (Europe) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48700,7 +49356,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70203</releaseNumber>
-			<title>Final Fantasy I, II Advance (Japan) (Virtual Console)</title>
+			<title>Final Fantasy I, II Advance (Japan) (Rev 1) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>16777216</romSize>
 			<publisher></publisher>
@@ -48716,7 +49372,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70204</releaseNumber>
-			<title>Final Fantasy V Advance (Japan) (Virtual Console)</title>
+			<title>Final Fantasy V Advance (Japan) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -48732,7 +49388,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70205</releaseNumber>
-			<title>Dog Trainer 2 (France)</title>
+			<title>Dog Trainer 2 (France) (Unl)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -48740,70 +49396,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">B2100FED</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70206</releaseNumber>
-			<title>Nintendogs + Super Mario 64 DS - Trainer Expansion for NDS (USA)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">6B3961FB</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70207</releaseNumber>
-			<title>Basic Sample by Nintendo (Unknown) (Demo)</title>
-			<saveType></saveType>
-			<romSize>10492</romSize>
-			<publisher></publisher>
-			<location>99</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">13111CE8</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70208</releaseNumber>
-			<title>Blib Sample by Nintendo (Unknown) (Sample)</title>
-			<saveType></saveType>
-			<romSize>121936</romSize>
-			<publisher></publisher>
-			<location>99</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">C03A6B6F</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70210</releaseNumber>
-			<title>Mario Bros. (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>36452</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">DEE2CEA8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -49035,271 +49627,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>70227</releaseNumber>
-			<title>Clu Clu Land (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>53444</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">E87E6A28</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70228</releaseNumber>
-			<title>Soccer (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>53444</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">3CBBAF9F</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70229</releaseNumber>
-			<title>Excitebike (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>53444</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">96803B21</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70230</releaseNumber>
-			<title>Balloon Fight (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>35812</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">BD083FDA</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70231</releaseNumber>
-			<title>Ice Climber (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>38084</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">C2752A4A</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>70232</releaseNumber>
-			<title>Diddy Kong Pilot (Unknown) (Proto) (2001) [b]</title>
+			<title>Diddy Kong Pilot (Unknown) (Proto) (2001)</title>
 			<saveType></saveType>
-			<romSize>7509166</romSize>
+			<romSize>7509167</romSize>
 			<publisher></publisher>
 			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gba">89AB57A2</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70233</releaseNumber>
-			<title>Donkey Kong (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>35940</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">50AE2DCE</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70234</releaseNumber>
-			<title>Donkey Kong Jr. (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>36676</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">90CAF9C9</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70235</releaseNumber>
-			<title>Donkey Kong Jr. Math (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>38084</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">B95D8009</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70236</releaseNumber>
-			<title>Donkey Kong 3 (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>36804</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">93968C4B</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70237</releaseNumber>
-			<title>Tennis (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>36484</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">22CC106C</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70238</releaseNumber>
-			<title>Pinball (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>53444</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">DAEF10EA</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70239</releaseNumber>
-			<title>Baseball (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>36804</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">C276F91E</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70240</releaseNumber>
-			<title>Super Mario Bros. (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>53444</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">2AFDC4CF</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70241</releaseNumber>
-			<title>Golf (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>36132</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">06B0CA39</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70242</releaseNumber>
-			<title>Dr. Mario (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>51116</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">58DB9736</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>70243</releaseNumber>
-			<title>Yoshi&#039;s Cookie (USA) (Advance Play Edition)</title>
-			<saveType></saveType>
-			<romSize>101168</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gba">2F564E59</romCRC></files>
+			<files><romCRC extension=".gba">8903CC5F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -49404,7 +49740,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70250</releaseNumber>
-			<title>Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Wii U Virtual Console)</title>
+			<title>Super Mario Advance 4 - Super Mario 3 + Mario Brothers (Japan) (Rev 2) (Wii U Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>8388608</romSize>
 			<publisher></publisher>
@@ -49460,6 +49796,54 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gba">11FF7A67</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>70254</releaseNumber>
+			<title>Pokemon - Aura Mew Distribution (Europe)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">90CEC13B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>70255</releaseNumber>
+			<title>Mario Kart Advance (Japan) (3DS Virtual Console)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">85493F2C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>70256</releaseNumber>
+			<title>Daigassou! Band-Brothers - Request Selection (Japan) (Expansion Cartridge)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gba">C3C1A0D2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>

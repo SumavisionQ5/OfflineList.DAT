@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
 	<configuration>
-		<datName>noIntro - Nintendo - Nintendo 3DS</datName>
+		<datName>noIntro - Nintendo - Nintendo 3DS (Encrypted)</datName>
 		<imFolder></imFolder>
-		<datVersion>20180128</datVersion>
-		<system>Nintendo - Nintendo 3DS</system>
+		<datVersion>20190210</datVersion>
+		<system>Nintendo - Nintendo 3DS (Encrypted)</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
 		<infos>
@@ -27,7 +27,7 @@
 		</canOpen>
 		<newDat>
 			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="noIntro - Nintendo - Nintendo 3DS.xml">http://nan.im/apps/romdat/noIntro.php?host=3ds</datURL>
+			<datURL fileName="noIntro - Nintendo - Nintendo 3DS (Encrypted).xml">http://nan.im/apps/romdat/noIntro.php?host=3ds</datURL>
 			<imURL></imURL>
 		</newDat>
 		<search>
@@ -364,7 +364,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0021</releaseNumber>
-			<title>Driver Renegade 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</title>
+			<title>Driver - Renegade 3D (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</title>
 			<saveType></saveType>
 			<romSize>536870912</romSize>
 			<publisher></publisher>
@@ -3612,7 +3612,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0224</releaseNumber>
-			<title>Mario wa Sonic London Olympic (Korea)</title>
+			<title>Mariowa Sonic London Olympic (Korea)</title>
 			<saveType></saveType>
 			<romSize>536870912</romSize>
 			<publisher></publisher>
@@ -5900,7 +5900,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0367</releaseNumber>
-			<title>Luigi&#039;s Mansion 2 (Japan)</title>
+			<title>Luigi Mansion 2 (Japan)</title>
 			<saveType></saveType>
 			<romSize>1073741824</romSize>
 			<publisher></publisher>
@@ -6428,7 +6428,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0400</releaseNumber>
-			<title>3D Game Collection - 55 in 1 (Europe)</title>
+			<title>3D Game Collection - 55-in-1 (Europe)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -6860,7 +6860,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0427</releaseNumber>
-			<title>Heavy Fire - The Chosen Few (USA)</title>
+			<title>Heavy Fire - The Chosen Few 3D (USA)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -7868,7 +7868,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0490</releaseNumber>
-			<title>Adventure Time - Explore the Dungeon Because I DON&#039;T KNOW! (USA)</title>
+			<title>Adventure Time - Explore the Dungeon because I DON&#039;T KNOW! (USA)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -8332,7 +8332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0519</releaseNumber>
-			<title>Doraemon and Nobita Number Adventure (Taiwan)</title>
+			<title>Doraemon - Nobita&#039;s Number Adventure (Taiwan)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -8940,7 +8940,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0557</releaseNumber>
-			<title>Adventure Time - Explore the Dungeon Because I DON&#039;T KNOW! (Europe) (En,Fr,De,Es,It)</title>
+			<title>Adventure Time - Explore the Dungeon because I DON&#039;T KNOW! (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -9276,7 +9276,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0578</releaseNumber>
-			<title>Mystery Case Files - Dire Groves (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<title>Mystery Case Files - Dire Grove (Europe) (En,Fr,De,Es,It,Nl)</title>
 			<saveType></saveType>
 			<romSize>268435456</romSize>
 			<publisher></publisher>
@@ -10220,7 +10220,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0637</releaseNumber>
-			<title>Imagine Babyz (USA) (En,Fr,Es)</title>
+			<title>Imagine - Babyz (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>268435456</romSize>
 			<publisher></publisher>
@@ -10940,7 +10940,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0682</releaseNumber>
-			<title>One Piece - Romance Dawn (Japan)</title>
+			<title>One Piece - Romance Dawn - Bouken no Yoake (Japan)</title>
 			<saveType></saveType>
 			<romSize>1073741824</romSize>
 			<publisher></publisher>
@@ -11308,7 +11308,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0705</releaseNumber>
-			<title>PachiPara 3D - Deluxe Umi Monogatari Pachipro Fuunroku (Japan)</title>
+			<title>PachiPara 3D - Deluxe Umi Monogatari - Pachi-Pro Fuuunroko - Hana Kotou no Shoubushi Tachi (Japan)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -11676,7 +11676,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0728</releaseNumber>
-			<title>Puyo Puyo (Japan)</title>
+			<title>Puyo Puyo!! 20th Anniversary (Japan)</title>
 			<saveType></saveType>
 			<romSize>536870912</romSize>
 			<publisher></publisher>
@@ -12476,7 +12476,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0778</releaseNumber>
-			<title>Hime Gal Paradise - Mechikawa! Agemori Sensation! (Japan)</title>
+			<title>Hime Girl Paradise - Mechikawa! Agemori Sensation! (Japan)</title>
 			<saveType></saveType>
 			<romSize>536870912</romSize>
 			<publisher></publisher>
@@ -12892,7 +12892,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0804</releaseNumber>
-			<title>Hoppechan - Tsukutte! Asonde! Punipuni Town!! (Japan) (Rev 1)</title>
+			<title>Hoppe-chan - Tsukutte! Asonde! Punipuni Town!! (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>536870912</romSize>
 			<publisher></publisher>
@@ -13340,7 +13340,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0832</releaseNumber>
-			<title>Jewel Link - Legends of Atlantis (Europe) (En,Fr,Es,It)</title>
+			<title>Jewel Link - Legends of Atlantis 3D (Europe) (En,Fr,Es,It)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -13916,7 +13916,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0868</releaseNumber>
-			<title>Maple Story - Unmei no Shoujo (Japan)</title>
+			<title>MapleStory - Unmei no Shoujo (Japan)</title>
 			<saveType></saveType>
 			<romSize>536870912</romSize>
 			<publisher></publisher>
@@ -14012,7 +14012,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0874</releaseNumber>
-			<title>Kira Meki Oshare Salon! Watashi no Shigoto wa Biyoushi-San (Japan)</title>
+			<title>Kirameki Oshare Salon! Watashi no Shigoto wa Biyoushi-San (Japan)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -14140,7 +14140,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0882</releaseNumber>
-			<title>Elminage Gothic 3DS Remix - Ulm Zakir to Yami no Gishiki (Japan)</title>
+			<title>Elminage Gothic 3D Remix - Ulm Zakir to Yami no Gishiki (Japan)</title>
 			<saveType></saveType>
 			<romSize>1073741824</romSize>
 			<publisher></publisher>
@@ -14748,7 +14748,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0920</releaseNumber>
-			<title>3D Game Collection - 55 in 1 (Germany) (Fr,De)</title>
+			<title>3D Game Collection - 55-in-1 (Germany) (Fr,De)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -15596,7 +15596,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>0973</releaseNumber>
-			<title>PachiPara 3D - Ooumi Monogatari 2 with Agnes Lum (Japan)</title>
+			<title>PachiPara 3D - Ooumi Monogatari 2 with Agnes Lum - Pachi-Pro Fuuunroku Hana Kesareta License (Japan)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -16124,7 +16124,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1006</releaseNumber>
-			<title>Hoppechan Minna de Odekake! Waku Waku Hoppe Land!! (Japan)</title>
+			<title>Hoppe-chan - Minna de Odekake! Waku Waku Hoppe Land!! (Japan)</title>
 			<saveType></saveType>
 			<romSize>536870912</romSize>
 			<publisher></publisher>
@@ -16524,7 +16524,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1031</releaseNumber>
-			<title>Dairantou Smash Brothers for Nintendo 3DS (Japan)</title>
+			<title>Dairantou Smash Bros. for Nintendo 3DS (Japan)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -16844,7 +16844,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1051</releaseNumber>
-			<title>Super Smash Bros. for Nintendo 3DS (USA)</title>
+			<title>Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -18972,7 +18972,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1184</releaseNumber>
-			<title>Lost Heroes 2 - Premium Edition (Japan)</title>
+			<title>Lost Heroes 2 (Premium Edition) (Japan)</title>
 			<saveType></saveType>
 			<romSize>1073741824</romSize>
 			<publisher></publisher>
@@ -19292,7 +19292,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1204</releaseNumber>
-			<title>Doraemon - Nobita no Space Heroes (Japan)</title>
+			<title>Doraemon - Nobita no Uchuu Eiyuuki (Japan)</title>
 			<saveType></saveType>
 			<romSize>268435456</romSize>
 			<publisher></publisher>
@@ -19868,7 +19868,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1240</releaseNumber>
-			<title>Shin Megami Tensei - Devil Survivor 2 - Record Breaker (USA)</title>
+			<title>Shin Megami Tensei - Devil Survivor 2 Record Breaker (USA)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -19948,7 +19948,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1245</releaseNumber>
-			<title>Puzzle &amp; Dragons Z - Puzzle &amp; Dragons Super Mario Bros. Edition (Europe)</title>
+			<title>Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (Europe)</title>
 			<saveType></saveType>
 			<romSize>1073741824</romSize>
 			<publisher></publisher>
@@ -20348,7 +20348,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1270</releaseNumber>
-			<title>Puzzle &amp; Dragons Z - Puzzle &amp; Dragons Super Mario Bros. Edition (USA)</title>
+			<title>Puzzle &amp; Dragons Z + Puzzle &amp; Dragons Super Mario Bros. Edition (USA)</title>
 			<saveType></saveType>
 			<romSize>1073741824</romSize>
 			<publisher></publisher>
@@ -20604,7 +20604,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1286</releaseNumber>
-			<title>Harvest Moon 3D - The Lost Valley (Europe) (En,Fr,De,Es)</title>
+			<title>Harvest Moon - The Lost Valley (Europe) (En,Fr,De,Es)</title>
 			<saveType></saveType>
 			<romSize>268435456</romSize>
 			<publisher></publisher>
@@ -20892,7 +20892,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1304</releaseNumber>
-			<title>Daigyakuten Saiban - Naruhodou Ryuunosuke no Bouken (Japan)</title>
+			<title>Dai Gyakuten Saiban - Naruhodou Ryuunosuke no Bouken (Japan)</title>
 			<saveType></saveType>
 			<romSize>1073741824</romSize>
 			<publisher></publisher>
@@ -21020,7 +21020,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1312</releaseNumber>
-			<title>Wan Nyan Dobutsu Byouin - Suteki na Juui-San ni Narou! (Japan)</title>
+			<title>Wan Nyan Doubutsu Byouin - Suteki na Juui-san ni Narou! (Japan)</title>
 			<saveType></saveType>
 			<romSize>536870912</romSize>
 			<publisher></publisher>
@@ -21340,7 +21340,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1332</releaseNumber>
-			<title>Asonde Shougi ga Tsuyoku Naru! - Ginsei Shougi DX (Japan)</title>
+			<title>Asonde Shogi ga Tsuyokunaru! Ginsei Shogi DX (Japan)</title>
 			<saveType></saveType>
 			<romSize>268435456</romSize>
 			<publisher></publisher>
@@ -22108,7 +22108,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1380</releaseNumber>
-			<title>Barbie and Her Sisters - Puppy Rescue (USA)</title>
+			<title>Barbie &amp; Her Sisters - Puppy Rescue (USA)</title>
 			<saveType></saveType>
 			<romSize>268435456</romSize>
 			<publisher></publisher>
@@ -22332,7 +22332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1394</releaseNumber>
-			<title>Shin Megami Tensei - Devil Survivor 2 - Record Breaker (Europe)</title>
+			<title>Shin Megami Tensei - Devil Survivor 2 Record Breaker (Europe)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -22988,7 +22988,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1435</releaseNumber>
-			<title>Boku wa Koukuu Kanseikan - Airport Hero 3D Kankuu All Stars (Japan)</title>
+			<title>Boku wa Koukuu Kanseikan - Airport Hero 3D - Kankuu All Stars (Japan)</title>
 			<saveType></saveType>
 			<romSize>268435456</romSize>
 			<publisher></publisher>
@@ -23692,7 +23692,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1479</releaseNumber>
-			<title>Bravely Second - End Layer (USA)</title>
+			<title>Bravely Second - End Layer (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -24236,7 +24236,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1513</releaseNumber>
-			<title>Dairantou Smash Brothers for Nintendo 3DS (Japan) (Rev 1)</title>
+			<title>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -24812,7 +24812,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1549</releaseNumber>
-			<title>Yo-Kai Watch 3 - Sushi (Japan)</title>
+			<title>Youkai Watch 3 - Sushi (Japan)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -24828,7 +24828,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1550</releaseNumber>
-			<title>Yo-Kai Watch 3 - Tempura (Japan)</title>
+			<title>Youkai Watch 3 - Tempura (Japan)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -24908,7 +24908,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1555</releaseNumber>
-			<title>Dairantou Smash Brothers for Nintendo 3DS (Japan) (Rev 7)</title>
+			<title>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 7)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -26028,7 +26028,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1625</releaseNumber>
-			<title>Yo-kai Watch 3 - Sukiyaki (Japan)</title>
+			<title>Youkai Watch 3 - Sukiyaki (Japan)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -26380,7 +26380,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1647</releaseNumber>
-			<title>Poochy &amp; Yoshi&#039;s Woolly World (USA)</title>
+			<title>Poochy &amp; Yoshi&#039;s Woolly World (USA) (En,Fr,Es) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -26428,7 +26428,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1650</releaseNumber>
-			<title>Barbie - Glam and Groom Pups (USA) (En,Fr,Es)</title>
+			<title>Barbie - Groom and Glam Pups (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>134217728</romSize>
 			<publisher></publisher>
@@ -26508,7 +26508,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1655</releaseNumber>
-			<title>Dairantou Smash Brothers for Nintendo 3DS (Japan) (Rev 3)</title>
+			<title>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 3)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -27292,7 +27292,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1704</releaseNumber>
-			<title>Dairantou Smash Brothers for Nintendo 3DS (Japan) (Rev 10)</title>
+			<title>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 10)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -27452,7 +27452,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1714</releaseNumber>
-			<title>Dairantou Smash Brothers for Nintendo 3DS (Japan) (Rev 5)</title>
+			<title>Dairantou Smash Bros. for Nintendo 3DS (Japan) (Rev 5)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -27612,7 +27612,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1724</releaseNumber>
-			<title>Ever Oasis (USA)</title>
+			<title>Ever Oasis (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>1073741824</romSize>
 			<publisher></publisher>
@@ -28412,7 +28412,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1774</releaseNumber>
-			<title>Pokemon Ultra Sun (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)</title>
+			<title>Pocket Monsters Ultra Sun (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -28428,7 +28428,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1775</releaseNumber>
-			<title>Pokemon Ultra Moon (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)</title>
+			<title>Pocket Monsters Ultra Moon (Japan) (En,Ja,Fr,De,Es,It,Zh,Ko)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -28492,7 +28492,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1779</releaseNumber>
-			<title>Yo-Kai Watch 2 - Psychic Specters (USA)</title>
+			<title>Yo-Kai Watch 2 - Psychic Specters (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
@@ -28612,6 +28612,1046 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".3ds">7E8D0EA2</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1787</releaseNumber>
+			<title>Shingeki no Kyoujin 2 - Mirai no Zahyou (Japan)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">6DEBA2F4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1788</releaseNumber>
+			<title>Bokujou Monogatari - Futago no Mura + (Japan)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">D21E78E9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1789</releaseNumber>
+			<title>Crayon Shin-Chan - Gekiatsu! Oden wa Rudo Dai Konran!! (Japan)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">B9A79693</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1790</releaseNumber>
+			<title>12-Sai. Torokeru Puzzle Futari no Harmony (Japan)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">88C485C4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1791</releaseNumber>
+			<title>PriPri Chi-chan! PriPri DecoRoom! (Japan)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">47C6982A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1792</releaseNumber>
+			<title>Kirby Battle Royale (USA)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">CE69662D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1793</releaseNumber>
+			<title>Medarot Classics - Kabuto Version (Japan)</title>
+			<saveType></saveType>
+			<romSize>134217728</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">7AF0DFE0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1794</releaseNumber>
+			<title>Medarot Classics - Kuwagata Version (Japan)</title>
+			<saveType></saveType>
+			<romSize>134217728</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">DB280434</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1795</releaseNumber>
+			<title>SuiChara - Sweets Gakkou e Youkoso! (Japan)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">B9AE64C3</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1796</releaseNumber>
+			<title>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Sword (Japan)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">C8970D2B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1797</releaseNumber>
+			<title>Youkai Watch Busters 2 - Hihou Densetsu Banbarayaa - Magnum (Japan)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">36FE5390</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1798</releaseNumber>
+			<title>Cake-ya San Monogatari - Ooishii Sweets o Tsukurou! (Japan)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">20756C9D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1799</releaseNumber>
+			<title>Hoppe-chan - Tsukutte! Asonde! Punipuni Town!! (Japan)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">F566B4E5</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1800</releaseNumber>
+			<title>Mario Party 100 - Mini Game Collection (Japan)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">42D8F970</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1801</releaseNumber>
+			<title>Radiant Historia - Perfect Chronology (Europe)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">9AC2A9A8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1802</releaseNumber>
+			<title>Radiant Historia - Perfect Chronology (USA)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">3EDE3158</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1803</releaseNumber>
+			<title>Detective Pikachu (Europe) (En,Ja,Fr,De,Es,It,Zh)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">D01C1B0E</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1804</releaseNumber>
+			<title>Doraemon - Nobita no Takarajima (Japan)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">0D2860B9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1805</releaseNumber>
+			<title>Disney Planes (Europe) (Fr,Nl)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">B8FAA65D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1806</releaseNumber>
+			<title>Meitantei Pikachu (Japan) (En,Ja,Fr,De,Es,It,Zh)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">C6004C3A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1807</releaseNumber>
+			<title>Detective Pikachu (USA) (En,Ja,Fr,De,Es,It,Zh)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">DB538AA4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1808</releaseNumber>
+			<title>Alliance Alive, The (USA)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">26A56D7D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1809</releaseNumber>
+			<title>Yo-Kai Watch 2 - Psychic Specters (Australia)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>19</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">A5156C69</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1810</releaseNumber>
+			<title>Future Card Buddyfight - Tanjou! Oretachi no Saikyou Buddy! (Japan)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">E52DABF3</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1811</releaseNumber>
+			<title>Biyoushi Debut Monogatari - Top Sutairisuto o Mezasou! (Japan)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">A411E0E1</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1812</releaseNumber>
+			<title>Tanoshiku - Omoshiroku - Kanken Shougakusei (Japan)</title>
+			<saveType></saveType>
+			<romSize>134217728</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">14CD2857</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1813</releaseNumber>
+			<title>Wan Nyan Doubutsu Byouin Pet no Oisha-san ni Narou! (Japan)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">32E44572</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1814</releaseNumber>
+			<title>Kawaii Pet to Kurasou! Wan Nyan &amp; Idol (Japan)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">E4486400</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1815</releaseNumber>
+			<title>Dead Heat Breakers, The (Japan)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">4F354541</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1816</releaseNumber>
+			<title>Shin Megami Tensei - Strange Journey Redux (USA)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">803E0080</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1817</releaseNumber>
+			<title>Shin Megami Tensei - Strange Journey Redux (Europe)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">13B34956</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1818</releaseNumber>
+			<title>Dillon&#039;s Dead-Heat Breakers (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">9D0FF247</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1819</releaseNumber>
+			<title>Chin-gumoa Apateu (Korea)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">795A7F2B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1820</releaseNumber>
+			<title>Super Mario Maker for Nintendo 3DS (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 2)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">0AE101F3</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1821</releaseNumber>
+			<title>Choukaiten Sushi Striker - The Way of Sushido (Japan)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">7E4840B6</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1822</releaseNumber>
+			<title>Sushi Striker - The Way of Sushido (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">2B7166ED</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1823</releaseNumber>
+			<title>Susume! Kinopio Taichou (Japan)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">B389E922</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1824</releaseNumber>
+			<title>Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">6BE71102</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1825</releaseNumber>
+			<title>Sushi Striker - The Way of Sushido (USA) (En,Fr,Es)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">C79E8154</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1826</releaseNumber>
+			<title>WarioWare Gold (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">C34792A3</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1827</releaseNumber>
+			<title>Danball Senki Baku Boost (Japan)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">3D691731</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1828</releaseNumber>
+			<title>Sekaiju no Meikyuu X (Japan)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">3553924D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1829</releaseNumber>
+			<title>Made in Wario Gorgeous (Japan)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">CF76BE81</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1830</releaseNumber>
+			<title>Captain Toad - Treasure Tracker (USA) (En,Fr,Es)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">154E8122</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1831</releaseNumber>
+			<title>WarioWare Gold (USA)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">352409F0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1832</releaseNumber>
+			<title>Yo-Kai Watch Blasters - White Dog Squad (USA)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">E89506B6</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1833</releaseNumber>
+			<title>Yo-Kai Watch Blasters - Red Cat Corps (USA)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">D5CED920</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1834</releaseNumber>
+			<title>Yo-Kai Watch Blasters - Red Cat Corps (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">56C079CB</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1835</releaseNumber>
+			<title>Yo-Kai Watch Blasters - White Dog Squad (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">BDF6ED12</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1836</releaseNumber>
+			<title>One Piece - Unlimited Cruise SP (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">C489BCD0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1837</releaseNumber>
+			<title>Luigi&#039;s Mansion (USA)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">535A96F2</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1838</releaseNumber>
+			<title>Jake Hunter Detective Story - Ghost of the Dusk (USA)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">28671DE0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1839</releaseNumber>
+			<title>Luigi&#039;s Mansion (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">50624862</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1840</releaseNumber>
+			<title>Luigi&#039;s Mansion (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">B04EC671</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1841</releaseNumber>
+			<title>Super Pokemon Rumble (Europe) (En,Fr,De,Es,It) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">ECEF8315</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1842</releaseNumber>
+			<title>Neko-Tomo (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">5FEB5850</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1843</releaseNumber>
+			<title>Persona Q2 - New Cinema Labyrinth (Japan)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">0083C83B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1844</releaseNumber>
+			<title>Yo-Kai Watch 3 (Germany)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>2</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">BE722C98</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1845</releaseNumber>
+			<title>Yo-Kai Watch 3 (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">943A4913</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1846</releaseNumber>
+			<title>Mario &amp; Luigi RPG3 DX (Japan)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">AE1DE02C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1847</releaseNumber>
+			<title>Mario &amp; Luigi - Bowser&#039;s Inside Story + Bowser Jr.&#039;s Journey (USA)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">A2C73656</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1848</releaseNumber>
+			<title>Yo-Kai Watch 3 (Italy)</title>
+			<saveType></saveType>
+			<romSize>0</romSize>
+			<publisher></publisher>
+			<location>6</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">F0996604</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1849</releaseNumber>
+			<title>Mario &amp; Luigi - Bowser&#039;s Inside Story + Bowser Jr.&#039;s Journey (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">092C1497</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1850</releaseNumber>
+			<title>Etrian Odyssey Nexus (Europe)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">C0FB0A5F</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1851</releaseNumber>
+			<title>Etrian Odyssey Nexus (USA)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">EC0A3EB1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -29292,7 +30332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>70043</releaseNumber>
-			<title>Yo-kai Watch (USA) (Demo) (Kiosk)</title>
+			<title>Yo-Kai Watch (USA) (Demo) (Kiosk)</title>
 			<saveType></saveType>
 			<romSize>268435456</romSize>
 			<publisher></publisher>
@@ -29483,6 +30523,102 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>70055</releaseNumber>
+			<title>Poochy &amp; Yoshi&#039;s Woolly World (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">2F75A8B8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>70056</releaseNumber>
+			<title>Professeur Layton et le Masque des Miracles (France) (Demo) (Kiosk)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>5</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">4F8F9DB4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>70057</releaseNumber>
+			<title>Legend of Zelda, The - A Link Between Worlds (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)</title>
+			<saveType></saveType>
+			<romSize>134217728</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">CC66C2E0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>70058</releaseNumber>
+			<title>Yo-Kai Watch (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">A1B6720F</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>70059</releaseNumber>
+			<title>Kirby - Planet Robobot (Europe) (Demo) (Kiosk)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">1A59515D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>70060</releaseNumber>
+			<title>Yo-Kai Watch 2 - Fleshy Souls and Bony Spirits (Europe) (En,Fr,De,Es,It,Nl) (Demo) (Kiosk)</title>
+			<saveType></saveType>
+			<romSize>536870912</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">C9ADA506</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>90001</releaseNumber>
 			<title>[BIOS] Nintendo 3DS - boot9 (World)</title>
 			<saveType></saveType>
@@ -29628,14 +30764,30 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>80008</releaseNumber>
-			<title>Danball Senki Baku Boost (Japan)</title>
+			<title>Animal Crossing - Happy Home Designer (USA) (En,Fr,Es) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>1073741824</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">4334653B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>80009</releaseNumber>
+			<title>Super Mario (USA) (Demo) (Kiosk, E3 2011) [b]</title>
 			<saveType></saveType>
 			<romSize>0</romSize>
 			<publisher></publisher>
-			<location>7</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".3ds">3D691731</romCRC></files>
+			<files><romCRC extension=".3ds">B9EC4E41</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -29644,14 +30796,14 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>80010</releaseNumber>
-			<title>Super Mario (World) (Demo) (Kiosk, E3 2011)</title>
+			<title>LEGO City Undercover - The Chase Begins (USA) (Demo) (Kiosk)</title>
 			<saveType></saveType>
-			<romSize>0</romSize>
+			<romSize>268435456</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".3ds">B9EC4E41</romCRC></files>
+			<files><romCRC extension=".3ds">8A1DFB13</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -29676,14 +30828,30 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>80012</releaseNumber>
-			<title>Yo-Kai Watch 2 - Psychic Specters (Australia)</title>
+			<title>Yeolhyeolgyeongpa Kunio-Kun Special (Korea)</title>
 			<saveType></saveType>
-			<romSize>0</romSize>
+			<romSize>134217728</romSize>
 			<publisher></publisher>
-			<location>19</location>
+			<location>22</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".3ds">A5156C69</romCRC></files>
+			<files><romCRC extension=".3ds">86289D0A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>80013</releaseNumber>
+			<title>Yeolhyeolgyeongpa Kunio-Kun SP - Nantu Hyeopjugog (Korea)</title>
+			<saveType></saveType>
+			<romSize>268435456</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".3ds">80FA5223</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>

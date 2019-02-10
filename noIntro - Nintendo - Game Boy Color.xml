@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>noIntro - Nintendo - Game Boy Color</datName>
 		<imFolder></imFolder>
-		<datVersion>20180128</datVersion>
+		<datVersion>20190210</datVersion>
 		<system>Nintendo - Game Boy Color</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -372,38 +372,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">04C8C858</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1092783847</releaseNumber>
-			<title>Adventures of Elmo in Grouchland, The (Europe) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">41228EE7</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>743189087</releaseNumber>
-			<title>Adventures of Elmo in Grouchland, The (USA) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">2C4C2A5F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -827,38 +795,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1277087435</releaseNumber>
-			<title>Arcade Hits - Joust &amp; Defender (USA, Europe) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>16</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">4C1ECECB</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>4093745609</releaseNumber>
-			<title>Arcade Hits - Moon Patrol &amp; Spy Hunter (USA, Europe) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>16</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">F40199C9</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>2397062122</releaseNumber>
 			<title>Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
@@ -1004,7 +940,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1896103286</releaseNumber>
-			<title>Asterix &amp; Obelix vs Caesar (Europe) (En,Fr,De,Es,Nl) (GB Compatible)</title>
+			<title>Asterix &amp; Obelix Contre Cesar (Europe) (En,Fr,De,Es,Nl) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -1020,7 +956,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1083033030</releaseNumber>
-			<title>Asterix - Search for Dogmatix (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<title>Asterix - Sur la Trace D&#039;Idefix (Europe) (En,Fr,De,Es,It,Nl)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -1371,6 +1307,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3559216662</releaseNumber>
+			<title>Back to Earth 3D (Europe) (Demo)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">D4255616</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3544018811</releaseNumber>
 			<title>Backgammon (Europe) (En,Fr,De,Es) (GB Compatible)</title>
 			<saveType></saveType>
@@ -1691,22 +1643,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1987881538</releaseNumber>
-			<title>Barbie - Shelly Club (Europe) (En,Fr,De,Es,It)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">767CAA42</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>3440766262</releaseNumber>
 			<title>Barca Total 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)</title>
 			<saveType></saveType>
@@ -1739,6 +1675,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>4140994985</releaseNumber>
+			<title>Barcode Taisen Bardigun (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">F6D291A9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3070240996</releaseNumber>
 			<title>Bass Masters Classic (USA, Europe) (GB Compatible)</title>
 			<saveType></saveType>
@@ -1748,6 +1700,38 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">B70028E4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3760522875</releaseNumber>
+			<title>Batman - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">E025067B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2990646515</releaseNumber>
+			<title>Batman - Chaos in Gotham (USA)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">B241A4F3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -1883,38 +1867,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1221171513</releaseNumber>
-			<title>Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">48C99939</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2233239312</releaseNumber>
-			<title>Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">851C8710</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>197632966</releaseNumber>
 			<title>Beast Fighter (Taiwan) (En) (1B-001, Sachen) (Unl)</title>
 			<saveType></saveType>
@@ -1964,7 +1916,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1505670002</releaseNumber>
-			<title>Beatmania GB2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible)</title>
+			<title>Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -2316,7 +2268,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4003017474</releaseNumber>
-			<title>Bokujou Monogatari GB2 (Japan) (GB Compatible)</title>
+			<title>Bokujou Monogatari 2 GB (Japan) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -2332,7 +2284,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>974697503</releaseNumber>
-			<title>Bokujou Monogatari GB3 - Boy Meets Girl (Japan)</title>
+			<title>Bokujou Monogatari 3 GB - Boy Meets Girl (Japan)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -2340,6 +2292,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">3A18B41F</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1974406788</releaseNumber>
+			<title>Bokujou Monogatari 3 GB - Boy Meets Girl (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">75AF0E84</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -2572,7 +2540,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4039917695</releaseNumber>
-			<title>Bugs Bunny &amp; Lola Bunny - Operation Carrots (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</title>
+			<title>Bugs Bunny &amp; Lola Bunny - Operation Carrot Patch (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -2619,6 +2587,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3594026666</releaseNumber>
+			<title>Bugs Bunny - Crazy Castle 4 (Japan)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">D6387EAA</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1839785707</releaseNumber>
 			<title>Bugs Bunny et le Chateau des Catastrophes (France)</title>
 			<saveType></saveType>
@@ -2636,7 +2620,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1393909344</releaseNumber>
-			<title>Bugs Bunny in Crazy Castle 4 (Europe)</title>
+			<title>Bugs Bunny in - Crazy Castle 4 (Europe)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -2651,24 +2635,8 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3594026666</releaseNumber>
-			<title>Bugs Bunny in Crazy Castle 4 (Japan)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">D6387EAA</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>2564554720</releaseNumber>
-			<title>Bugs Bunny in Crazy Castle 4 (USA)</title>
+			<title>Bugs Bunny in - Crazy Castle 4 (USA)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -2716,11 +2684,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>448589246</releaseNumber>
-			<title>Burger Burger Pocket (Japan) (SGB Enhanced) (GB Compatible)</title>
+			<title>Burger Burger Pocket - Hamburger Simulation (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>7</location>
+			<location>13</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">1ABCEDBE</romCRC></files>
@@ -2844,7 +2812,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>573349318</releaseNumber>
-			<title>Cannon Fodder (Europe) (En,Fr,De,Es,It) (v0.45.3) (Beta)</title>
+			<title>Cannon Fodder (Europe) (En,Fr,De,Es,It) (Beta)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -2908,7 +2876,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1139969570</releaseNumber>
-			<title>Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev A) (GB Compatible)</title>
+			<title>Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 1) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -2924,7 +2892,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1917051480</releaseNumber>
-			<title>Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev B) (GB Compatible)</title>
+			<title>Cardcaptor Sakura - Itsumo Sakura-chan to Issho (Japan) (Rev 2) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -2964,6 +2932,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">15430979</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3666698883</releaseNumber>
+			<title>Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">DA8D6283</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -3100,7 +3084,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>161310037</releaseNumber>
-			<title>Catz - Your Virtual Petz Palz (Europe)</title>
+			<title>Catz (Europe)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -3116,7 +3100,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1989815386</releaseNumber>
-			<title>Catz - Your Virtual Petz Palz (USA)</title>
+			<title>Catz (USA)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -3787,38 +3771,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3641060937</releaseNumber>
-			<title>Daikatana (Europe) (En,Fr,It)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">D9062E49</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>4159189779</releaseNumber>
-			<title>Daikatana (Europe) (Fr,De,Es)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">F7E83313</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>890790587</releaseNumber>
 			<title>Daikatana (USA) (Proto) (2000-04-19)</title>
 			<saveType></saveType>
@@ -3900,7 +3852,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1449126966</releaseNumber>
-			<title>Dance Dance Revolution GB2 (Japan)</title>
+			<title>Dance Dance Revolution GB 2 (Japan)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -3916,7 +3868,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1492283190</releaseNumber>
-			<title>Dance Dance Revolution GB3 (Japan)</title>
+			<title>Dance Dance Revolution GB 3 (Japan)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -4011,6 +3963,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3260998490</releaseNumber>
+			<title>David O&#039;Leary&#039;s Total Soccer 2000 (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">C25EE35A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1076749176</releaseNumber>
 			<title>Deadly Skies (Europe) (En,Fr,De)</title>
 			<saveType></saveType>
@@ -4059,6 +4027,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3136474262</releaseNumber>
+			<title>Deja Vu I &amp; II (Japan)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">BAF2CC96</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1912051893</releaseNumber>
 			<title>Deja Vu I &amp; II - The Casebooks of Ace Harding (Europe) (En,Fr)</title>
 			<saveType></saveType>
@@ -4084,22 +4068,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">C6E7F3C6</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3136474262</releaseNumber>
-			<title>Deja Vu I &amp; II - The Casebooks of Ace Harding (Japan)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">BAF2CC96</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -4364,7 +4332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3465400697</releaseNumber>
-			<title>Dogz - Your Virtual Petz Palz (Europe)</title>
+			<title>Dogz (Europe)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -4380,7 +4348,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2822336899</releaseNumber>
-			<title>Dogz - Your Virtual Petz Palz (USA)</title>
+			<title>Dogz (USA)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -4636,7 +4604,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2438158051</releaseNumber>
-			<title>Doraemon no Quiz Boy (Japan) (Rev A)</title>
+			<title>Doraemon no Quiz Boy (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -5020,7 +4988,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3529758861</releaseNumber>
-			<title>Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -5060,6 +5028,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">2C428A87</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1688112535</releaseNumber>
+			<title>Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">649E8D97</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -5515,6 +5499,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>66862339</releaseNumber>
+			<title>Elemental Fighter (USA) (Proto)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">03FC3D03</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>559183420</releaseNumber>
 			<title>Elevator Action EX (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
@@ -5556,70 +5556,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">7967320E</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>406059832</releaseNumber>
-			<title>Elmo&#039;s 123s (USA) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">1833FB38</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1006107860</releaseNumber>
-			<title>Elmo&#039;s 123s (Europe) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">3BF7FCD4</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3424629417</releaseNumber>
-			<title>Elmo&#039;s ABCs (USA) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">CC1FB2A9</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>538283964</releaseNumber>
-			<title>Elmo&#039;s ABCs (Europe) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">20158FBC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -5803,6 +5739,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3595137001</releaseNumber>
+			<title>F-1 World Grand Prix (Europe) (Beta)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">D6496FE9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1091545176</releaseNumber>
 			<title>F-18 Thunder Strike (USA, Europe)</title>
 			<saveType></saveType>
@@ -5851,8 +5803,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>4109757720</releaseNumber>
+			<title>F1 Championship Season 2000 (Brazil) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>21</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">F4F5ED18</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3776306609</releaseNumber>
-			<title>F1 Racing Championship (Europe) (En,Fr,De,Es,It)</title>
+			<title>F1 Racing Championship (Europe) (En,Fr,De,Es,It) (Beta) (February, 2000)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -5868,7 +5836,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4233328409</releaseNumber>
-			<title>F1 Racing Championship (Europe) (En,Fr,De,Es,It) (Beta)</title>
+			<title>F1 Racing Championship (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -5948,7 +5916,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3302187663</releaseNumber>
-			<title>Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Fairy Kitty no Kaiun Jiten - Yousei no Kuni no Uranai Shugyou (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -5972,6 +5940,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">8B742FB5</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2148299958</releaseNumber>
+			<title>FGB (USA) (Proto)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">800C74B6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -6012,7 +5996,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1576821224</releaseNumber>
-			<title>Fix &amp; Foxi - Episode 1 Lupo (Europe) (En,Fr,De)</title>
+			<title>Fix &amp; Foxi - Episode 1 - Lupo (Europe) (En,Fr,De)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -6084,6 +6068,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">08B9E4AA</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3613445375</releaseNumber>
+			<title>Floracy (Europe) (Proto) (10.10.2000)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">D760CCFF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -6188,7 +6188,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3651284573</releaseNumber>
-			<title>Frogger (USA) (Rev B) (GB Compatible)</title>
+			<title>Frogger (USA) (Rev 2) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -6204,7 +6204,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3130028132</releaseNumber>
-			<title>Frogger (USA) (Rev A) (GB Compatible)</title>
+			<title>Frogger (USA) (Rev 1) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -6228,6 +6228,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">6A2666AA</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3810687869</releaseNumber>
+			<title>Frogger 2 (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">E3227B7D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -6268,7 +6284,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2766006277</releaseNumber>
-			<title>From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -6348,7 +6364,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>748153103</releaseNumber>
-			<title>Fushigi no Dungeon - Fuurai no Shiren GB2 - Sabaku no Majou (Japan)</title>
+			<title>Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -6380,7 +6396,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4012703129</releaseNumber>
-			<title>Gakkyuu Ou Yamazaki (Japan) (Rev A) (GB Compatible)</title>
+			<title>Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -6427,6 +6443,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2440273391</releaseNumber>
+			<title>Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">91739DEF</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2526841185</releaseNumber>
 			<title>Game &amp; Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
@@ -6452,22 +6484,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">1AC625DA</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>4125731468</releaseNumber>
-			<title>Game Boy Color (USA) (Promo)</title>
-			<saveType></saveType>
-			<romSize>524288</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">F5E9AA8C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -6523,15 +6539,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1436474206</releaseNumber>
+			<releaseNumber>3332227963</releaseNumber>
 			<title>Game Boy Wars 2 (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
-			<romSize>524288</romSize>
+			<romSize>1048576</romSize>
 			<publisher></publisher>
 			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gbc">559EDB5E</romCRC></files>
+			<files><romCRC extension=".gbc">C69DC37B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -6564,6 +6580,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">994314B3</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4125731468</releaseNumber>
+			<title>GameBoy Color (World) (Promo)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">F5E9AA8C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -7116,7 +7148,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1665871171</releaseNumber>
-			<title>Golf Ou (Japan) (SGB Enhanced) (GB Compatible)</title>
+			<title>Golf Ou - The King of Golf (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -7292,7 +7324,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>87802645</releaseNumber>
-			<title>Gremlins Unleashed (Europe) (En,Fr,De,Es,It,Pt)</title>
+			<title>Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -7308,7 +7340,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3280818919</releaseNumber>
-			<title>Gremlins Unleashed (Europe) (En,Fr,De,Es,It,Pt) (Beta)</title>
+			<title>Gremlins - Unleashed (Europe) (En,Fr,De,Es,It,Pt) (Beta)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -7564,7 +7596,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3118592944</releaseNumber>
-			<title>Hamster Paradise 2 (Japan) (Rev A)</title>
+			<title>Hamster Paradise 2 (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -7884,7 +7916,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2874620065</releaseNumber>
-			<title>Harvest Moon GB (USA) (SGB Enhanced) (GB Compatible)</title>
+			<title>Harvest Moon GBC (USA) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -8012,7 +8044,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2360073380</releaseNumber>
-			<title>Hero Hero Kun (Japan)</title>
+			<title>Hero Hero-kun (Japan)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -8124,7 +8156,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>665139557</releaseNumber>
-			<title>Hole In One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)</title>
+			<title>Hole in One Golf (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -8348,7 +8380,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2704676418</releaseNumber>
-			<title>Hunter X Hunter - Hunter no Keifu (Japan)</title>
+			<title>Hunter x Hunter - Hunter no Keifu (Japan)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -8364,7 +8396,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3527174773</releaseNumber>
-			<title>Hunter X Hunter - Kindan no Hihou (Japan)</title>
+			<title>Hunter x Hunter - Kindan no Hihou (Japan)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -8388,6 +8420,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">24846D65</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3405479989</releaseNumber>
+			<title>Hype - The Time Quest (Brazil)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>21</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">CAFB8035</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -8452,6 +8500,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">7FFF1142</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1256101034</releaseNumber>
+			<title>Infinity (USA) (Proto) (2001-03-22)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">4ADE94AA</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -8812,7 +8876,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>549768438</releaseNumber>
-			<title>Jet de Go! (Japan)</title>
+			<title>Jet de Go! - Let&#039;s go by Airliner (Japan)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -8820,6 +8884,86 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">20C4CCF6</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1221171513</releaseNumber>
+			<title>Jim Henson&#039;s Bear in the Big Blue House (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">48C99939</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2233239312</releaseNumber>
+			<title>Jim Henson&#039;s Bear in the Big Blue House (USA) (En,Fr,De,Es,It,Nl)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">851C8710</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>263169010</releaseNumber>
+			<title>Jim Henson&#039;s Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (AX9P)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">0FAFA3F2</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1011313775</releaseNumber>
+			<title>Jim Henson&#039;s Muppets (USA)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">3C476C6F</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>839170348</releaseNumber>
+			<title>Jim Henson&#039;s Muppets (Europe) (En,Fr,De,Es,It,Nl,Sv) (AP9P) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">3204B92C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -8876,7 +9020,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1441767518</releaseNumber>
-			<title>Jissen ni Yakudatsu Tsumego (Japan) (Rev A)</title>
+			<title>Jissen ni Yakudatsu Tsumego (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -8884,6 +9028,38 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">55EFA05E</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3641060937</releaseNumber>
+			<title>John Romero&#039;s Daikatana (Europe) (En,Fr,It)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">D9062E49</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4159189779</releaseNumber>
+			<title>John Romero&#039;s Daikatana (Europe) (Fr,De,Es)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">F7E83313</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -9052,7 +9228,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2633660099</releaseNumber>
-			<title>Kakurenbo Battle Monster Tactics (Japan)</title>
+			<title>Kakurenbo Battle - Monster Tactics (Japan)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -9388,7 +9564,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1849289668</releaseNumber>
-			<title>Kelly Club - Clubhouse Fun (USA)</title>
+			<title>Kelly Club (USA)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -9468,7 +9644,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3729981404</releaseNumber>
-			<title>Kindaichi Shounen no Jikenbo - 10nenme no Shoutaijou (Japan) (SGB Enhanced) (GB Compatible)</title>
+			<title>Kindaichi Shounen no Jikenbo - 10 Nenme no Shoutaijou (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -9500,7 +9676,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1121882258</releaseNumber>
-			<title>Kinniku Banzuke GB2 - Mezase! Muscle Champion (Japan) (SGB Enhanced) (GB Compatible)</title>
+			<title>Kinniku Banzuke GB 2 - Mezase! Muscle Champion (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -9516,7 +9692,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3807782206</releaseNumber>
-			<title>Kinniku Banzuke GB3 - Shinseiki Survival Retsuden! (Japan)</title>
+			<title>Kinniku Banzuke GB 3 - Shinseiki Survival Retsuden! (Japan)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -9580,7 +9756,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3910480764</releaseNumber>
-			<title>Kisekae Series 2 - Oshare Nikki (Japan) (Rev A)</title>
+			<title>Kisekae Series 2 - Oshare Nikki (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -10044,7 +10220,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2122456903</releaseNumber>
-			<title>Legend of the River King GB (USA) (SGB Enhanced) (GB Compatible)</title>
+			<title>Legend of the River King GBC (USA) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -10076,7 +10252,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1311471079</releaseNumber>
-			<title>Legend of Zelda, The - Link&#039;s Awakening DX (France) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Legend of Zelda, The - Link&#039;s Awakening DX (France) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -10108,7 +10284,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4021774199</releaseNumber>
-			<title>Legend of Zelda, The - Link&#039;s Awakening DX (Germany) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Legend of Zelda, The - Link&#039;s Awakening DX (Germany) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -10140,7 +10316,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3012475358</releaseNumber>
-			<title>Legend of Zelda, The - Link&#039;s Awakening DX (USA, Europe) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Legend of Zelda, The - Link&#039;s Awakening DX (USA, Europe) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -10156,7 +10332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>109607476</releaseNumber>
-			<title>Legend of Zelda, The - Link&#039;s Awakening DX (USA, Europe) (Rev B) (SGB Enhanced) (GB Compatible)</title>
+			<title>Legend of Zelda, The - Link&#039;s Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -10188,11 +10364,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>939565959</releaseNumber>
-			<title>Legend of Zelda, The - Oracle of Ages (USA)</title>
+			<title>Legend of Zelda, The - Oracle of Ages (USA, Australia)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>98</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">3800A387</romCRC></files>
@@ -10220,11 +10396,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3622434263</releaseNumber>
-			<title>Legend of Zelda, The - Oracle of Seasons (USA)</title>
+			<title>Legend of Zelda, The - Oracle of Seasons (USA, Australia)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>98</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">D7E9F5D7</romCRC></files>
@@ -10364,7 +10540,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2548420143</releaseNumber>
-			<title>Lemmings (USA)</title>
+			<title>Lemmings &amp; Oh No! More Lemmings (USA)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -10372,6 +10548,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">97E5CE2F</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2491237806</releaseNumber>
+			<title>Lemmings VS (Japan)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">947D45AE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -10732,7 +10924,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3578615862</releaseNumber>
-			<title>Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev A) (NP, SGB Enhanced) (GB Compatible)</title>
+			<title>Loppi Puzzle Magazine - Hirameku Puzzle Dai-2-gou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -10764,7 +10956,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>106576885</releaseNumber>
-			<title>Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev A) (NP, SGB Enhanced) (GB Compatible)</title>
+			<title>Loppi Puzzle Magazine - Hirameku Puzzle Dai-3-gou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -10796,7 +10988,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>645616211</releaseNumber>
-			<title>Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev A) (NP, SGB Enhanced) (GB Compatible)</title>
+			<title>Loppi Puzzle Magazine - Hirameku Puzzle Soukangou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -10828,7 +11020,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2735396493</releaseNumber>
-			<title>Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev A) (NP, SGB Enhanced) (GB Compatible)</title>
+			<title>Loppi Puzzle Magazine - Kangaeru Puzzle Dai-2-gou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -10860,7 +11052,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2626891533</releaseNumber>
-			<title>Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev A) (NP, SGB Enhanced) (GB Compatible)</title>
+			<title>Loppi Puzzle Magazine - Kangaeru Puzzle Dai-3-gou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -10892,7 +11084,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2149172981</releaseNumber>
-			<title>Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev A) (NP, SGB Enhanced) (GB Compatible)</title>
+			<title>Loppi Puzzle Magazine - Kangaeru Puzzle Soukangou (Japan) (Rev 1) (NP, SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -10932,6 +11124,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">1C877ABD</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1440549798</releaseNumber>
+			<title>Love Hina Pocket (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">55DD0BA6</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -11244,7 +11452,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3358319348</releaseNumber>
-			<title>Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev A)</title>
+			<title>Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -11324,7 +11532,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>219587909</releaseNumber>
-			<title>Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Majokko Mari-chan no Kisekae Monogatari (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -12363,6 +12571,38 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1277087435</releaseNumber>
+			<title>Midway presents Arcade Hits - Joust &amp; Defender (USA, Europe) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>16</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">4C1ECECB</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4093745609</releaseNumber>
+			<title>Midway presents Arcade Hits - Moon Patrol &amp; Spy Hunter (USA, Europe) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>16</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">F40199C9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3044912046</releaseNumber>
 			<title>Millennium Winter Sports (USA)</title>
 			<saveType></saveType>
@@ -12388,6 +12628,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">5CB4FC8A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4150657370</releaseNumber>
+			<title>Minna no Shougi - Shokyuu Hen (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">F766015A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -12444,7 +12700,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>183708586</releaseNumber>
-			<title>Mission Impossible (Europe) (En,Fr,De,Es,It)</title>
+			<title>Mission - Impossible (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -12460,7 +12716,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1092816145</releaseNumber>
-			<title>Mission Impossible (USA) (En,Fr,Es)</title>
+			<title>Mission - Impossible (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -12668,7 +12924,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4127864686</releaseNumber>
-			<title>Monster Traveler (Japan) (Rev A)</title>
+			<title>Monster Traveler (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -12732,7 +12988,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>925271434</releaseNumber>
-			<title>Monsters, Inc. (Europe) (Rev A)</title>
+			<title>Monsters, Inc. (Europe) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -12811,22 +13067,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3082879579</releaseNumber>
-			<title>Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">B7C1025B</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>3981627055</releaseNumber>
 			<title>Moorhuhn 2 - Die Jagd geht weiter (Germany)</title>
 			<saveType></saveType>
@@ -12843,8 +13083,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3082879579</releaseNumber>
+			<title>Moorhuhn 3 - ...Es Gibt Huhn! (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">B7C1025B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2270725925</releaseNumber>
-			<title>Mortal Kombat 4 (Germany) (SGB Enhanced) (GB Compatible)</title>
+			<title>Mortal Kombat 4 (Germany) (En) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -12884,38 +13140,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">17D27FA9</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1312278337</releaseNumber>
-			<title>Mr Nutz (Europe) (En,Fr,De,Es,It,Nl)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">4E37C741</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1509324073</releaseNumber>
-			<title>Mr Nutz (USA) (En,Fr,Es)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">59F67529</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -12964,6 +13188,54 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">BDF9B05C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>905790477</releaseNumber>
+			<title>Mr. Driller (Japan) (NP)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">35FD440D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1312278337</releaseNumber>
+			<title>Mr. Nutz (Europe) (En,Fr,De,Es,It,Nl)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">4E37C741</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1509324073</releaseNumber>
+			<title>Mr. Nutz (USA) (En,Fr,Es)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">59F67529</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -13115,54 +13387,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>263169010</releaseNumber>
-			<title>Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AX9P)</title>
-			<saveType></saveType>
-			<romSize>2097152</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">0FAFA3F2</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1011313775</releaseNumber>
-			<title>Muppets, The (USA)</title>
-			<saveType></saveType>
-			<romSize>2097152</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">3C476C6F</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>839170348</releaseNumber>
-			<title>Muppets, The (Europe) (En,Fr,De,Es,It,Nl,Sv) (AP9P) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>4194304</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">3204B92C</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>195787361</releaseNumber>
 			<title>Muteki Ou Tri-Zenon (Japan)</title>
 			<saveType></saveType>
@@ -13179,15 +13403,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1660248280</releaseNumber>
-			<title>N.Y. Race (Europe) (En,Fr,De,Es,It,Pt)</title>
+			<releaseNumber>1716028076</releaseNumber>
+			<title>Mythri (USA) (Proto)</title>
 			<saveType></saveType>
-			<romSize>1048576</romSize>
+			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gbc">62F560D8</romCRC></files>
+			<files><romCRC extension=".gbc">664882AC</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -13484,7 +13708,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3197411188</releaseNumber>
-			<title>NBA In the Zone (USA) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>NBA in the Zone (USA) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -13500,7 +13724,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3870256391</releaseNumber>
-			<title>NBA In the Zone 2000 (Europe)</title>
+			<title>NBA in the Zone 2000 (Europe)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -13516,7 +13740,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4256402505</releaseNumber>
-			<title>NBA In the Zone 2000 (USA)</title>
+			<title>NBA in the Zone 2000 (USA)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -13524,22 +13748,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">FDB38C49</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2227048173</releaseNumber>
-			<title>NBA Jam &#039;99 (USA, Europe) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>16</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">84BE0EED</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -13563,8 +13771,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2227048173</releaseNumber>
+			<title>NBA Jam 99 (USA, Europe) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>16</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">84BE0EED</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1954899118</releaseNumber>
-			<title>NBA Pro &#039;99 (Europe) (SGB Enhanced) (GB Compatible)</title>
+			<title>NBA Pro 99 (Europe) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -13675,44 +13899,12 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3760522875</releaseNumber>
-			<title>New Batman Adventures, The - Chaos in Gotham (Europe) (En,Fr,De,Es,It,Nl)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">E025067B</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2990646515</releaseNumber>
-			<title>New Batman Adventures, The - Chaos in Gotham (USA)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">B241A4F3</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>3610369751</releaseNumber>
-			<title>NFL Blitz (USA) (GB Compatible)</title>
+			<title>NFL Blitz (USA, Europe) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>16</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">D731DED7</romCRC></files>
@@ -13724,7 +13916,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>276656971</releaseNumber>
-			<title>NFL Blitz (USA, Europe) (Rev A) (GB Compatible)</title>
+			<title>NFL Blitz (USA, Europe) (Rev 1) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -13947,6 +14139,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1660248280</releaseNumber>
+			<title>NYR - New York Race (Europe) (En,Fr,De,Es,It,Pt)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">62F560D8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>881161754</releaseNumber>
 			<title>O&#039;Leary Manager 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca)</title>
 			<saveType></saveType>
@@ -13964,7 +14172,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1545997658</releaseNumber>
-			<title>Oddworld Adventures II (USA) (En,Fr,De,Es,It) (GB Compatible)</title>
+			<title>Oddworld Adventures 2 (USA) (En,Fr,De,Es,It) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -13980,7 +14188,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1266921807</releaseNumber>
-			<title>Oddworld Adventures II (Europe) (En,Fr,De,Es,It) (GB Compatible)</title>
+			<title>Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -14315,6 +14523,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2502623272</releaseNumber>
+			<title>PaZeek (USA) (Proto)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">952B0028</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2946607811</releaseNumber>
 			<title>Perfect Choro Q (Japan)</title>
 			<saveType></saveType>
@@ -14620,7 +14844,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>707211844</releaseNumber>
-			<title>Pocket Family GB2 (Japan)</title>
+			<title>Pocket Family GB 2 (Japan)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -14780,7 +15004,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>183128963</releaseNumber>
-			<title>Pocket Monsters Gin (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Pocket Monsters Gin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -14812,7 +15036,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1324872357</releaseNumber>
-			<title>Pocket Monsters Kin (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Pocket Monsters Kin (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -14923,6 +15147,38 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3364094842</releaseNumber>
+			<title>Pocket Puyo Puyo-n (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">C884037A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1463161815</releaseNumber>
+			<title>Pocket Puyo Puyo-n (Japan) (Rev 2)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">573613D7</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>4227429234</releaseNumber>
 			<title>Pocket Racing (Europe)</title>
 			<saveType></saveType>
@@ -15004,7 +15260,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>861463306</releaseNumber>
-			<title>Pokemon - Crystal Version (USA, Europe) (Rev A)</title>
+			<title>Pokemon - Crystal Version (USA, Europe) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15148,7 +15404,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3770816234</releaseNumber>
-			<title>Pokemon - Version Argent (France) (SGB Enhanced)</title>
+			<title>Pokemon - Version Argent (France) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15260,7 +15516,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1821587988</releaseNumber>
-			<title>Pokemon Card GB2 - GR Dan Sanjou! (Japan)</title>
+			<title>Pokemon Card GB 2 - GR Dan Sanjou! (Japan)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15324,11 +15580,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>63868314</releaseNumber>
-			<title>Pokemon Pinball (USA) (Rumble Version) (SGB Enhanced) (GB Compatible)</title>
+			<title>Pokemon Pinball (USA, Australia) (Rumble Version) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>13</location>
+			<location>98</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">03CE8D9A</romCRC></files>
@@ -15404,14 +15660,46 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2164694355</releaseNumber>
-			<title>Pokemon Trading Card Game (USA) (SGB Enhanced) (GB Compatible)</title>
+			<title>Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>98</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">81069D53</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2485980031</releaseNumber>
+			<title>Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>5</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">942D0B7F</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1058897496</releaseNumber>
+			<title>Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">3F1D7E58</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -15596,7 +15884,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2303559922</releaseNumber>
-			<title>Power Pro Kun Pocket (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Power Pro Kun Pocket (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15659,38 +15947,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>2575733106</releaseNumber>
-			<title>Power Rangers - Lightspeed Rescue (USA, Europe)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>16</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">99869172</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>400888899</releaseNumber>
-			<title>Power Rangers - Time Force (USA, Europe)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>16</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">17E51443</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>2924990915</releaseNumber>
 			<title>Power Spike - Pro Beach Volleyball (USA)</title>
 			<saveType></saveType>
@@ -15724,7 +15980,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1418340474</releaseNumber>
-			<title>Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev A)</title>
+			<title>Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15740,7 +15996,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2702274639</releaseNumber>
-			<title>Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev B)</title>
+			<title>Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev 2)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15788,7 +16044,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3822491212</releaseNumber>
-			<title>Powerpuff Girls, The - Battle Him (USA) (Rev A)</title>
+			<title>Powerpuff Girls, The - Battle Him (USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15868,7 +16124,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1144219566</releaseNumber>
-			<title>Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev B)</title>
+			<title>Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 2)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15884,7 +16140,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>693843526</releaseNumber>
-			<title>Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev A)</title>
+			<title>Powerpuff Girls, The - Paint the Townsville Green (USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15916,7 +16172,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2040797147</releaseNumber>
-			<title>Powerpuff Girls, The - Panique A Townsville (France)</title>
+			<title>Powerpuff Girls, The - Panique a Townsville (France)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -15996,7 +16252,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>351870854</releaseNumber>
-			<title>Pro Mahjong Kiwame GB II (Japan) (SGB Enhanced) (GB Compatible)</title>
+			<title>Pro Mahjong Kiwame II GB (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -16028,7 +16284,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4029683445</releaseNumber>
-			<title>Pro Mahjong Tsuwamono GB2 (Japan)</title>
+			<title>Pro Mahjong Tsuwamono GB 2 (Japan)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -16220,7 +16476,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1944924226</releaseNumber>
-			<title>Puzzle de Shoubuyo! Wootama-chan (Japan) (GB Compatible)</title>
+			<title>Puzzle de Shoubuyo! - Wootama-chan (Japan) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -16300,7 +16556,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3609844544</releaseNumber>
-			<title>QIX Adventure (Europe)</title>
+			<title>Qix Adventure (Europe)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -16316,7 +16572,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1523492009</releaseNumber>
-			<title>QIX Adventure (Japan)</title>
+			<title>Qix Adventure (Japan)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -16324,6 +16580,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">5ACEA4A9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2596435525</releaseNumber>
+			<title>Quest - Brian&#039;s Journey (USA) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">9AC27645</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -16372,22 +16644,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">D903DB7D</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2596435525</releaseNumber>
-			<title>Quest RPG - Brian&#039;s Journey (USA) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>2097152</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">9AC27645</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -16452,6 +16708,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">599C867D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3599241236</releaseNumber>
+			<title>Racin&#039; Ratz (USA)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">D6881014</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -16651,24 +16923,8 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>620762580</releaseNumber>
-			<title>Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)</title>
-			<saveType></saveType>
-			<romSize>4194304</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">250015D4</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>1868312925</releaseNumber>
-			<title>Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)</title>
+			<title>Rayman 2 (USA) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -16676,6 +16932,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">6F5C315D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>620762580</releaseNumber>
+			<title>Rayman 2 Forever (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>4194304</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">250015D4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -16844,7 +17116,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3873907400</releaseNumber>
-			<title>Resident Evil (Unknown) (Proto) (early)</title>
+			<title>Resident Evil (World) (Proto 1)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -16860,7 +17132,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1408744353</releaseNumber>
-			<title>Resident Evil (Unknown) (Proto)</title>
+			<title>Resident Evil (World) (Proto 2)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -17019,24 +17291,8 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>4264138145</releaseNumber>
-			<title>Roadsters &#039;98 (USA) (Proto) (SGB Enhanced) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>131072</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">FE2995A1</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>1903899941</releaseNumber>
-			<title>Roadsters Trophy (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</title>
+			<title>Roadsters (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -17052,7 +17308,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>951067326</releaseNumber>
-			<title>Roadsters Trophy (USA) (En,Fr,De,Es,It,Nl) (GB Compatible)</title>
+			<title>Roadsters (USA) (En,Fr,De,Es,It,Nl) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -17060,6 +17316,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">38B022BE</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4264138145</releaseNumber>
+			<title>Roadsters &#039;98 (USA) (Proto) (SGB Enhanced) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">FE2995A1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -17292,7 +17564,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1684536224</releaseNumber>
-			<title>Roi Lion, Le - Les Adventures de Simba (France)</title>
+			<title>Roi Lion, Le - La Formidable Aventure de Simba (France)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -17300,6 +17572,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">6467FBA0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3349864883</releaseNumber>
+			<title>Roi Lion, Le - La Formidable Aventure de Simba (France) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>5</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">C7AAE1B3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -17500,11 +17788,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>892482610</releaseNumber>
-			<title>Rugrats in Paris - The Movie (Europe) (En,Es)</title>
+			<title>Rugrats en Paris - La pelicula (Spain) (En,Es)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>4</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">35323432</romCRC></files>
@@ -17556,6 +17844,54 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">FEBE2606</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1140869485</releaseNumber>
+			<title>Rumble &amp; Tumble (USA) (Demo) (E3 2001)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">4400496D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2575733106</releaseNumber>
+			<title>Saban&#039;s Power Rangers - Lightspeed Rescue (USA, Europe)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>16</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">99869172</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>400888899</releaseNumber>
+			<title>Saban&#039;s Power Rangers - Time Force (USA, Europe)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>16</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">17E51443</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -17644,7 +17980,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1197697580</releaseNumber>
-			<title>Sakura Taisen GB2 - Thunderbolt Sakusen (Japan)</title>
+			<title>Sakura Taisen GB 2 - Thunderbolt Sakusen (Japan)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -17723,6 +18059,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1700116288</releaseNumber>
+			<title>Sanrio Timenet - Kako Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">6555B740</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>4024770071</releaseNumber>
 			<title>Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
@@ -17732,6 +18084,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">EFE51E17</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>396208115</releaseNumber>
+			<title>Sanrio Timenet - Mirai Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">179DA7F3</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -17867,6 +18235,102 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>406059832</releaseNumber>
+			<title>Sesame Street - Elmo&#039;s 123s (USA) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">1833FB38</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1006107860</releaseNumber>
+			<title>Sesame Street - Elmo&#039;s 123s (Europe) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">3BF7FCD4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3424629417</releaseNumber>
+			<title>Sesame Street - Elmo&#039;s ABCs (USA) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">CC1FB2A9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>538283964</releaseNumber>
+			<title>Sesame Street - Elmo&#039;s ABCs (Europe) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">20158FBC</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1092783847</releaseNumber>
+			<title>Sesame Street - The Adventures of Elmo in Grouchland (Europe) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">41228EE7</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>743189087</releaseNumber>
+			<title>Sesame Street - The Adventures of Elmo in Grouchland (USA) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">2C4C2A5F</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1322560250</releaseNumber>
 			<title>Sesame Street Sports (USA)</title>
 			<saveType></saveType>
@@ -17948,7 +18412,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3543659600</releaseNumber>
-			<title>Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (Rev A) (GB Compatible)</title>
+			<title>Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv) (Rev 1) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -18028,11 +18492,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2483141191</releaseNumber>
-			<title>Shanghai Pocket (USA) (SGB Enhanced) (GB Compatible)</title>
+			<title>Shanghai Pocket (USA, Europe) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>16</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">9401BA47</romCRC></files>
@@ -18044,7 +18508,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3640312684</releaseNumber>
-			<title>Shanghai Pocket (USA, Europe) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Shanghai Pocket (USA, Europe) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -18076,14 +18540,30 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1889327763</releaseNumber>
-			<title>Shaun Palmer&#039;s Pro Snowboarder (USA, Australia)</title>
+			<title>Shaun Palmer&#039;s Pro Snowboarder (USA)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
-			<location>98</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">709CDA93</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1987881538</releaseNumber>
+			<title>Shelly Club (Europe) (En,Fr,De,Es,It)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">767CAA42</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -18108,7 +18588,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3252843862</releaseNumber>
-			<title>Shin Megami Tensei Devil Children - Aka no Sho (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Shin Megami Tensei Devil Children - Aka no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -18132,6 +18612,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">55B9AF51</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1028318518</releaseNumber>
+			<title>Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">3D4AE536</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -18507,6 +19003,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3885842714</releaseNumber>
+			<title>South Park (USA) (Proto)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">E79D411A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3669444108</releaseNumber>
 			<title>Space Invaders (USA, Europe) (GB Compatible)</title>
 			<saveType></saveType>
@@ -18524,7 +19036,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3222715513</releaseNumber>
-			<title>Space Invaders X (Japan) (GB Compatible)</title>
+			<title>Space Invaders X (Japan) (En) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -18748,7 +19260,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1050396939</releaseNumber>
-			<title>Spirou Robbedoes - The Robot Invasion (Europe) (En,Fr,De,Es,It,Nl,Da)</title>
+			<title>Spirou - The Robot Invasion (Europe) (En,Fr,De,Es,It,Nl,Da)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -18780,7 +19292,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1899785239</releaseNumber>
-			<title>Spy vs. Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)</title>
+			<title>Spy vs Spy (Europe) (En,Fr,De,Es,It,Nl,Sv)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -18796,7 +19308,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>242757911</releaseNumber>
-			<title>Spy vs. Spy (Japan)</title>
+			<title>Spy vs Spy (Japan)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -18812,7 +19324,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4031135057</releaseNumber>
-			<title>Spy vs. Spy (USA)</title>
+			<title>Spy vs Spy (USA)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -18820,6 +19332,54 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">F0463D51</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3947353659</releaseNumber>
+			<title>Spy vs Spy (Japan) (Rev 1) (NP)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">EB47D63B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3341708798</releaseNumber>
+			<title>Star Heritage (Europe) (Proto) (SRAM Version)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">C72E6DFE</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3013297458</releaseNumber>
+			<title>Star Heritage (Europe) (Proto) (Password Version)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">B39B4532</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -18836,6 +19396,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">8C7DDBDA</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1662310962</releaseNumber>
+			<title>Star Wars - Yoda Stories (USA, Europe) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>16</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">6314DA32</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -19212,7 +19788,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2427126907</releaseNumber>
-			<title>Super Mario Bros. Deluxe (USA, Europe) (Rev A)</title>
+			<title>Super Mario Bros. Deluxe (USA, Europe) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -19228,7 +19804,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1656467075</releaseNumber>
-			<title>Super Mario Bros. Deluxe (USA, Europe) (Rev B)</title>
+			<title>Super Mario Bros. Deluxe (USA, Europe) (Rev 2)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -19236,6 +19812,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">62BBAE83</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4108918627</releaseNumber>
+			<title>Super Mario Bros. Deluxe (Japan) (En) (Rev 1) (NP)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">F4E91F63</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -19580,7 +20172,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1806938332</releaseNumber>
-			<title>Sylvester and Tweety - Breakfast on the Run (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</title>
+			<title>Sylvester &amp; Tweety - Breakfast on the Run (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -19755,6 +20347,38 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1748456096</releaseNumber>
+			<title>Tasmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">683752A0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>907137240</releaseNumber>
+			<title>Tasmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">3611D0D8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>265945072</releaseNumber>
 			<title>Taxi 2 (France)</title>
 			<saveType></saveType>
@@ -19780,38 +20404,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">2838996F</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1748456096</releaseNumber>
-			<title>Tazmanian Devil - Munching Madness (Europe) (En,Fr,De,Es,It) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">683752A0</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>907137240</releaseNumber>
-			<title>Tazmanian Devil - Munching Madness (USA) (En,Fr,De,Es,It) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">3611D0D8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -20092,7 +20684,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2988465481</releaseNumber>
-			<title>Tintin - Prisoners of the Sun (Europe) (En,Fr,De)</title>
+			<title>Tintin - Le Temple Du Soleil (Europe) (En,Fr,De)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -20108,7 +20700,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1748169610</releaseNumber>
-			<title>Tintin in Tibet (Europe) (En,Fr,De,Es,It,Nl,Sv)</title>
+			<title>Tintin au Tibet (Europe) (En,Fr,De,Es,It,Nl,Sv)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -20188,7 +20780,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>798955998</releaseNumber>
-			<title>Titus the Fox to Marrakech and Back (Europe) (GB Compatible)</title>
+			<title>Titus the Fox (Europe) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -20204,7 +20796,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3127956111</releaseNumber>
-			<title>Titus the Fox to Marrakech and Back (USA) (GB Compatible)</title>
+			<title>Titus the Fox (USA) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -20316,7 +20908,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3111914457</releaseNumber>
-			<title>Tom &amp; Jerry (USA, Europe)</title>
+			<title>Tom and Jerry (USA, Europe)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -20332,7 +20924,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1041748042</releaseNumber>
-			<title>Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It)</title>
+			<title>Tom and Jerry - Mouse Hunt (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -20348,7 +20940,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1606860480</releaseNumber>
-			<title>Tom and Jerry - Mousehunt (USA) (En,Fr,Es)</title>
+			<title>Tom and Jerry - Mouse Hunt (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -20364,7 +20956,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2644280564</releaseNumber>
-			<title>Tom and Jerry in Mouse Attacks! (Europe) (En,Fr,De,Es,It,Nl,Da)</title>
+			<title>Tom and Jerry in - Mouse Attacks! (Europe) (En,Fr,De,Es,It,Nl,Da)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -20380,7 +20972,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>953040758</releaseNumber>
-			<title>Tom and Jerry in Mouse Attacks! (USA)</title>
+			<title>Tom and Jerry in - Mouse Attacks! (USA)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>
@@ -20388,6 +20980,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">38CE3F76</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3461130161</releaseNumber>
+			<title>Tom and Jerry in - Mouse Attacks! (USA) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">CE4CA7B1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -20539,22 +21147,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>2374743492</releaseNumber>
-			<title>Tony Hawk&#039;s Pro Skater (USA, Europe)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>16</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">8D8BB5C4</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>740804127</releaseNumber>
 			<title>Tony Hawk&#039;s Pro Skater 2 (USA, Europe)</title>
 			<saveType></saveType>
@@ -20580,6 +21172,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">FD5290A1</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2374743492</releaseNumber>
+			<title>Tony Hawk&#039;s Skateboarding ~ Tony Hawk&#039;s Pro Skater (USA, Europe)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>16</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">8D8BB5C4</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -20763,22 +21371,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3260998490</releaseNumber>
-			<title>Total Soccer 2000 (Europe) (En,Fr,De,Es,It,Nl)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">C25EE35A</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>183167227</releaseNumber>
 			<title>Totsugeki! Papparatai (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
@@ -20812,7 +21404,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3578388596</releaseNumber>
-			<title>Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan) (Rev A)</title>
+			<title>Tottoko Hamutarou - Tomodachi Daisakusen Dechu (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -20916,6 +21508,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">B18CBA2A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3649734525</releaseNumber>
+			<title>Trade &amp; Battle Card Hero (Japan) (Rev 1) (3DS Virtual Console) (SGB Enhanced) (GB Compatible)</title>
+			<saveType></saveType>
+			<romSize>2097152</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">D98A877D</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -21035,6 +21643,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3784850941</releaseNumber>
+			<title>Turbo RC Racing (USA) (Proto)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">E1983DFD</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2020301492</releaseNumber>
 			<title>Turok - Rage Wars (USA, Europe) (En,Fr,De,Es)</title>
 			<saveType></saveType>
@@ -21052,7 +21676,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4036342854</releaseNumber>
-			<title>Turok 2 - Seeds of Evil (Japan) (GB Compatible)</title>
+			<title>Turok 2 - Jikku Senshi (Japan) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -21092,6 +21716,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">6D48765E</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3294977802</releaseNumber>
+			<title>Tutty (Europe) (Demo)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">C4655F0A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -21195,22 +21835,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3599241236</releaseNumber>
-			<title>Tyco RC - Racin&#039; Ratz (USA)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">D6881014</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>466937224</releaseNumber>
 			<title>Tyrannosaurus Tex (USA) (Proto)</title>
 			<saveType></saveType>
@@ -21244,7 +21868,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>564019939</releaseNumber>
-			<title>Uchuujin Tanaka Tarou de RPG Tsuku-ru GB 2 (Japan)</title>
+			<title>Uchuujin Tanaka Tarou de - RPG Tsukuru GB 2 (Japan)</title>
 			<saveType></saveType>
 			<romSize>4194304</romSize>
 			<publisher></publisher>
@@ -21308,7 +21932,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1842339810</releaseNumber>
-			<title>Ultimate Paint Ball (USA, Europe)</title>
+			<title>Ultimate Paintball (USA, Europe)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -21420,7 +22044,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3660581996</releaseNumber>
-			<title>V-Rally - Championship Edition (USA) (En,Fr,Es)</title>
+			<title>V-Rally - Edition 99 (USA) (En,Fr,Es)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -21484,11 +22108,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3688721797</releaseNumber>
-			<title>VIP (USA, Europe) (En,Fr,De,Es,It)</title>
+			<title>VIP (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>16</location>
+			<location>0</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">DBDD6D85</romCRC></files>
@@ -21524,22 +22148,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">D843F898</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2491237806</releaseNumber>
-			<title>VS Lemmings (Japan)</title>
-			<saveType></saveType>
-			<romSize>4194304</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">947D45AE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -21724,7 +22332,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1481009636</releaseNumber>
-			<title>Watashi no Kitchen (Japan) (Rev A)</title>
+			<title>Watashi no Kitchen (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -21771,6 +22379,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>436991191</releaseNumber>
+			<title>WDL - World Destruction League - Thunder Tanks (USA) (En,Fr,De)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".gbc">1A0BF4D7</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3749451964</releaseNumber>
 			<title>Wendy - Der Traum von Arizona (Germany)</title>
 			<saveType></saveType>
@@ -21804,7 +22428,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2629806653</releaseNumber>
-			<title>Wetrix GB (Europe) (En,Fr,De)</title>
+			<title>Wetrix (Europe) (En,Fr,De)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -21948,7 +22572,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4202848783</releaseNumber>
-			<title>Wizardry Empire (Japan) (Rev A)</title>
+			<title>Wizardry Empire (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -22107,15 +22731,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>436991191</releaseNumber>
-			<title>World Destruction League - Thunder Tanks (USA) (En,Fr,De)</title>
+			<releaseNumber>3709393759</releaseNumber>
+			<title>World Soccer GB 2 (Japan) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".gbc">1A0BF4D7</romCRC></files>
+			<files><romCRC extension=".gbc">DD18DB5F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -22132,22 +22756,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">6775B29E</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3709393759</releaseNumber>
-			<title>World Soccer GB2 (Japan) (SGB Enhanced) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">DD18DB5F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -22268,7 +22876,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>592322204</releaseNumber>
-			<title>X-Men - Mutant Academy (USA, Europe) (Rev A)</title>
+			<title>X-Men - Mutant Academy (USA, Europe) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -22420,22 +23028,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".gbc">D6A26444</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1662310962</releaseNumber>
-			<title>Yoda Stories (USA, Europe) (GB Compatible)</title>
-			<saveType></saveType>
-			<romSize>1048576</romSize>
-			<publisher></publisher>
-			<location>16</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".gbc">6314DA32</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -22716,7 +23308,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3179941953</releaseNumber>
-			<title>Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -22732,7 +23324,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3919111573</releaseNumber>
-			<title>Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev B) (SGB Enhanced) (GB Compatible)</title>
+			<title>Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 2) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
@@ -22812,7 +23404,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2521176344</releaseNumber>
-			<title>Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev A) (SGB Enhanced) (GB Compatible)</title>
+			<title>Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)</title>
 			<saveType></saveType>
 			<romSize>2097152</romSize>
 			<publisher></publisher>

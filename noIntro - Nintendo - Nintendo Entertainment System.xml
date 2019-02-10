@@ -3,7 +3,7 @@
 	<configuration>
 		<datName>noIntro - Nintendo - Nintendo Entertainment System</datName>
 		<imFolder></imFolder>
-		<datVersion>20180128</datVersion>
+		<datVersion>20190210</datVersion>
 		<system>Nintendo - Nintendo Entertainment System</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -220,7 +220,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>413697456</releaseNumber>
-			<title>2010 - Street Fighter (Japan)</title>
+			<title>2010 Street Fighter (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -267,8 +267,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3869538226</releaseNumber>
+			<title>3-D WorldRunner (USA)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">E6A477B2</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2262541920</releaseNumber>
-			<title>3-D Block (Asia) (Ja) (Hwang Shinwei) (Unl)</title>
+			<title>3D Block (Asia) (Ja) (Hwang Shinwei) (Unl)</title>
 			<saveType></saveType>
 			<romSize>32768</romSize>
 			<publisher></publisher>
@@ -284,7 +300,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1909125271</releaseNumber>
-			<title>3-D Block (Asia) (Ja) (RCM Group) (Unl)</title>
+			<title>3D Block (Asia) (Ja) (RCM Group) (Unl)</title>
 			<saveType></saveType>
 			<romSize>32768</romSize>
 			<publisher></publisher>
@@ -292,22 +308,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">71CAF097</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3869538226</releaseNumber>
-			<title>3-D WorldRunner (USA)</title>
-			<saveType></saveType>
-			<romSize>131072</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">E6A477B2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -476,7 +476,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2082974598</releaseNumber>
-			<title>Aces - Iron Eagle 3 (Japan)</title>
+			<title>Aces - Iron Eagle III (Japan)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -532,6 +532,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">3AC0830A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2313601521</releaseNumber>
+			<title>Adam &amp; Eve (Asia) (En) (Unl)</title>
+			<saveType></saveType>
+			<romSize>49152</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">89E6C1F1</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -795,6 +811,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>4171699134</releaseNumber>
+			<title>Adventure Island (USA)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">F8A713BE</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3217019485</releaseNumber>
 			<title>Adventure Island 3 (USA)</title>
 			<saveType></saveType>
@@ -836,6 +868,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">771C8855</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2360134277</releaseNumber>
+			<title>Adventure Island II (USA) (Beta)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">8CACCA85</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -892,7 +940,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1022839262</releaseNumber>
-			<title>Adventures in the Magic Kingdom (USA) (Beta 1)</title>
+			<title>Adventures in the Magic Kingdom (USA) (Beta 2)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -908,7 +956,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1337713433</releaseNumber>
-			<title>Adventures in the Magic Kingdom (USA) (Beta 2)</title>
+			<title>Adventures in the Magic Kingdom (USA) (Beta 1)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -1067,22 +1115,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3938008315</releaseNumber>
-			<title>Adventures of Lolo 2 (Japan)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">EAB93CFB</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>429052259</releaseNumber>
 			<title>Adventures of Lolo 2 (USA)</title>
 			<saveType></saveType>
@@ -1124,6 +1156,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">8DD92725</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3938008315</releaseNumber>
+			<title>Adventures of Lolo II (Japan)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">EAB93CFB</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -1308,11 +1356,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>21229236</releaseNumber>
-			<title>Airball (Unknown) (Proto 1)</title>
+			<title>Airball (USA) (Proto 1)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">0143EEB4</romCRC></files>
@@ -1324,11 +1372,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>604529593</releaseNumber>
-			<title>Airball (Unknown) (Proto 2)</title>
+			<title>Airball (USA) (Proto 2)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">240863B9</romCRC></files>
@@ -1340,7 +1388,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1295275042</releaseNumber>
-			<title>Airwolf (Europe)</title>
+			<title>Airwolf (Europe) (Acclaim)</title>
 			<saveType></saveType>
 			<romSize>163840</romSize>
 			<publisher></publisher>
@@ -1356,7 +1404,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4220164992</releaseNumber>
-			<title>Airwolf (Japan)</title>
+			<title>Airwolf (Japan) (Kyugo)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -1372,7 +1420,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1218377378</releaseNumber>
-			<title>Airwolf (USA)</title>
+			<title>Airwolf (USA) (Acclaim)</title>
 			<saveType></saveType>
 			<romSize>163840</romSize>
 			<publisher></publisher>
@@ -1524,6 +1572,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">41D32FD7</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2830162518</releaseNumber>
+			<title>Alex DeMeo&#039;s Race America (USA)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">A8B0DA56</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -1771,6 +1835,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1738785634</releaseNumber>
+			<title>American Football - Touchdown Fever (Japan)</title>
+			<saveType></saveType>
+			<romSize>163840</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">67A3C362</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>427011752</releaseNumber>
 			<title>American Gladiators (USA)</title>
 			<saveType></saveType>
@@ -1963,8 +2043,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>4021467112</releaseNumber>
+			<title>Arctic Adventure - Penguin &amp; Seal (Australia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>24576</romSize>
+			<publisher></publisher>
+			<location>19</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">EFB2B7E8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3786563802</releaseNumber>
-			<title>Argos no Senshi (Japan)</title>
+			<title>Argos no Senshi - Hachamecha Daishingeki (Japan)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -2124,7 +2220,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3823289279</releaseNumber>
-			<title>ASO - Armored Scrum Object (Japan)</title>
+			<title>ASO - Armored Scrum Object (Japan) (En)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -2332,7 +2428,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1348641611</releaseNumber>
-			<title>Atlantis no Nazo (Japan) (Sample)</title>
+			<title>Atlantis no Nazo (Japan) (Beta)</title>
 			<saveType></saveType>
 			<romSize>49152</romSize>
 			<publisher></publisher>
@@ -2444,7 +2540,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2010777295</releaseNumber>
-			<title>AV Kyuukyoku Mahjong 2 (Asia) (Ja) (Unl)</title>
+			<title>AV Kyuukyoku Mahjong 2 (Asia) (Ja) (Ka Sheng) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -2452,6 +2548,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">77DA06CF</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>743215958</releaseNumber>
+			<title>AV Kyuukyoku Mahjong 2 (Asia) (Ja) (Ge De) (Unl)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">2C4C9356</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -2491,6 +2603,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1051709458</releaseNumber>
+			<title>AV Mei Shao Nv Zhan Shi (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>655360</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">3EAFD012</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2586027096</releaseNumber>
 			<title>AV Pachi-Slot (Japan) (Unl)</title>
 			<saveType></saveType>
@@ -2500,6 +2628,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">9A23A458</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3657609709</releaseNumber>
+			<title>AV Pachi-Slot (Asia) (Ja) (Unl)</title>
+			<saveType></saveType>
+			<romSize>98304</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">DA02B1ED</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -2596,6 +2740,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">BBE40DC4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2972962727</releaseNumber>
+			<title>Baby Boomer (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>81920</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">B133CFA7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -3003,6 +3163,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>35440657</releaseNumber>
+			<title>Bao Xiao San Guo (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">021CC811</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3546609686</releaseNumber>
 			<title>Barbie (Europe)</title>
 			<saveType></saveType>
@@ -3356,7 +3532,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1790628710</releaseNumber>
-			<title>Bases Loaded (USA) (Rev B)</title>
+			<title>Bases Loaded (USA) (Rev 2)</title>
 			<saveType></saveType>
 			<romSize>327680</romSize>
 			<publisher></publisher>
@@ -3420,7 +3596,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2088372851</releaseNumber>
-			<title>Bashi Bazook - Morphoid Masher (USA) (Proto)</title>
+			<title>Bashi Bazook - Morphoid Masher (USA) (Proto) (29.05.1989)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -3532,7 +3708,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2171261304</releaseNumber>
-			<title>Batman - The Video Game (USA) (Beta 1)</title>
+			<title>Batman - The Video Game (USA) (Beta) (Earlier)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -3548,7 +3724,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3415186103</releaseNumber>
-			<title>Batman - The Video Game (USA) (Beta 2)</title>
+			<title>Batman - The Video Game (USA) (Beta) (Later)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -3596,11 +3772,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2026666347</releaseNumber>
-			<title>Batman Returns (Unknown) (Beta)</title>
+			<title>Batman Returns (Europe) (Beta)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>0</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">78CC796B</romCRC></files>
@@ -3884,7 +4060,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2140937708</releaseNumber>
-			<title>BB Car (Unknown) (Unl)</title>
+			<title>BB Car (Asia) (En) (Unl)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -4043,6 +4219,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3784479650</releaseNumber>
+			<title>Best Play Pro Yakyuu (Japan) (Rev A)</title>
+			<saveType></saveType>
+			<romSize>163840</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">E19293A2</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2538506304</releaseNumber>
 			<title>Best Play Pro Yakyuu &#039;90 (Japan)</title>
 			<saveType></saveType>
@@ -4052,22 +4244,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">974E8840</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3784479650</releaseNumber>
-			<title>Best Play Pro Yakyuu - Shin Data (Japan)</title>
-			<saveType></saveType>
-			<romSize>163840</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">E19293A2</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -4379,15 +4555,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3494527206</releaseNumber>
-			<title>Bingo 75 (Asia) (Ja) (Unl)</title>
+			<releaseNumber>1071394750</releaseNumber>
+			<title>Bingo (Asia) (TXC) (Unl)</title>
 			<saveType></saveType>
-			<romSize>65536</romSize>
+			<romSize>24576</romSize>
 			<publisher></publisher>
 			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">D04A40E6</romCRC></files>
+			<files><romCRC extension=".nes">3FDC2FBE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -4395,7 +4571,39 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3776332927</releaseNumber>
+			<releaseNumber>1254387270</releaseNumber>
+			<title>Bingo (Asia) (C&amp;E) (Unl)</title>
+			<saveType></saveType>
+			<romSize>24576</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">4AC46E46</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4120372148</releaseNumber>
+			<title>Bingo 75 (Asia) (Ja) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">F597E3B4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3546338809</releaseNumber>
 			<title>BinGuo 75 (Asia) (Ja) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
@@ -4403,7 +4611,7 @@
 			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">E116447F</romCRC></files>
+			<files><romCRC extension=".nes">D360D5F9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -4507,22 +4715,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>4068009061</releaseNumber>
-			<title>Bird Week (Japan) (Beta)</title>
-			<saveType></saveType>
-			<romSize>49152</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">F278E465</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>2577804871</releaseNumber>
 			<title>Black Bass II, The (Japan)</title>
 			<saveType></saveType>
@@ -4564,6 +4756,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">B04BA659</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>370707209</releaseNumber>
+			<title>Black Dragon (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">16188B09</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -4652,7 +4860,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3062081622</releaseNumber>
-			<title>Blaster Master (USA) (Beta)</title>
+			<title>Blaster Master (USA) (Beta) (20.05.1988)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -5020,11 +5228,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2961655648</releaseNumber>
-			<title>Bowling (Unknown) (Proto)</title>
+			<title>Bowling (USA) (Proto)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">B0874760</romCRC></files>
@@ -5099,15 +5307,31 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>2066082224</releaseNumber>
-			<title>Brilliant Com Pack 2 (Korea) (Unl)</title>
+			<releaseNumber>1111759624</releaseNumber>
+			<title>Brilliant Com Cocoma Pack 1 (Korea) (Unl)</title>
 			<saveType></saveType>
-			<romSize>262144</romSize>
+			<romSize>1048576</romSize>
 			<publisher></publisher>
 			<location>22</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">7B25E9B0</romCRC></files>
+			<files><romCRC extension=".nes">42441B08</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3173422328</releaseNumber>
+			<title>Brilliant Com Cocoma Pack 2 (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">BD2694F8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -5355,8 +5579,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>779033205</releaseNumber>
+			<title>BugTris (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>40960</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">2E6F1A75</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2694878660</releaseNumber>
-			<title>Bump&#039;n&#039;Jump (USA)</title>
+			<title>Bump &#039;n&#039; Jump (USA)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -5508,6 +5748,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">0719260C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2932396624</releaseNumber>
+			<title>Cadillac (Japan) (Sample)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">AEC8D250</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -5868,7 +6124,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>833899621</releaseNumber>
-			<title>Captain Tsubasa Vol. II - Super Striker (Japan)</title>
+			<title>Captain Tsubasa II - Super Striker (Japan)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -6204,7 +6460,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2110828488</releaseNumber>
-			<title>Challenge of the Dragon (Asia) (Ja) (PAL) (Unl)</title>
+			<title>Challenge of the Dragon (Asia) (Ja) (Sachen) (Unl)</title>
 			<saveType></saveType>
 			<romSize>196608</romSize>
 			<publisher></publisher>
@@ -6220,7 +6476,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3515389501</releaseNumber>
-			<title>Challenge of the Dragon (USA) (Unl)</title>
+			<title>Challenge of the Dragon (USA) (Color Dreams) (Unl)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -6603,7 +6859,7 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>2437155499</releaseNumber>
+			<releaseNumber>2045347332</releaseNumber>
 			<title>Chinese KungFu (Asia) (Ja) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
@@ -6611,7 +6867,7 @@
 			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">91440AAB</romCRC></files>
+			<files><romCRC extension=".nes">79E98604</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -6644,6 +6900,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">8BF29CB6</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>616951600</releaseNumber>
+			<title>Chip &#039;n Dale - Rescue Rangers (Europe) (Beta)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">24C5EF30</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -6780,7 +7052,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2285130986</releaseNumber>
-			<title>Choplifter (Japan)</title>
+			<title>Choplifter (Japan) (En)</title>
 			<saveType></saveType>
 			<romSize>49152</romSize>
 			<publisher></publisher>
@@ -6892,7 +7164,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2246052107</releaseNumber>
-			<title>Choujinrou Senki Warwolf (Japan)</title>
+			<title>Choujinrou Senki - Warwolf (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -7339,15 +7611,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>4068724568</releaseNumber>
+			<releaseNumber>3700312511</releaseNumber>
 			<title>Colorful Dragon (Asia) (Ja) (PAL) (Unl)</title>
 			<saveType></saveType>
-			<romSize>65536</romSize>
+			<romSize>49152</romSize>
 			<publisher></publisher>
 			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">F283CF58</romCRC></files>
+			<files><romCRC extension=".nes">DC8E49BF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -7804,11 +8076,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1298714545</releaseNumber>
-			<title>Crime Busters (Unknown) (Unl)</title>
+			<title>Crime Busters (Brazil) (Unl)</title>
 			<saveType></saveType>
 			<romSize>163840</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>21</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">4D68CFB1</romCRC></files>
@@ -7852,7 +8124,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3914618108</releaseNumber>
-			<title>Cross Fire (Japan)</title>
+			<title>CrossFire (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -7868,7 +8140,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3202550879</releaseNumber>
-			<title>Cross Fire (USA) (Proto)</title>
+			<title>CrossFire (USA) (Proto)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -7892,6 +8164,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">72E66392</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4058445288</releaseNumber>
+			<title>Crystal Mines (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>98304</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">F1E6F5E8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -8171,7 +8459,7 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3956302925</releaseNumber>
+			<releaseNumber>2294892345</releaseNumber>
 			<title>Dao Shuai (Asia) (Ja) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
@@ -8179,7 +8467,7 @@
 			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">EBD0644D</romCRC></files>
+			<files><romCRC extension=".nes">88C94739</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -8380,7 +8668,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3188098367</releaseNumber>
-			<title>Datach - J League Super Top Players (Japan)</title>
+			<title>Datach - J.League Super Top Players (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -8555,6 +8843,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1069669401</releaseNumber>
+			<title>De-Block (Japan)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">3FC1DC19</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>773750744</releaseNumber>
 			<title>Dead Fox (Japan)</title>
 			<saveType></saveType>
@@ -8628,22 +8932,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">8EAB381C</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1069669401</releaseNumber>
-			<title>Deblock (Japan)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">3FC1DC19</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -8812,7 +9100,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4032015455</releaseNumber>
-			<title>Deja Vu - Akumu wa Hontou ni Yatte Kita (Japan)</title>
+			<title>Deja Vu - A Nightmare Comes True!! (Japan)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -9228,7 +9516,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3937403566</releaseNumber>
-			<title>Dino-Hockey (USA) (Proto)</title>
+			<title>Dino Hockey (USA) (Proto)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -9276,7 +9564,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3176198704</releaseNumber>
-			<title>Doki!Doki! Yuuenchi - Crazy Land Daisakusen (Japan)</title>
+			<title>Doki! Doki! Yuuenchi - Crazy Land Daisakusen (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -9420,7 +9708,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1872217889</releaseNumber>
-			<title>Donkey Kong (World) (Rev A)</title>
+			<title>Donkey Kong (World) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -9516,7 +9804,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1214563076</releaseNumber>
-			<title>Donkey Kong Jr. (World) (Rev A)</title>
+			<title>Donkey Kong Jr. (World) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -9676,11 +9964,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3633883392</releaseNumber>
-			<title>Dou Zhi Pin Pan - Wisdom Boy (China) (Unl)</title>
+			<title>Dou Zhi Pin Pan - Wisdom Boy (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">D898A900</romCRC></files>
@@ -10060,7 +10348,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3730314069</releaseNumber>
-			<title>Dr. Mario (Japan, USA) (Rev A)</title>
+			<title>Dr. Mario (Japan, USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -10076,7 +10364,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3298806452</releaseNumber>
-			<title>Dr. Mario (USA) (Beta) (Between 1990-02-02 &amp; 1990-04-27, later)</title>
+			<title>Dr. Mario (USA) (Beta) (After 1990-04-27)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -10444,7 +10732,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2761640120</releaseNumber>
-			<title>Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 0A)</title>
+			<title>Dragon Quest III - Soshite Densetsu e... (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -10460,7 +10748,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2257912266</releaseNumber>
-			<title>Dragon Quest III - Soshite Densetsu e... (Japan) (Rev B)</title>
+			<title>Dragon Quest III - Soshite Densetsu e... (Japan) (Rev A)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -10492,7 +10780,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>127201957</releaseNumber>
-			<title>Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev A)</title>
+			<title>Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -10524,7 +10812,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2783361785</releaseNumber>
-			<title>Dragon Slayer 4 - Drasle Family (Japan)</title>
+			<title>Dragon Slayer IV - Drasle Family (Japan)</title>
 			<saveType></saveType>
 			<romSize>196608</romSize>
 			<publisher></publisher>
@@ -10764,7 +11052,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1674808198</releaseNumber>
-			<title>Dreamworld Pogie (Unknown) (Proto 1) (Unl)</title>
+			<title>Dreamworld Pogie (Unknown) (Proto 1) (19.10.1993) (Unl)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -10780,7 +11068,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2841838968</releaseNumber>
-			<title>Dreamworld Pogie (Unknown) (Proto 2) (Unl)</title>
+			<title>Dreamworld Pogie (Unknown) (Proto 2) (2016) (Unl)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -10788,6 +11076,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">A9630578</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>657849151</releaseNumber>
+			<title>Dreamworld Pogie (Unknown) (Proto 3) (2017) (Unl)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">2735FB3F</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -10820,6 +11124,38 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">EB764567</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1413246686</releaseNumber>
+			<title>Duck (Asia) (En) (Rev 1) (Unl)</title>
+			<saveType></saveType>
+			<romSize>40960</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">543C6EDE</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>263177995</releaseNumber>
+			<title>Duck (Asia) (En) (Unl)</title>
+			<saveType></saveType>
+			<romSize>40960</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">0FAFC70B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -10892,7 +11228,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4283684670</releaseNumber>
-			<title>DuckTales (USA) (Beta)</title>
+			<title>DuckTales (USA) (Beta) (25.05.1989)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -11164,7 +11500,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3186178457</releaseNumber>
-			<title>Dynowarz - Destruction of Spondylus (USA)</title>
+			<title>Dynowarz - The Destruction of Spondylus (USA)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -11180,7 +11516,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1403642554</releaseNumber>
-			<title>Earth Bound (USA) (Proto)</title>
+			<title>EarthBound Beginnings (USA) (Virtual Console)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -11260,7 +11596,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2050640365</releaseNumber>
-			<title>Elevator Action (Japan) (Rev A)</title>
+			<title>Elevator Action (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -11660,7 +11996,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>473029984</releaseNumber>
-			<title>Exploding Fist (USA) (Proto 2)</title>
+			<title>Exploding Fist (USA) (Proto) (22.05.1990)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -11676,7 +12012,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3111910871</releaseNumber>
-			<title>Exploding Fist (USA) (Proto 1)</title>
+			<title>Exploding Fist (USA) (Proto) (Earlier)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -11684,22 +12020,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">B97BFDD7</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3764408182</releaseNumber>
-			<title>F-1 Race (Japan)</title>
-			<saveType></saveType>
-			<romSize>24576</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">E0604F76</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -11740,7 +12060,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>176054996</releaseNumber>
-			<title>F-117A - Stealth Fighter (USA)</title>
+			<title>F-117A Stealth Fighter (USA)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -11748,6 +12068,70 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">0A7E62D4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2292625810</releaseNumber>
+			<title>F-15 City War (USA) (v1.0) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">88A6B192</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4085521869</releaseNumber>
+			<title>F-15 City War (USA) (v1.1) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">F3841DCD</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>801023597</releaseNumber>
+			<title>F-15 City War (Spain) (Gluk Video) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>4</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">2FBEA66D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4015521033</releaseNumber>
+			<title>F-15 City War (Asia) (En) (Idea-Tek) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">EF57FD09</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -11867,47 +12251,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>2292625810</releaseNumber>
-			<title>F15 City War (USA) (v1.0) (Unl)</title>
+			<releaseNumber>3764408182</releaseNumber>
+			<title>F1 Race (Japan)</title>
 			<saveType></saveType>
-			<romSize>65536</romSize>
+			<romSize>24576</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">88A6B192</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>4085521869</releaseNumber>
-			<title>F15 City War (USA) (v1.1) (Unl)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">F3841DCD</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>801023597</releaseNumber>
-			<title>F15 City War (Spain) (Gluk Video) (Unl)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>4</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">2FBEA66D</romCRC></files>
+			<files><romCRC extension=".nes">E0604F76</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -12060,7 +12412,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2606005765</releaseNumber>
-			<title>Famicom Wars (Japan) (Rev 0B)</title>
+			<title>Famicom Wars (Japan)</title>
 			<saveType></saveType>
 			<romSize>196608</romSize>
 			<publisher></publisher>
@@ -12092,7 +12444,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4150290448</releaseNumber>
-			<title>Family BASIC (Japan) (v2.0a)</title>
+			<title>Family BASIC (Japan) (Rev A)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -12108,7 +12460,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2303735740</releaseNumber>
-			<title>Family BASIC (Japan) (v2.1a)</title>
+			<title>Family BASIC (Japan) (Rev A1)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -12292,6 +12644,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">DD29FD59</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2541748989</releaseNumber>
+			<title>Family Noraebang (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>1048576</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">978002FD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -12652,11 +13020,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4213926672</releaseNumber>
-			<title>Fan Kong Jing Ying (China) (Unl)</title>
+			<title>Fan Kong Jing Ying (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">FB2B6B10</romCRC></files>
@@ -12699,8 +13067,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2485760758</releaseNumber>
+			<title>Fantastic Adventures of Dizzy, The (Europe) (En,Fr,De) (Unl)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">9429B2F6</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>269590123</releaseNumber>
-			<title>Fantasy Zone (Japan)</title>
+			<title>Fantasy Zone (Japan) (Sunsoft)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -12716,7 +13100,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>268296792</releaseNumber>
-			<title>Fantasy Zone (USA) (Unl)</title>
+			<title>Fantasy Zone (USA) (Tengen) (Unl)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -12987,6 +13371,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2334561469</releaseNumber>
+			<title>Fester&#039;s Quest (Europe) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">8B2694BD</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>457549630</releaseNumber>
 			<title>Field Combat (Japan)</title>
 			<saveType></saveType>
@@ -13100,7 +13500,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1181679042</releaseNumber>
-			<title>Final Fantasy (Japan) (Rev 0A)</title>
+			<title>Final Fantasy (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -13116,7 +13516,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4145970909</releaseNumber>
-			<title>Final Fantasy (Japan) (Rev B)</title>
+			<title>Final Fantasy (Japan) (Rev A)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -13308,7 +13708,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>465995432</releaseNumber>
-			<title>Fire Hawk (USA) (Unl)</title>
+			<title>Firehawk (USA) (Unl)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -13675,22 +14075,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1371374390</releaseNumber>
-			<title>Foton - The Ultimate Game on Planet Earth (Japan)</title>
-			<saveType></saveType>
-			<romSize>131072</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">51BD8336</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>1220079192</releaseNumber>
 			<title>Four Players&#039; Tennis (Europe)</title>
 			<saveType></saveType>
@@ -13819,22 +14203,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>10826306</releaseNumber>
-			<title>Fun Blaster Pak (Australia) (Unl)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>19</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">00A53242</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>1466568168</releaseNumber>
 			<title>Fun House (USA)</title>
 			<saveType></saveType>
@@ -13844,6 +14212,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">576A0DE8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>10826306</releaseNumber>
+			<title>Funblaster Pak (Australia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>19</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">00A53242</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -14108,7 +14492,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1325964938</releaseNumber>
-			<title>Galaxy 5000 (Europe)</title>
+			<title>Galaxy 5000 - Racing in the 51st Century (Europe)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -14124,7 +14508,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>488678854</releaseNumber>
-			<title>Galaxy 5000 (USA)</title>
+			<title>Galaxy 5000 - Racing in the 51st Century (USA)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -14140,7 +14524,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>774556393</releaseNumber>
-			<title>Gambler Jiko Chuushinha - Mahjong Game (Japan)</title>
+			<title>Gambler Jiko Chuushinha (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -14283,6 +14667,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>919743189</releaseNumber>
+			<title>Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Japan) (Rev 1)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">36D22AD5</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>678415648</releaseNumber>
 			<title>Ganbare Goemon Gaiden 2 - Tenka no Zaihou (Japan)</title>
 			<saveType></saveType>
@@ -14347,8 +14747,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2067813212</releaseNumber>
+			<title>Gardman (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">7B40535C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3036647911</releaseNumber>
-			<title>Garfield - A Week of Garfield (Japan)</title>
+			<title>Garfield no Isshukan (Japan)</title>
 			<saveType></saveType>
 			<romSize>163840</romSize>
 			<publisher></publisher>
@@ -14364,7 +14780,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4218882462</releaseNumber>
-			<title>Garfield - A Week of Garfield (Japan) (Sample)</title>
+			<title>Garfield no Isshukan (Japan) (Sample)</title>
 			<saveType></saveType>
 			<romSize>163840</romSize>
 			<publisher></publisher>
@@ -14412,7 +14828,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2429979203</releaseNumber>
-			<title>Garry Kitchen&#039;s BattleTank (USA)</title>
+			<title>Garry Kitchen&#039;s Battletank (USA)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -14971,6 +15387,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1276903288</releaseNumber>
+			<title>Go! Benny! (Asia) (En) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">4C1BFF78</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3222287762</releaseNumber>
 			<title>Goal! (Europe)</title>
 			<saveType></saveType>
@@ -15372,7 +15804,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2243952623</releaseNumber>
-			<title>Goonies II, The - Fratelli Saigo no Chousen (Japan) (Beta)</title>
+			<title>Goonies II, The - Fratelli Saigo no Chousen (Japan) (Sample)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -15739,6 +16171,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3706473049</releaseNumber>
+			<title>Gremlins 2 - The New Batch (USA) (Beta)</title>
+			<saveType></saveType>
+			<romSize>393216</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">DCEC4A59</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>4270878741</releaseNumber>
 			<title>Guardian Legend, The (Europe)</title>
 			<saveType></saveType>
@@ -15980,7 +16428,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>37378610</releaseNumber>
-			<title>Gyromite (World)</title>
+			<title>Gyromite ~ Gyro (World)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -16092,7 +16540,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>234905800</releaseNumber>
-			<title>Happily Ever After (USA) (Proto)</title>
+			<title>Happily Ever After starring Snow White (USA) (Proto)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -16116,6 +16564,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">B47569E2</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>649363972</releaseNumber>
+			<title>Happy Camper (USA) (Proto) (Unl) [b]</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">26B48204</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -16396,7 +16860,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2747214554</releaseNumber>
-			<title>Hero Quest (USA) (Proto)</title>
+			<title>HeroQuest (USA) (Proto)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -16412,7 +16876,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4194043648</releaseNumber>
-			<title>Hero Quest (Europe) (Proto)</title>
+			<title>HeroQuest (Europe) (Proto) (21.08.1992)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -16420,6 +16884,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">F9FC0700</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1580651454</releaseNumber>
+			<title>HES 6-Pak - Real Player&#039;s Pak (Australia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>393216</romSize>
+			<publisher></publisher>
+			<location>19</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">5E36D3BE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -16507,8 +16987,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1371374390</releaseNumber>
+			<title>Hikari no Senshi Foton - The Ultimate Game on Planet Earth (Japan)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">51BD8336</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>717562684</releaseNumber>
-			<title>Hinotori - Houou Hen - Gaou no Bouken (Japan)</title>
+			<title>Hino Tori - Houou Hen - Gaou no Bouken (Japan)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -16668,7 +17164,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>481927193</releaseNumber>
-			<title>Hit the Ice - VHL - The Video Hockey League (USA) (Proto)</title>
+			<title>Hit the Ice (USA) (Proto)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -16908,7 +17404,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>693644449</releaseNumber>
-			<title>Honey Peach - Mei Nv Quan (Asia) (Ja) (Unl)</title>
+			<title>Honey Peach (Asia) (Ja) (Unl)</title>
 			<saveType></saveType>
 			<romSize>163840</romSize>
 			<publisher></publisher>
@@ -17163,22 +17659,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>2528809136</releaseNumber>
-			<title>Houma ga Toki (Japan)</title>
-			<saveType></saveType>
-			<romSize>131072</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">96BA90B0</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>76752345</releaseNumber>
 			<title>Huang Di (Asia) (Ja) (Unl)</title>
 			<saveType></saveType>
@@ -17236,38 +17716,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">5A4F156D</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>4171699134</releaseNumber>
-			<title>Hudson&#039;s Adventure Island (USA)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">F8A713BE</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2360134277</releaseNumber>
-			<title>Hudson&#039;s Adventure Island II (USA) (Beta)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">8CACCA85</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -17548,11 +17996,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4221097070</releaseNumber>
-			<title>Ice Climber (USA, Europe)</title>
+			<title>Ice Climber (USA, Europe, Korea)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
-			<location>16</location>
+			<location>22</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">FB98D46E</romCRC></files>
@@ -18252,7 +18700,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2580055624</releaseNumber>
-			<title>International Cricket (Australia) (Beta)</title>
+			<title>International Cricket (Australia) (Beta) (24.08.1992)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -18731,6 +19179,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2528809136</releaseNumber>
+			<title>Jekyll Hakase no Houma ga Toki (Japan)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">96BA90B0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3050376540</releaseNumber>
 			<title>Jeopardy! (USA)</title>
 			<saveType></saveType>
@@ -18916,22 +19380,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">00E95D86</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>710888538</releaseNumber>
-			<title>Jin Gwok Sei Chuen Saang (Asia) (Unl)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>99</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">2A5F4C5A</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -19164,7 +19612,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2837701697</releaseNumber>
-			<title>Jovial Race (Unknown) (Unl)</title>
+			<title>Jovial Race (Asia) (En) (Unl)</title>
 			<saveType></saveType>
 			<romSize>98304</romSize>
 			<publisher></publisher>
@@ -19388,7 +19836,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1903013541</releaseNumber>
-			<title>Juvei Quest (Japan) (Rev 1)</title>
+			<title>Juvei Quest (Japan) (Alt)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -19460,22 +19908,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">E74AA15A</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2560062865</releaseNumber>
-			<title>Kage (Japan)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">98977591</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -20043,22 +20475,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1359250238</releaseNumber>
-			<title>Kick Master (USA)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">5104833E</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>3512830091</releaseNumber>
 			<title>Kick Off (Europe)</title>
 			<saveType></saveType>
@@ -20107,12 +20523,28 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1359250238</releaseNumber>
+			<title>KickMaster (USA)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">5104833E</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3598702246</releaseNumber>
-			<title>Kid Icarus (Europe) (Rev A)</title>
+			<title>Kid Icarus (USA, Europe) (Rev A)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
-			<location>0</location>
+			<location>16</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">D67FD6A6</romCRC></files>
@@ -20204,7 +20636,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1647321339</releaseNumber>
-			<title>Kiddy Sun in Fantasia (Taiwan)</title>
+			<title>Kiddy Sun in Fantasia (Asia)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -20316,7 +20748,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2773942749</releaseNumber>
-			<title>King of Kings, The (USA) (v1.1) (Unl)</title>
+			<title>King of Kings, The - The Early Years (USA) (v1.1) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -20332,7 +20764,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1443624358</releaseNumber>
-			<title>King of Kings, The (USA) (v1.2) (Unl)</title>
+			<title>King of Kings, The - The Early Years (USA) (v1.2) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -20348,7 +20780,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2258062540</releaseNumber>
-			<title>King of Kings, The (USA) (v1.3) (Unl)</title>
+			<title>King of Kings, The - The Early Years (USA) (v1.3) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -20364,7 +20796,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2125191772</releaseNumber>
-			<title>King of Kings, The (USA) (v5.0) (Unl)</title>
+			<title>King of Kings, The - The Early Years (USA) (v5.0) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -20556,7 +20988,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1591144993</releaseNumber>
-			<title>Kirby&#039;s Adventure (USA) (Rev A)</title>
+			<title>Kirby&#039;s Adventure (USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>786432</romSize>
 			<publisher></publisher>
@@ -20612,6 +21044,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">563C2CC0</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>986324614</releaseNumber>
+			<title>Kkachi-wa Norae Chingu (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">3ACA1E86</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -20763,6 +21211,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2325143565</releaseNumber>
+			<title>Konami Wai Wai World (Japan)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">8A96E00D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3345228903</releaseNumber>
 			<title>Konamic Sports in Seoul (Japan)</title>
 			<saveType></saveType>
@@ -20828,7 +21292,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1669326428</releaseNumber>
-			<title>Krazy Kreatures (USA) (Unl)</title>
+			<title>Krazy Kreatures (USA) (Rev A) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -20844,7 +21308,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2234662870</releaseNumber>
-			<title>Krazy Kreatures (USA) (Beta) (Unl)</title>
+			<title>Krazy Kreatures (USA) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -21067,24 +21531,8 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1365976082</releaseNumber>
-			<title>Kyouryuu Sentai Zyuranger (Japan)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">516B2412</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>517461694</releaseNumber>
-			<title>Kyouto Hana no Misshitsu Satsujin Jiken (Japan)</title>
+			<title>Kyoto Hana no Misshitsu Satsujin Jiken (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -21100,7 +21548,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>874981297</releaseNumber>
-			<title>Kyouto Ryuu no Tera Satsujin Jiken (Japan)</title>
+			<title>Kyoto Ryuu no Tera Satsujin Jiken (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -21108,6 +21556,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">342727B1</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1365976082</releaseNumber>
+			<title>Kyouryuu Sentai Zyuranger (Japan)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">516B2412</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -21204,6 +21668,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">091ED5A9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>304313724</releaseNumber>
+			<title>L.A Cop - Miss. Peach World (Japan) (Unl)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">1223757C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -21484,7 +21964,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3561701678</releaseNumber>
-			<title>Legend of Zelda, The (Europe) (Rev A)</title>
+			<title>Legend of Zelda, The (Europe) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -21516,7 +21996,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3942116722</releaseNumber>
-			<title>Legend of Zelda, The (USA) (Rev A)</title>
+			<title>Legend of Zelda, The (USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -21588,6 +22068,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">05CE560C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>735354472</releaseNumber>
+			<title>Lei Dian II - Thunderbolt Fighting Plane (Asia) (En) (Unl)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">2BD49E68</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -21724,11 +22220,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2221708036</releaseNumber>
-			<title>Lin Ze Xu Jin Yan (China) (Unl)</title>
+			<title>Lin Ze Xu Jin Yan (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">846C9304</romCRC></files>
@@ -22427,6 +22923,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1646361511</releaseNumber>
+			<title>Madoola no Tsubasa (Japan) (Sample)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">62217BA7</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2315533526</releaseNumber>
 			<title>Mafat Conspiracy, The (USA)</title>
 			<saveType></saveType>
@@ -22459,6 +22971,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1525465154</releaseNumber>
+			<title>Magic Bubble (Asia) (En) (Unl)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">5AECC042</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1229110696</releaseNumber>
 			<title>Magic Candle, The (Japan)</title>
 			<saveType></saveType>
@@ -22468,6 +22996,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">4942BDA8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3282750868</releaseNumber>
+			<title>Magic Carpet 1001 (USA) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">C3AACD94</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -22732,7 +23276,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3084294765</releaseNumber>
-			<title>Magician (USA) (Beta 1)</title>
+			<title>Magician (USA) (Beta 2)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -22748,7 +23292,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>757067376</releaseNumber>
-			<title>Magician (USA) (Beta 2)</title>
+			<title>Magician (USA) (Beta 3)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -22756,6 +23300,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">2D1FEE70</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2115267646</releaseNumber>
+			<title>Magician (USA) (Beta 1) (02.03.1990)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">7E146C3E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -22876,7 +23436,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2844008487</releaseNumber>
-			<title>Mahjong (Japan) (Rev A)</title>
+			<title>Mahjong (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -22924,7 +23484,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>181388237</releaseNumber>
-			<title>Mahjong Block (Unknown) (Unl)</title>
+			<title>Mahjong Block (Asia) (TXC) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -22932,6 +23492,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">0ACFC3CD</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1705723597</releaseNumber>
+			<title>Mahjong Block (Asia) (Idea-Tek) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">65AB46CD</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -23019,7 +23595,7 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>3314477655</releaseNumber>
+			<releaseNumber>201122217</releaseNumber>
 			<title>Mahjong Trap - Si Cuan Ma Que (Asia) (Ja) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
@@ -23027,7 +23603,7 @@
 			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">C58EEA57</romCRC></files>
+			<files><romCRC extension=".nes">0BFCE1A9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -23468,7 +24044,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>737212869</releaseNumber>
-			<title>Mario Bros. (Europe) (Rev A)</title>
+			<title>Mario Bros. (Europe) (PAL-MA-0)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -23499,6 +24075,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2713770496</releaseNumber>
+			<title>Mario Bros. (Europe) (PAL-MC-0, Classic Series)</title>
+			<saveType></saveType>
+			<romSize>40960</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">A1C0DA00</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2377324336</releaseNumber>
 			<title>Mario Bros. (USA) (GameCube Edition)</title>
 			<saveType></saveType>
@@ -23508,22 +24100,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">8DB31730</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2713770496</releaseNumber>
-			<title>Mario Bros. Classic (Europe)</title>
-			<saveType></saveType>
-			<romSize>40960</romSize>
-			<publisher></publisher>
-			<location>0</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">A1C0DA00</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -23580,7 +24156,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3679864360</releaseNumber>
-			<title>Mario Open Golf (Japan) (Rev A)</title>
+			<title>Mario Open Golf (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -23628,7 +24204,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3503054536</releaseNumber>
-			<title>Mashin Eiyuu Den Wataru Gaiden (Japan)</title>
+			<title>Mashin Eiyuuden Wataru Gaiden (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -23739,6 +24315,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2880073592</releaseNumber>
+			<title>Matsumoto Tooru no Kabushiki Hisshou Gaku (Japan)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">ABAA6F78</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>302573396</releaseNumber>
 			<title>Matsumoto Tooru no Kabushiki Hisshou Gaku - Part II (Japan)</title>
 			<saveType></saveType>
@@ -23748,22 +24340,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">1208E754</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2880073592</releaseNumber>
-			<title>Matsumoto Tooru no Kabushiki Hisshou Gaku - Vol. 1 (Japan)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">ABAA6F78</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -24108,11 +24684,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>855669607</releaseNumber>
-			<title>Mei Guo Fu Hao - American Man (China) (Unl)</title>
+			<title>Mei Guo Fu Hao - American Man (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">33007B67</romCRC></files>
@@ -24148,6 +24724,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">3E00A373</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>584567134</releaseNumber>
+			<title>Meikyuu Kumikyoku - Milon no Daibouken (Japan) (Sample)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">22D7C95E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -24284,11 +24876,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1936714692</releaseNumber>
-			<title>Meng Huan - Xiang Shuai Chuan Qi Zhi Xue Hai Piao Ling (China) (Unl)</title>
+			<title>Meng Huan - Xiang Shuai Chuan Qi Zhi Xue Hai Piao Ling (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">736FEBC4</romCRC></files>
@@ -24364,7 +24956,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3214086442</releaseNumber>
-			<title>Metal Flame Psybuster (Japan)</title>
+			<title>Metal Flame - Psy Buster (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -24459,22 +25051,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>87524871</releaseNumber>
-			<title>Metal Mech - Man &amp; Machine (USA)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">05378607</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>3027460012</releaseNumber>
 			<title>Metal Slader Glory (Japan)</title>
 			<saveType></saveType>
@@ -24500,6 +25076,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">BCACBBF4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>87524871</releaseNumber>
+			<title>MetalMech - Man &amp; Machine (USA)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">05378607</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -24588,7 +25180,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>915521824</releaseNumber>
-			<title>Mezase Top Pro - Green ni Kakeru Yume (Japan)</title>
+			<title>Mezase! Top Pro - Green ni Kakeru Yume (Japan)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -24612,6 +25204,86 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">942B1210</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2707499192</releaseNumber>
+			<title>Mick &amp; Mack as the Global Gladiators (USA) (Proto) (09.07.1993)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">A16128B8</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>970409048</releaseNumber>
+			<title>Mick &amp; Mack as the Global Gladiators (USA) (Proto) (30.06.1993)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">39D74458</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2924335849</releaseNumber>
+			<title>Mick &amp; Mack as the Global Gladiators (USA) (Proto) (16.06.1993)</title>
+			<saveType></saveType>
+			<romSize>229376</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">AE4DD2E9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3369507074</releaseNumber>
+			<title>Mick &amp; Mack as the Global Gladiators (USA) (Proto) (28.05.1993)</title>
+			<saveType></saveType>
+			<romSize>221184</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">C8D69902</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3454949684</releaseNumber>
+			<title>Mick &amp; Mack as the Global Gladiators (USA) (Proto) (28.05.1993) (Alt)</title>
+			<saveType></saveType>
+			<romSize>221184</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">CDEE5934</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -25068,7 +25740,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1621464612</releaseNumber>
-			<title>Mind Blower Pak (Australia) (Unl)</title>
+			<title>Mindblower Pak (Australia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -25227,24 +25899,8 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1571409608</releaseNumber>
-			<title>Mission Cobra (USA) (Unl)</title>
-			<saveType></saveType>
-			<romSize>49152</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">5DA9CEC8</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>324247860</releaseNumber>
-			<title>Mission Impossible (Europe)</title>
+			<title>Mission - Impossible (Europe)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -25260,7 +25916,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1322075684</releaseNumber>
-			<title>Mission Impossible (France)</title>
+			<title>Mission - Impossible (France)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -25276,7 +25932,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3821386557</releaseNumber>
-			<title>Mission Impossible (USA)</title>
+			<title>Mission - Impossible (USA)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -25284,6 +25940,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">E3C5BB3D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1571409608</releaseNumber>
+			<title>Mission Cobra (USA) (Unl)</title>
+			<saveType></saveType>
+			<romSize>49152</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">5DA9CEC8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -25788,7 +26460,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4270128300</releaseNumber>
-			<title>Monster in My Pocket (USA) (Beta)</title>
+			<title>Monster in My Pocket (USA) (Beta) (22.04.1991)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -25964,7 +26636,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>168371901</releaseNumber>
-			<title>MotorCity Patrol (USA)</title>
+			<title>Motor City Patrol (USA)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -26060,7 +26732,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3067269888</releaseNumber>
-			<title>Ms. Pac-Man (USA)</title>
+			<title>Ms. Pac-Man (USA) (Namco)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -26076,7 +26748,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1137904687</releaseNumber>
-			<title>Ms. Pac-Man (USA) (Unl)</title>
+			<title>Ms. Pac-Man (USA) (Tengen) (Unl)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -26412,7 +27084,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3612669184</releaseNumber>
-			<title>Nantettatte!! Baseball (Japan) (Sample)</title>
+			<title>Nantettatte!! Baseball (Japan) (Sample) (22.12.1989)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -26700,7 +27372,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1718347244</releaseNumber>
-			<title>New Zealand Story, The (Europe)</title>
+			<title>NewZealand Story, The (Europe)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -26747,24 +27419,8 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1196533585</releaseNumber>
-			<title>Nigel Mansell&#039;s World Championship Challenge (USA)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">4751A751</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>376951325</releaseNumber>
-			<title>Nigel Mansell&#039;s World Championship Racing (Europe) (En,Fr,De,Es,It)</title>
+			<title>Nigel Mansell&#039;s World Championship (Europe) (En,Fr,De,Es,It)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -26772,6 +27428,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">1677D21D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1196533585</releaseNumber>
+			<title>Nigel Mansell&#039;s World Championship Racing (USA)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">4751A751</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -26924,7 +27596,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2103383195</releaseNumber>
-			<title>Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Beta) (1990-01-18)</title>
+			<title>Ninja Gaiden - Episode II - The Dark Sword of Chaos (USA) (Sample) (18.01.1990)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -26972,7 +27644,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1433803057</releaseNumber>
-			<title>Ninja Hattori-kun - Ninja wa Syugyou de Gozaru (Japan)</title>
+			<title>Ninja Hattori-kun - Ninja wa Syugyou de Gozaru no Maki (Japan)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -27212,7 +27884,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>185471631</releaseNumber>
-			<title>Nintendo World Championships 1990 (USA)</title>
+			<title>Nintendo World Championships 1990 (USA) (Competition Cart)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -27419,8 +28091,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2707521018</releaseNumber>
+			<title>Nobunaga no Yabou - Bushou Fuuun Roku (Japan) (Rev A)</title>
+			<saveType></saveType>
+			<romSize>786432</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">A1617DFA</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>4008289922</releaseNumber>
-			<title>Nobunaga no Yabou - Sengoku Gunyuu Den (Japan)</title>
+			<title>Nobunaga no Yabou - Sengoku Gunyuuden (Japan)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -27436,7 +28124,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4189332495</releaseNumber>
-			<title>Nobunaga no Yabou - Sengoku Gunyuu Den (Japan) (Rev A)</title>
+			<title>Nobunaga no Yabou - Sengoku Gunyuuden (Japan) (Rev A)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -27772,7 +28460,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3989005867</releaseNumber>
-			<title>Operation Wolf (USA) (Rev 0A)</title>
+			<title>Operation Wolf (USA)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -27788,7 +28476,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2509130670</releaseNumber>
-			<title>Orb 3D (USA)</title>
+			<title>Orb-3D (USA)</title>
 			<saveType></saveType>
 			<romSize>196608</romSize>
 			<publisher></publisher>
@@ -27804,7 +28492,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1314019287</releaseNumber>
-			<title>Osomatsu-kun (Japan)</title>
+			<title>Osomatsu-kun - Back to the Me no Deppa no Maki (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -27852,7 +28540,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2621802979</releaseNumber>
-			<title>Othello (Australia) (Unl)</title>
+			<title>Othello (Australia) (HES) (Unl)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -28028,7 +28716,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1049999909</releaseNumber>
-			<title>Pac-Man (Japan)</title>
+			<title>Pac-Man (Japan) (En)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -28044,7 +28732,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1557866531</releaseNumber>
-			<title>Pac-Man (Japan) (Rev A)</title>
+			<title>Pac-Man (Japan) (En) (Rev A)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -28636,11 +29324,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3924911731</releaseNumber>
-			<title>Peek-A-Boo Poker (Asia) (Ja) (Unl)</title>
+			<title>Peek-A-Boo Poker (USA) (Unl)</title>
 			<saveType></saveType>
 			<romSize>98304</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">E9F16673</romCRC></files>
@@ -28660,54 +29348,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">8F4497EE</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1262537689</releaseNumber>
-			<title>Pegasus 4 in 1 (Unknown) (Unl)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>99</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">4B40CBD9</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1620506702</releaseNumber>
-			<title>Pegasus 5 in 1 (Unknown) (Unl)</title>
-			<saveType></saveType>
-			<romSize>1310720</romSize>
-			<publisher></publisher>
-			<location>99</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">6096F84E</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>4021467112</releaseNumber>
-			<title>Penguin &amp; Seal, The (Asia, Australia) (Unl)</title>
-			<saveType></saveType>
-			<romSize>24576</romSize>
-			<publisher></publisher>
-			<location>19</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">EFB2B7E8</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -28828,7 +29468,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1783115891</releaseNumber>
-			<title>Pesterminator (USA) (Unl)</title>
+			<title>Pesterminator - The Western Exterminator (USA) (Unl)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -28924,7 +29564,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3601682077</releaseNumber>
-			<title>Pinball (Europe) (Rev A)</title>
+			<title>Pinball (Europe)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -28940,11 +29580,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>56476393</releaseNumber>
-			<title>Pinball (World)</title>
+			<title>Pinball (Japan, USA)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>18</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">035DC2E9</romCRC></files>
@@ -29019,22 +29659,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1477782338</releaseNumber>
-			<title>Pipe 5 (Asia) (Ja) (Unl)</title>
-			<saveType></saveType>
-			<romSize>81920</romSize>
-			<publisher></publisher>
-			<location>99</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">58152B42</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>3169286257</releaseNumber>
 			<title>Pipe Dream (USA)</title>
 			<saveType></saveType>
@@ -29044,6 +29668,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">BCE77871</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1477782338</releaseNumber>
+			<title>Pipe V (Asia) (Ja) (Unl)</title>
+			<saveType></saveType>
+			<romSize>81920</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">58152B42</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -29244,7 +29884,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3189236347</releaseNumber>
-			<title>Poker III (Asia) (Ja) (Unl)</title>
+			<title>Poker III (Asia) (Ja) (Alt 2) (Unl)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -29252,6 +29892,38 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">BE17E27B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>432139601</releaseNumber>
+			<title>Poker III (Asia) (Ja) (Unl)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">19C1ED51</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4117589318</releaseNumber>
+			<title>Poker III (Asia) (Ja) (Alt 1) (Unl)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">F56D6D46</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -29324,7 +29996,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1887834058</releaseNumber>
-			<title>Popeye (World) (Rev A)</title>
+			<title>Popeye (World) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -29643,22 +30315,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>298429495</releaseNumber>
-			<title>Princess Tomato in Salad Kingdom (USA) (Beta)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>13</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">11C9AC37</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>1450534421</releaseNumber>
 			<title>Princess Tomato in the Salad Kingdom (USA)</title>
 			<saveType></saveType>
@@ -29668,6 +30324,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">56756615</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>298429495</releaseNumber>
+			<title>Princess Tomato in the Salad Kingdom (USA) (Beta)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>13</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">11C9AC37</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -29916,11 +30588,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2400537101</releaseNumber>
-			<title>Pu Ke Jing Ling (China) (Unl)</title>
+			<title>Pu Ke Jing Ling (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>49152</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">8F154A0D</romCRC></files>
@@ -29996,7 +30668,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1846457406</releaseNumber>
-			<title>Puss n Boots - Pero&#039;s Great Adventure (USA)</title>
+			<title>Puss &#039;n Boots - Pero&#039;s Great Adventure (USA)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -30059,15 +30731,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>799591348</releaseNumber>
-			<title>Puzzle (USA) (Beta) (Unl)</title>
+			<releaseNumber>2908144711</releaseNumber>
+			<title>Puzzle (Asia) (En) (Idea-Tek) (Unl)</title>
 			<saveType></saveType>
-			<romSize>65536</romSize>
+			<romSize>49152</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">2FA8CBB4</romCRC></files>
+			<files><romCRC extension=".nes">AD56C447</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -30084,6 +30756,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">7984AE6D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>817607253</releaseNumber>
+			<title>Puzzle (USA) (Beta) (Unl)</title>
+			<saveType></saveType>
+			<romSize>49152</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">30BBB255</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -30188,7 +30876,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>626105966</releaseNumber>
-			<title>Pyramid - Cleopatra Kikiippatsu (Japan) (Hacker inc.) (Unl)</title>
+			<title>Pyramid - Cleopatra Kikiippatsu (Japan) (Unl)</title>
 			<saveType></saveType>
 			<romSize>98304</romSize>
 			<publisher></publisher>
@@ -30460,7 +31148,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1184046752</releaseNumber>
-			<title>R.C. Pro-Am (Europe) (Rev A)</title>
+			<title>R.C. Pro-Am (Europe) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -30492,7 +31180,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2867669340</releaseNumber>
-			<title>R.C. Pro-Am (USA) (Rev A)</title>
+			<title>R.C. Pro-Am (USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -30532,22 +31220,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">9EDD2159</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>2830162518</releaseNumber>
-			<title>Race America (USA)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">A8B0DA56</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -30636,11 +31308,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>68506563</releaseNumber>
-			<title>Racermate Challenge II (USA) (v3.12.027) (Unl)</title>
+			<title>Racermate Challenge II (USA, Australia) (v3.12.027) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
-			<location>1</location>
+			<location>98</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">041553C3</romCRC></files>
@@ -30756,6 +31428,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">BDE7A7B5</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2177404017</releaseNumber>
+			<title>Rad Racket - Deluxe Tennis II (Asia) (En) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">81C88C71</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -31020,7 +31708,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3239419938</releaseNumber>
-			<title>Rampart (Europe)</title>
+			<title>Rampart (Europe) (Jaleco)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -31036,7 +31724,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1053667831</releaseNumber>
-			<title>Rampart (Japan)</title>
+			<title>Rampart (Japan) (Konami)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -31052,7 +31740,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>645490520</releaseNumber>
-			<title>Rampart (USA)</title>
+			<title>Rampart (USA) (Jaleco)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -31060,22 +31748,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">26796758</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1580651454</releaseNumber>
-			<title>Real Player&#039;s Pak (Australia) (Unl)</title>
-			<saveType></saveType>
-			<romSize>393216</romSize>
-			<publisher></publisher>
-			<location>19</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">5E36D3BE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -31756,7 +32428,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1674817524</releaseNumber>
-			<title>Rockin&#039; Kats (USA) (Beta)</title>
+			<title>Rockin&#039; Kats (USA) (Beta) (06.05.1991)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -31835,6 +32507,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3774868685</releaseNumber>
+			<title>Rockman 4 - Aratanaru Yabou!! (Japan) (Rev A)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">E0FFECCD</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>4259258677</releaseNumber>
 			<title>Rockman 5 - Blues no Wana! (Japan)</title>
 			<saveType></saveType>
@@ -31884,7 +32572,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>581670548</releaseNumber>
-			<title>Rod Land (Europe)</title>
+			<title>Rodland (Europe)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -31900,7 +32588,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>918794554</releaseNumber>
-			<title>Rod Land featuring Rit and Tam (Europe) (Beta)</title>
+			<title>Rodland featuring Rit and Tam (Europe) (Beta)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -32331,22 +33019,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>2948800788</releaseNumber>
-			<title>Safety Rally (Japan)</title>
-			<saveType></saveType>
-			<romSize>163840</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">AFC32114</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>40656842</releaseNumber>
 			<title>Saint Seiya - Ougon Densetsu (Japan)</title>
 			<saveType></saveType>
@@ -32508,11 +33180,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>438992631</releaseNumber>
-			<title>San Guo Zhong Lie Zhuan (China) (Unl)</title>
+			<title>San Guo Zhong Lie Zhuan (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">1A2A7EF7</romCRC></files>
@@ -32604,7 +33276,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4002309459</releaseNumber>
-			<title>Sangokushi II (Japan) (Rev AB)</title>
+			<title>Sangokushi II (Japan) (Rev A)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
@@ -33132,7 +33804,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>252051210</releaseNumber>
-			<title>Seicross (Japan)</title>
+			<title>Seicross (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -33148,7 +33820,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2422213509</releaseNumber>
-			<title>Seicross (Japan) (Rev 1)</title>
+			<title>Seicross (Japan)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -33291,6 +33963,54 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>865351670</releaseNumber>
+			<title>Sesame Street - 123 (USA)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">339437F6</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3960455902</releaseNumber>
+			<title>Sesame Street - ABC (USA)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">EC0FC2DE</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>619629589</releaseNumber>
+			<title>Sesame Street - ABC &amp; 123 (USA)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">24EECC15</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>4259432429</releaseNumber>
 			<title>Sesame Street - Big Bird&#039;s Hide &amp; Speak (USA)</title>
 			<saveType></saveType>
@@ -33307,56 +34027,8 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>865351670</releaseNumber>
-			<title>Sesame Street 123 (USA)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">339437F6</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3960455902</releaseNumber>
-			<title>Sesame Street ABC (USA)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">EC0FC2DE</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>619629589</releaseNumber>
-			<title>Sesame Street ABC &amp; 123 (USA)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">24EECC15</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>1559668782</releaseNumber>
-			<title>Sesame Street Countdown (USA)</title>
+			<title>Sesame Street - Countdown (USA)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -33404,7 +34076,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1889309593</releaseNumber>
-			<title>Shadow Warriors (Europe)</title>
+			<title>Shadow Warriors - Ninja Gaiden (Europe)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -33548,11 +34220,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4065152771</releaseNumber>
-			<title>Shang Gu Shen Jian (China) (Unl)</title>
+			<title>Shang Gu Shen Jian (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">F24D4F03</romCRC></files>
@@ -33660,11 +34332,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2358617759</releaseNumber>
-			<title>Shen Tan Ke Nan (China) (Unl)</title>
+			<title>Shen Tan Ke Nan (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">8C95A69F</romCRC></files>
@@ -33900,7 +34572,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1681244309</releaseNumber>
-			<title>Short Order + Egg-Splode! (USA)</title>
+			<title>Short Order + Eggsplode! (USA)</title>
 			<saveType></saveType>
 			<romSize>98304</romSize>
 			<publisher></publisher>
@@ -34267,6 +34939,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>4257727755</releaseNumber>
+			<title>SimCity (USA) (Proto)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">FDC7C50B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3732817449</releaseNumber>
 			<title>Simpsons, The - Bart vs. the Space Mutants (Europe)</title>
 			<saveType></saveType>
@@ -34507,6 +35195,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3963321159</releaseNumber>
+			<title>Skull &amp; Crossbones (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>196608</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">EC3B7B47</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3833503655</releaseNumber>
 			<title>Sky Destroyer (Japan)</title>
 			<saveType></saveType>
@@ -34556,7 +35260,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2684235605</releaseNumber>
-			<title>Sky Shark (USA) (Rev 0A)</title>
+			<title>Sky Shark (USA)</title>
 			<saveType></saveType>
 			<romSize>196608</romSize>
 			<publisher></publisher>
@@ -34812,7 +35516,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2536318852</releaseNumber>
-			<title>Soccer (Europe) (Rev A)</title>
+			<title>Soccer (Europe)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -34828,11 +35532,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1702852725</releaseNumber>
-			<title>Soccer (World)</title>
+			<title>Soccer (Japan, USA)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>18</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">657F7875</romCRC></files>
@@ -35148,7 +35852,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3848971752</releaseNumber>
-			<title>Sou Setsu Ryuu II - The Revenge (Japan) (Beta)</title>
+			<title>Sou Setsu Ryuu II - The Revenge (Japan) (Sample)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -35284,22 +35988,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">6F6686B0</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>138648917</releaseNumber>
-			<title>Special Tag Team Pro Wrestling (Japan)</title>
-			<saveType></saveType>
-			<romSize>40960</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">08439D55</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -35452,7 +36140,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1191016515</releaseNumber>
-			<title>Splatter House - Wanpaku Graffiti (Japan)</title>
+			<title>Splatterhouse - Wanpaku Graffiti (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -35468,7 +36156,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>180213194</releaseNumber>
-			<title>Spot - The Video Game (Japan)</title>
+			<title>Spot (Japan)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -35612,7 +36300,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1062723648</releaseNumber>
-			<title>Square Deal (Japan) (Beta)</title>
+			<title>Square Deal (Japan) (Sample)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -35660,7 +36348,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3748125345</releaseNumber>
-			<title>Stack-Up (World)</title>
+			<title>Stack-Up ~ Block (World)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -35851,6 +36539,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>4042345548</releaseNumber>
+			<title>Star Soldier (Japan) (Sample)</title>
+			<saveType></saveType>
+			<romSize>49152</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">F0F14C4C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3428138948</releaseNumber>
 			<title>Star Trek - 25th Anniversary (Germany)</title>
 			<saveType></saveType>
@@ -35900,11 +36604,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3542005691</releaseNumber>
-			<title>Star Trek V - The Final Frontier (Unknown) (Proto)</title>
+			<title>Star Trek V - The Final Frontier (USA) (Proto)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">D31EB7BB</romCRC></files>
@@ -36331,6 +37035,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>339604772</releaseNumber>
+			<title>Strike Wolf (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">143DF524</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>222772966</releaseNumber>
 			<title>Study Box (Japan)</title>
 			<saveType></saveType>
@@ -36452,6 +37172,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">015D4555</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1786507319</releaseNumber>
+			<title>Super Adventure Quests (Europe) (Unl)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">6A7BF037</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -36747,15 +37483,15 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>148968279</releaseNumber>
+			<releaseNumber>2218046051</releaseNumber>
 			<title>Super Dyna&#039;mix Badminton (Japan)</title>
 			<saveType></saveType>
-			<romSize>40960</romSize>
+			<romSize>49152</romSize>
 			<publisher></publisher>
 			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
-			<files><romCRC extension=".nes">08E11357</romCRC></files>
+			<files><romCRC extension=".nes">8434B263</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -36796,7 +37532,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2586685574</releaseNumber>
-			<title>Super Mario Bros. (Europe) (Rev A)</title>
+			<title>Super Mario Bros. (Europe)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -36972,7 +37708,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3394849486</releaseNumber>
-			<title>Super Mario Bros. 2 (USA) (Rev A)</title>
+			<title>Super Mario Bros. 2 (USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -37020,7 +37756,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1390589408</releaseNumber>
-			<title>Super Mario Bros. 3 (Japan) (Rev A)</title>
+			<title>Super Mario Bros. 3 (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -37052,7 +37788,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>778240493</releaseNumber>
-			<title>Super Mario Bros. 3 (USA) (Rev A)</title>
+			<title>Super Mario Bros. 3 (USA) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -37516,7 +38252,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>531154084</releaseNumber>
-			<title>Superman (USA)</title>
+			<title>Superman (USA) (Kemco)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -37524,6 +38260,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">1FA8C4A4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1207433312</releaseNumber>
+			<title>Superman (USA) (Proto) (Sunsoft)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">47F7F860</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -37540,22 +38292,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">DE84354A</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1207433312</releaseNumber>
-			<title>Superman (Sunsoft) (USA) (Proto)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">47F7F860</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -37644,7 +38380,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2943048581</releaseNumber>
-			<title>Sweet Home (Japan) (Beta)</title>
+			<title>Sweet Home (Japan) (Sample)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -37755,6 +38491,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1108410695</releaseNumber>
+			<title>Taan Hak Fung Wan - King Tank (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">42110147</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1089284765</releaseNumber>
 			<title>Taboo - The Sixth Sense (USA)</title>
 			<saveType></saveType>
@@ -37780,6 +38532,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">482C79AF</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>138648917</releaseNumber>
+			<title>Tag Team Pro Wrestling Special (Japan) (Sample)</title>
+			<saveType></saveType>
+			<romSize>40960</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">08439D55</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -38107,6 +38875,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2830225873</releaseNumber>
+			<title>Tale, The - Elrond no Eiyuu (Japan) (Beta)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">A8B1D1D1</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>4261991938</releaseNumber>
 			<title>TaleSpin (Europe)</title>
 			<saveType></saveType>
@@ -38187,6 +38971,38 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>545116612</releaseNumber>
+			<title>Tank (Asia) (En) (Caltron) (Unl)</title>
+			<saveType></saveType>
+			<romSize>40960</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">207DD1C4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>4033243964</releaseNumber>
+			<title>Tank (Asia) (En) (Asder) (Unl)</title>
+			<saveType></saveType>
+			<romSize>40960</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">F0666B3C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3032145750</releaseNumber>
 			<title>Tanque (Spain) (Gluk Video) (Unl)</title>
 			<saveType></saveType>
@@ -38204,7 +39020,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>543258410</releaseNumber>
-			<title>Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni... (Japan)</title>
+			<title>Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni (Japan)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -38252,7 +39068,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2478085506</releaseNumber>
-			<title>Target Renegade (USA)</title>
+			<title>Target - Renegade (USA)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -38364,7 +39180,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1625646065</releaseNumber>
-			<title>Tatakai no Banka (Japan) (Rev A)</title>
+			<title>Tatakai no Banka (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -38508,7 +39324,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>642904615</releaseNumber>
-			<title>Tecmo NBA Basketball (USA)</title>
+			<title>Tecmo NBA Basketball (USA) (NES-BK)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -38524,7 +39340,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3666758388</releaseNumber>
-			<title>Tecmo NBA Basketball (USA) (Rev A)</title>
+			<title>Tecmo NBA Basketball (USA) (NES-BK) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>393216</romSize>
 			<publisher></publisher>
@@ -38532,6 +39348,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">DA8E4AF4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3041636030</releaseNumber>
+			<title>Tecmo NBA Basketball (USA) (NES-N7)</title>
+			<saveType></saveType>
+			<romSize>393216</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">B54BAEBE</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -38779,6 +39611,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1225689676</releaseNumber>
+			<title>Teenage Mutant Ninja Turtles 2 - The Manhattan Project (Japan)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">490E8A4C</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>2837544610</releaseNumber>
 			<title>Teenage Mutant Ninja Turtles II - The Arcade Game (USA)</title>
 			<saveType></saveType>
@@ -38812,30 +39660,14 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3181478843</releaseNumber>
-			<title>Teenage Mutant Ninja Turtles II - The Arcade Game (Unknown) (Beta)</title>
+			<title>Teenage Mutant Ninja Turtles II - The Arcade Game (USA) (Sample)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>1</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">BDA183BB</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1225689676</releaseNumber>
-			<title>Teenage Mutant Ninja Turtles II - The Manhattan Project (Japan)</title>
-			<saveType></saveType>
-			<romSize>524288</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">490E8A4C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -39180,7 +40012,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>876379056</releaseNumber>
-			<title>Tetris (USA) (Unl)</title>
+			<title>Tetris (USA) (Tengen) (Unl)</title>
 			<saveType></saveType>
 			<romSize>49152</romSize>
 			<publisher></publisher>
@@ -39212,7 +40044,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3497289021</releaseNumber>
-			<title>Tetris (Bulletproof) (Japan) (Rev A)</title>
+			<title>Tetris (Bulletproof) (Japan) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>49152</romSize>
 			<publisher></publisher>
@@ -39228,7 +40060,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1549408952</releaseNumber>
-			<title>Tetris (Bulletproof) (Japan) (Rev B)</title>
+			<title>Tetris (Bulletproof) (Japan) (Rev 2)</title>
 			<saveType></saveType>
 			<romSize>49152</romSize>
 			<publisher></publisher>
@@ -39404,7 +40236,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>480159068</releaseNumber>
-			<title>Three Stooges, The (USA) (Beta)</title>
+			<title>Three Stooges, The (USA) (Beta) (23.02.1989)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -39579,8 +40411,24 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>480229623</releaseNumber>
+			<title>Time Diver - Avenger (Asia) (En) (Unl)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">1C9FB8F7</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3840394797</releaseNumber>
-			<title>Time Diver Eon Man (USA) (Proto)</title>
+			<title>Time Diver - Eon Man (USA) (Proto)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -39916,7 +40764,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3318736206</releaseNumber>
-			<title>Toki no Tabibito (Japan)</title>
+			<title>Toki no Tabibito - Time Stranger (Japan)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -40043,6 +40891,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2024016853</releaseNumber>
+			<title>Tommy T&#039;S Sound Editor (USA) (Proto) (Program)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">78A40BD5</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1476443693</releaseNumber>
 			<title>Toobin&#039; (USA) (Unl)</title>
 			<saveType></saveType>
@@ -40052,6 +40916,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">5800BE2D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>282164123</releaseNumber>
+			<title>Toobin&#039; (Korea) (Unl)</title>
+			<saveType></saveType>
+			<romSize>196608</romSize>
+			<publisher></publisher>
+			<location>22</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">10D17B9B</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -40315,24 +41195,8 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>1738785634</releaseNumber>
-			<title>Touch Down Fever (Japan)</title>
-			<saveType></saveType>
-			<romSize>163840</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">67A3C362</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>3931027102</releaseNumber>
-			<title>Touch Down Fever (USA)</title>
+			<title>Touchdown Fever (USA)</title>
 			<saveType></saveType>
 			<romSize>163840</romSize>
 			<publisher></publisher>
@@ -40396,7 +41260,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1386949911</releaseNumber>
-			<title>Toukyou Pachi-Slot Adventure (Japan) (Rev 0)</title>
+			<title>Toukyou Pachi-Slot Adventure (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -40747,6 +41611,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>628951493</releaseNumber>
+			<title>Tu Ji (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>131072</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">257D09C5</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>1293809033</releaseNumber>
 			<title>Turbo Racing (Europe)</title>
 			<saveType></saveType>
@@ -40875,6 +41755,38 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>3025792452</releaseNumber>
+			<title>U-Force Power Games (USA) (Proto 1)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">B459EDC4</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3650530126</releaseNumber>
+			<title>U-Force Power Games (USA) (Proto 2) [b]</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">D996AB4E</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>4001259998</releaseNumber>
 			<title>U-Force Test (USA)</title>
 			<saveType></saveType>
@@ -40908,7 +41820,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3607592342</releaseNumber>
-			<title>U.S. Championship V&#039;Ball (Japan) (Beta)</title>
+			<title>U.S. Championship V&#039;Ball (Japan) (Sample)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -40948,38 +41860,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">3D1C3137</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3025792452</releaseNumber>
-			<title>Uforce Power Games (USA) (Proto 1)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">B459EDC4</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>3650530126</releaseNumber>
-			<title>Uforce Power Games (USA) (Proto 2) [b]</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>1</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">D996AB4E</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -41164,11 +42044,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4294820624</releaseNumber>
-			<title>Ultimate League Soccer (Italy) (Unl)</title>
+			<title>Ultimate League Soccer (Europe) (Unl)</title>
 			<saveType></saveType>
 			<romSize>98304</romSize>
 			<publisher></publisher>
-			<location>6</location>
+			<location>0</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">FFFDC310</romCRC></files>
@@ -41308,7 +42188,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>999346462</releaseNumber>
-			<title>Universe Soldiers, The (Unknown) (Unl)</title>
+			<title>Universe Soldiers, The (Asia) (En) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -41372,7 +42252,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>549950955</releaseNumber>
-			<title>Untouchables, The (USA) (Rev B)</title>
+			<title>Untouchables, The (USA) (Rev 2)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -41468,7 +42348,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>549835143</releaseNumber>
-			<title>Utsurun Desu (Japan)</title>
+			<title>Utsurun Desu - Kawauso Hawaii e Iku (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -41532,11 +42412,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>770380472</releaseNumber>
-			<title>Venice Beach Volleyball (Asia) (Ja) (Unl)</title>
+			<title>Venice Beach Volleyball (Asia) (Ja) (Super Mega) (Unl)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>7</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">2DEB12B8</romCRC></files>
@@ -41572,6 +42452,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">C226157D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3647955369</releaseNumber>
+			<title>Venice Beach Volleyball (Asia) (Ja) (TXC) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">D96F61A9</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -41676,7 +42572,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>561396629</releaseNumber>
-			<title>Virus (USA) (Beta) (Between 1990-02-02 &amp; 1990-04-27, earlier)</title>
+			<title>Virus (USA) (Beta) (Between 1990-02-02 &amp; 1990-04-27)</title>
 			<saveType></saveType>
 			<romSize>65536</romSize>
 			<publisher></publisher>
@@ -41819,22 +42715,6 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
-			<releaseNumber>2325143565</releaseNumber>
-			<title>Wai Wai World (Japan)</title>
-			<saveType></saveType>
-			<romSize>262144</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">8A96E00D</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
 			<releaseNumber>2332292941</releaseNumber>
 			<title>Wai Wai World 2 - SOS!! Paseri Jou (Japan)</title>
 			<saveType></saveType>
@@ -41844,6 +42724,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">8B03F74D</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2788976531</releaseNumber>
+			<title>Wai Xing Zhan Shi (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>524288</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">A63C6793</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -41916,11 +42812,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2417299372</releaseNumber>
-			<title>Wang Zi Fu Chou Ji (China) (Unl)</title>
+			<title>Wang Zi Fu Chou Ji (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">90150FAC</romCRC></files>
@@ -41980,7 +42876,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1670233170</releaseNumber>
-			<title>War in the Gulf (Brazil) (CCE, Gluk Video) (Unl)</title>
+			<title>War in the Gulf ~ Guerra del Golfo, La (Brazil, Spain) (CCE, Gluk Video) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -42252,7 +43148,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1109442928</releaseNumber>
-			<title>Wheel of Fortune Starring Vanna White (USA)</title>
+			<title>Wheel of Fortune Featuring Vanna White (USA)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
@@ -42363,6 +43259,22 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>1110685454</releaseNumber>
+			<title>Wild Ball (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>24576</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">4233B70E</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3099176099</releaseNumber>
 			<title>Wild Gunman (Japan, USA)</title>
 			<saveType></saveType>
@@ -42380,7 +43292,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1360190497</releaseNumber>
-			<title>Wild Gunman (World) (Rev A)</title>
+			<title>Wild Gunman (World) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>24576</romSize>
 			<publisher></publisher>
@@ -42468,22 +43380,6 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">F74DFC91</romCRC></files>
-			<im1CRC></im1CRC>
-			<im2CRC></im2CRC>
-			<comment></comment>
-			<duplicateID>0</duplicateID>
-		</game>
-		<game>
-			<imageNumber>1</imageNumber>
-			<releaseNumber>1646361511</releaseNumber>
-			<title>Wing of Madoola, The (Japan) (Sample)</title>
-			<saveType></saveType>
-			<romSize>65536</romSize>
-			<publisher></publisher>
-			<location>7</location>
-			<sourceRom></sourceRom>
-			<language>0</language>
-			<files><romCRC extension=".nes">62217BA7</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -42716,14 +43612,30 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1333060150</releaseNumber>
-			<title>Wonderland Dizzy (Unknown) (Proto) (1993-09-24) (Unl)</title>
+			<title>Wonderland Dizzy (Europe) (En,Fr,Es,Nl,Pt,Pl) (2015) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
-			<location>99</location>
+			<location>0</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">4F74E236</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>745816303</releaseNumber>
+			<title>Wonderland Dizzy (Europe) (En,Fr,Es,Nl,Pt,Pl) (Proto) (1993-09-24) (Unl)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>0</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">2C7440EF</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -42764,7 +43676,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2600841848</releaseNumber>
-			<title>World Champ - Super Boxing Great Fight (Europe)</title>
+			<title>World Champ (Europe)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -42780,7 +43692,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2241062317</releaseNumber>
-			<title>World Champ - Super Boxing Great Fight (USA)</title>
+			<title>World Champ (USA)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -43148,7 +44060,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3015904234</releaseNumber>
-			<title>Xevious (Japan)</title>
+			<title>Xevious (Japan) (En)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
@@ -43211,12 +44123,44 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2621056715</releaseNumber>
+			<title>Xiao Ma Li (Asia) (Nei-Hu) (Unl)</title>
+			<saveType></saveType>
+			<romSize>24576</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">9C3A26CB</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2538276178</releaseNumber>
+			<title>Xiao Ma Li (Asia) (Idea-Tek) (Unl)</title>
+			<saveType></saveType>
+			<romSize>24576</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">974B0552</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>46404664</releaseNumber>
-			<title>Xing He Zhan Shi (China) (Unl)</title>
+			<title>Xing He Zhan Shi (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">02C41438</romCRC></files>
@@ -43228,11 +44172,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3051895962</releaseNumber>
-			<title>Xing Ji Zheng Ba (China) (Unl)</title>
+			<title>Xing Ji Zheng Ba (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>524288</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">B5E83C9A</romCRC></files>
@@ -43244,11 +44188,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3204338816</releaseNumber>
-			<title>Xing Zhan Qing Yuan (China) (Unl)</title>
+			<title>Xing Zhan Qing Yuan (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>1048576</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">BEFE5480</romCRC></files>
@@ -43276,7 +44220,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>42169586</releaseNumber>
-			<title>Yamamura Misa Suspense Series - Kyouto Zai-Tech Satsujin Jiken (Japan)</title>
+			<title>Yamamura Misa Suspense Series - Kyoto Zai-Tech Satsujin Jiken (Japan)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -43284,6 +44228,38 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">028374F2</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2560062865</releaseNumber>
+			<title>Yami no Shigotonin Kage (Japan)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">98977591</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>2948800788</releaseNumber>
+			<title>Yasuda Fire &amp; Marine - Safety Rally (Japan)</title>
+			<saveType></saveType>
+			<romSize>163840</romSize>
+			<publisher></publisher>
+			<location>7</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">AFC32114</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -43323,12 +44299,28 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2562837835</releaseNumber>
+			<title>Ying Lie Qun Xia Zhuan (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>786432</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">98C1CD4B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>3752673126</releaseNumber>
-			<title>Ying Xiong Yuan Yi Jing Chuan Qi (China) (Unl)</title>
+			<title>Ying Xiong Yuan Yi Jing Chuan Qi (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">DFAD3F66</romCRC></files>
@@ -43348,6 +44340,22 @@
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">50D141FC</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>1785708876</releaseNumber>
+			<title>Yo! Noid (USA) (Beta)</title>
+			<saveType></saveType>
+			<romSize>262144</romSize>
+			<publisher></publisher>
+			<location>1</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">6A6FC14C</romCRC></files>
 			<im1CRC></im1CRC>
 			<im2CRC></im2CRC>
 			<comment></comment>
@@ -43436,11 +44444,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>4001434965</releaseNumber>
-			<title>You Ling Xing Dong (China) (Unl)</title>
+			<title>You Ling Xing Dong (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>786432</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">EE810D55</romCRC></files>
@@ -43612,7 +44620,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>2547330054</releaseNumber>
-			<title>Zelda II - The Adventure of Link (Europe) (Rev A)</title>
+			<title>Zelda II - The Adventure of Link (Europe) (Rev 1)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -43628,7 +44636,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>1203151775</releaseNumber>
-			<title>Zelda II - The Adventure of Link (Europe) (Rev B)</title>
+			<title>Zelda II - The Adventure of Link (Europe) (Rev 2)</title>
 			<saveType></saveType>
 			<romSize>262144</romSize>
 			<publisher></publisher>
@@ -43739,6 +44747,38 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2836745149</releaseNumber>
+			<title>Zhan Guo Si Chuan Sheng (Asia) (Nei-Hu) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">A9154BBD</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>710888538</releaseNumber>
+			<title>Zhan Guo Si Chuan Sheng (Asia) (C&amp;E) (Unl)</title>
+			<saveType></saveType>
+			<romSize>65536</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">2A5F4C5A</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>269564239</releaseNumber>
 			<title>Zhen Ben Xi You Ji (Asia) (Ja) (Unl)</title>
 			<saveType></saveType>
@@ -43756,11 +44796,11 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>754309893</releaseNumber>
-			<title>Zhi Li Xiao Zhuang Yuan (China) (Unl)</title>
+			<title>Zhi Li Xiao Zhuang Yuan (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>196608</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">2CF5DB05</romCRC></files>
@@ -43771,12 +44811,44 @@
 		</game>
 		<game>
 			<imageNumber>1</imageNumber>
+			<releaseNumber>2622162905</releaseNumber>
+			<title>Zhong Guo Mahjong (Asia) (Unl)</title>
+			<saveType></saveType>
+			<romSize>24576</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">9C4B07D9</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
+			<releaseNumber>3251832875</releaseNumber>
+			<title>Zhong Guo Xiang Qi - Chinese Chese (Asia) (Ja) (Unl)</title>
+			<saveType></saveType>
+			<romSize>40960</romSize>
+			<publisher></publisher>
+			<location>99</location>
+			<sourceRom></sourceRom>
+			<language>0</language>
+			<files><romCRC extension=".nes">C1D3082B</romCRC></files>
+			<im1CRC></im1CRC>
+			<im2CRC></im2CRC>
+			<comment></comment>
+			<duplicateID>0</duplicateID>
+		</game>
+		<game>
+			<imageNumber>1</imageNumber>
 			<releaseNumber>597258705</releaseNumber>
-			<title>Zhuang Qiu Chuan Shuo Hua Zhuang II - Ball Story (China) (Unl)</title>
+			<title>Zhuang Qiu Chuan Shuo Hua Zhuang II - Ball Story (Asia) (Unl)</title>
 			<saveType></saveType>
 			<romSize>131072</romSize>
 			<publisher></publisher>
-			<location>3</location>
+			<location>99</location>
 			<sourceRom></sourceRom>
 			<language>0</language>
 			<files><romCRC extension=".nes">239971D1</romCRC></files>
@@ -43916,7 +44988,7 @@
 		<game>
 			<imageNumber>1</imageNumber>
 			<releaseNumber>3959756740</releaseNumber>
-			<title>Zunou Senkan Galg (Japan)</title>
+			<title>Zunou Senkan Galg (Japan) (En)</title>
 			<saveType></saveType>
 			<romSize>40960</romSize>
 			<publisher></publisher>
